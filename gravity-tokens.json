@@ -3960,12 +3960,12 @@
         "type": "borderRadius"
       },
       "m": {
-        "value": "0.25rem",
+        "value": "4",
         "comment": "Border radius 2 (4px)",
         "type": "borderRadius"
       },
       "l": {
-        "value": "7.5rem",
+        "value": "50",
         "comment": "Full rounded corners (2x the highest line-height)",
         "type": "borderRadius"
       }
