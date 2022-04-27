@@ -1839,27 +1839,27 @@
     },
     "lineHeights": {
       "s": {
-        "value": "1rem",
+        "value": "16",
         "comment": "16px (Label 4)",
         "type": "lineHeights"
       },
       "m": {
-        "value": "1.25rem",
+        "value": "20",
         "comment": "20px (H4, Body 1, Body 2, Label 2, )",
         "type": "lineHeights"
       },
       "l": {
-        "value": "1.5rem",
+        "value": "24",
         "comment": "24px (H3)",
         "type": "lineHeights"
       },
       "xl": {
-        "value": "2rem",
+        "value": "32",
         "comment": "32px (H2)",
         "type": "lineHeights"
       },
       "2xl": {
-        "value": "2.25rem",
+        "value": "36",
         "comment": "36px (H1)",
         "type": "lineHeights"
       }
@@ -3846,27 +3846,27 @@
     },
     "lineHeights": {
       "s": {
-        "value": "1rem",
+        "value": "16",
         "comment": "16px (Label 4)",
         "type": "lineHeights"
       },
       "m": {
-        "value": "1.25rem",
+        "value": "20",
         "comment": "20px (H4, Body 1, Body 2, Label 2, )",
         "type": "lineHeights"
       },
       "l": {
-        "value": "1.5rem",
+        "value": "24",
         "comment": "24px (H3)",
         "type": "lineHeights"
       },
       "xl": {
-        "value": "2rem",
+        "value": "32",
         "comment": "32px (H2)",
         "type": "lineHeights"
       },
       "2xl": {
-        "value": "2.25rem",
+        "value": "36",
         "comment": "36px (H1)",
         "type": "lineHeights"
       }
