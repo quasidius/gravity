@@ -3602,8 +3602,8 @@
         },
         "border": {
           "default": {
-            "value": "{color.grey.400}",
-            "description": "Grey 400",
+            "value": "{color.grey.300}",
+            "description": "Grey 300",
             "type": "color"
           },
           "hover": {
