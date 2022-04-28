@@ -2999,8 +2999,8 @@
           },
           "text": {
             "default": {
-              "value": "{color.amber.700}",
-              "description": "Amber 700",
+              "value": "{color.amber.500}",
+              "description": "Amber 500",
               "type": "color"
             }
           },
@@ -3052,8 +3052,8 @@
           },
           "text": {
             "default": {
-              "value": "{color.orange.700}",
-              "description": "Orange 700",
+              "value": "{color.orange.500}",
+              "description": "Orange 500",
               "type": "color"
             }
           },
@@ -3105,8 +3105,8 @@
           },
           "text": {
             "default": {
-              "value": "{color.red.700}",
-              "description": "red 700",
+              "value": "{color.red.500}",
+              "description": "red 500",
               "type": "color"
             }
           },
@@ -3158,8 +3158,8 @@
           },
           "text": {
             "default": {
-              "value": "{color.green.700}",
-              "description": "green 700",
+              "value": "{color.green.500}",
+              "description": "green 500",
               "type": "color"
             }
           },
