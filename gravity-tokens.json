@@ -2619,8 +2619,8 @@
                 "type": "color"
               },
               "hover": {
-                "value": "{color.grey.100}",
-                "description": "Grey 100",
+                "value": "{color.grey.50}",
+                "description": "Grey 50",
                 "type": "color"
               },
               "focus": {
@@ -2629,8 +2629,8 @@
                 "type": "color"
               },
               "active": {
-                "value": "{color.grey.200}",
-                "description": "Grey 200",
+                "value": "{color.clear}",
+                "description": "Clear",
                 "type": "color"
               },
               "disabled": {
@@ -2641,13 +2641,13 @@
             },
             "text": {
               "default": {
-                "value": "{color.grey.800}",
-                "description": "Grey 800",
+                "value": "{color.grey.700}",
+                "description": "Grey 700",
                 "type": "color"
               },
               "hover": {
-                "value": "{color.grey.700}",
-                "description": "Grey 700",
+                "value": "{color.grey.800}",
+                "description": "Grey 800",
                 "type": "color"
               },
               "focus": {
@@ -2656,8 +2656,8 @@
                 "type": "color"
               },
               "active": {
-                "value": "{color.grey.900}",
-                "description": "Grey 900",
+                "value": "{color.grey.800}",
+                "description": "Grey 800",
                 "type": "color"
               },
               "disabled": {
@@ -2668,8 +2668,8 @@
             },
             "border": {
               "default": {
-                "value": "{color.grey.800}",
-                "description": "Grey 800",
+                "value": "{color.grey.500}",
+                "description": "Grey 500",
                 "type": "color"
               },
               "hover": {
@@ -2683,8 +2683,8 @@
                 "type": "color"
               },
               "active": {
-                "value": "{color.grey.900}",
-                "description": "Grey 900",
+                "value": "{color.grey.800}",
+                "description": "Grey 800",
                 "type": "color"
               },
               "disabled": {
