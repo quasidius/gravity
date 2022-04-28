@@ -3602,18 +3602,18 @@
         },
         "border": {
           "default": {
-            "value": "{color.grey.300}",
-            "description": "Grey 300",
+            "value": "{color.grey.200}",
+            "description": "Grey 200",
             "type": "color"
           },
           "hover": {
-            "value": "{color.grey.500}",
-            "description": "Grey 500",
+            "value": "{color.grey.400}",
+            "description": "Grey 400",
             "type": "color"
           },
           "active": {
-            "value": "{color.blue.700}",
-            "description": "Blue 700",
+            "value": "{color.blue.500}",
+            "description": "Blue 500",
             "type": "color"
           },
           "focus": {
