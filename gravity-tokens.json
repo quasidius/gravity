@@ -3595,8 +3595,8 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{color.grey.400}",
-            "description": "Grey 400",
+            "value": "{color.grey.500}",
+            "description": "Grey 500",
             "type": "color"
           }
         },
