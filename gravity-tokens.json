@@ -3563,8 +3563,8 @@
             "type": "color"
           },
           "hover": {
-            "value": "{color.grey.50}",
-            "description": "grey 50",
+            "value": "{color.white}",
+            "description": "White",
             "type": "color"
           },
           "active": {
