@@ -3563,40 +3563,40 @@
             "type": "color"
           },
           "hover": {
-            "value": "{color.blue.50}",
-            "description": "Blue 50",
+            "value": "{color.grey.50}",
+            "description": "grey 50",
             "type": "color"
           },
           "active": {
-            "value": "{color.blue.50}",
-            "description": "Blue 50",
+            "value": "{color.white}",
+            "description": "White",
             "type": "color"
           },
           "disabled": {
-            "value": "{color.grey.200}",
-            "description": "Grey 200",
+            "value": "{color.grey.100}",
+            "description": "Grey 100",
             "type": "color"
           }
         },
         "text": {
           "default": {
-            "value": "{color.grey.600}",
-            "description": "Grey 600",
+            "value": "{color.grey.800}",
+            "description": "Grey 800",
             "type": "color"
           },
           "hover": {
-            "value": "{color.blue.300}",
-            "description": "Blue 300",
+            "value": "{color.grey.800}",
+            "description": "Grey 800",
             "type": "color"
           },
           "active": {
-            "value": "{color.blue.700}",
-            "description": "Blue 700",
+            "value": "{color.grey.800}",
+            "description": "Grey 800",
             "type": "color"
           },
           "disabled": {
-            "value": "{color.grey.300}",
-            "description": "Grey 300",
+            "value": "{color.grey.400}",
+            "description": "Grey 400",
             "type": "color"
           }
         },
