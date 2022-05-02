@@ -2668,13 +2668,13 @@
             },
             "border": {
               "default": {
-                "value": "{color.grey.500}",
-                "description": "Grey 500",
+                "value": "{color.grey.300}",
+                "description": "Grey 300",
                 "type": "color"
               },
               "hover": {
-                "value": "{color.grey.700}",
-                "description": "Grey 700",
+                "value": "{color.grey.500}",
+                "description": "Grey 500",
                 "type": "color"
               },
               "focus": {
