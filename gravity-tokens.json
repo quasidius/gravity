@@ -2999,8 +2999,8 @@
           },
           "text": {
             "default": {
-              "value": "{color.amber.500}",
-              "description": "Amber 500",
+              "value": "{color.amber.900}",
+              "description": "Amber 900",
               "type": "color"
             }
           },
@@ -3052,8 +3052,8 @@
           },
           "text": {
             "default": {
-              "value": "{color.orange.500}",
-              "description": "Orange 500",
+              "value": "{color.orange.900}",
+              "description": "Orange 900",
               "type": "color"
             }
           },
@@ -3105,8 +3105,8 @@
           },
           "text": {
             "default": {
-              "value": "{color.red.500}",
-              "description": "red 500",
+              "value": "{color.red.900}",
+              "description": "red 900",
               "type": "color"
             }
           },
@@ -3158,8 +3158,8 @@
           },
           "text": {
             "default": {
-              "value": "{color.green.500}",
-              "description": "green 500",
+              "value": "{color.green.900}",
+              "description": "green 900",
               "type": "color"
             }
           },
@@ -3216,8 +3216,8 @@
           },
           "text": {
             "default": {
-              "value": "{color.blue.500}",
-              "description": "blue 500",
+              "value": "{color.blue.900}",
+              "description": "blue 900",
               "type": "color"
             }
           },
