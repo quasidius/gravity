@@ -1990,59 +1990,59 @@
   "workstation": {
     "spacing": {
       "xs": {
-        "value": "0.25rem",
+        "value": "0.5rem",
         "description": "4px",
         "type": "spacing"
       },
       "s": {
-        "value": "0.5rem",
+        "value": "1rem",
         "description": "8px",
         "type": "spacing"
       },
       "m": {
-        "value": "1rem",
+        "value": "2rem",
         "description": "16px",
         "type": "spacing"
       },
       "l": {
-        "value": "1.5rem",
+        "value": "3rem",
         "description": "24px",
         "type": "spacing"
       },
       "xl": {
-        "value": "2rem",
+        "value": "4rem",
         "description": "32px",
         "type": "spacing"
       },
       "2xl": {
-        "value": "2.5rem",
+        "value": "5rem",
         "description": "40px",
         "type": "spacing"
       },
       "3xl": {
-        "value": "3rem",
+        "value": "6rem",
         "description": "48px",
         "type": "spacing"
       },
       "4xl": {
-        "value": "3.5rem",
+        "value": "7rem",
         "description": "56px",
         "type": "spacing"
       },
       "5xl": {
-        "value": "4rem",
+        "value": "8rem",
         "description": "64px",
         "type": "spacing"
       }
     },
     "sizing": {
       "s": {
-        "value": "40",
+        "value": "64",
         "description": "40px",
         "type": "sizing"
       },
       "m": {
-        "value": "56",
+        "value": "80",
         "description": "56px",
         "type": "sizing"
       }
@@ -3850,37 +3850,37 @@
     },
     "fontSizes": {
       "xs": {
-        "value": "12",
+        "value": "20",
         "comment": "12px (Label 4)",
         "type": "fontSizes"
       },
       "s": {
-        "value": "14",
+        "value": "22",
         "comment": "14px (Body 2, Label 3)",
         "type": "fontSizes"
       },
       "m": {
-        "value": "16",
+        "value": "24",
         "comment": "16px (H4, Body 1, Label 2)",
         "type": "fontSizes"
       },
       "l": {
-        "value": "20",
+        "value": "28",
         "comment": "20px (H3, Label 1)",
         "type": "fontSizes"
       },
       "xl": {
-        "value": "28",
+        "value": "36",
         "comment": "28px (H2)",
         "type": "fontSizes"
       },
       "2xl": {
-        "value": "32",
+        "value": "40",
         "comment": "32px (H1)",
         "type": "fontSizes"
       },
       "3xl": {
-        "value": "64",
+        "value": "72",
         "comment": "64px",
         "type": "fontSizes"
       }
@@ -3974,5 +3974,6 @@
         "type": "boxShadow"
       }
     }
-  }
+  },
+  "$themes": []
 }
