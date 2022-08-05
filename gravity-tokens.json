@@ -2283,55 +2283,55 @@
           "primary": {
             "bg": {
               "default": {
-                "value": "{color.blue.500}",
-                "description": "Blue 500",
+                "value": "{color.white}",
+                "description": "White",
                 "type": "color"
               },
               "hover": {
-                "value": "{color.blue.300}",
-                "description": "Blue 300",
+                "value": "{color.blue.100}",
+                "description": "Blue 100",
                 "type": "color"
               },
               "focus": {
-                "value": "{color.blue.500}",
-                "description": "Blue 500",
+                "value": "{color.blue.100}",
+                "description": "Blue 100",
                 "type": "color"
               },
               "active": {
-                "value": "{color.blue.700}",
-                "description": "Blue 700",
+                "value": "{color.blue.100}",
+                "description": "Blue 100",
                 "type": "color"
               },
               "disabled": {
-                "value": "{color.grey.200}",
-                "description": "Grey 200",
+                "value": "{color.grey.100}",
+                "description": "Grey 100",
                 "type": "color"
               }
             },
             "text": {
               "default": {
-                "value": "{color.white}",
-                "description": "White",
+                "value": "{color.bluegrey.900}",
+                "description": "Bluegray 900",
                 "type": "color"
               },
               "hover": {
-                "value": "{color.white}",
-                "description": "White",
+                "value": "{color.bluegrey.900}",
+                "description": "Bluegray 900",
                 "type": "color"
               },
               "focus": {
-                "value": "{color.white}",
-                "description": "White",
+                "value": "{color.bluegrey.900}",
+                "description": "Bluegray 900",
                 "type": "color"
               },
               "active": {
-                "value": "{color.white}",
-                "description": "White",
+                "value": "{color.bluegrey.900}",
+                "description": "Bluegray 900",
                 "type": "color"
               },
               "disabled": {
-                "value": "{color.grey.300}",
-                "description": "Grey 300",
+                "value": "{color.bluegrey.500}",
+                "description": "Bluegray 500",
                 "type": "color"
               }
             },
