@@ -2366,8 +2366,8 @@
           "secondary": {
             "bg": {
               "default": {
-                "value": "{color.grey.800}",
-                "description": "Grey 800",
+                "value": "{color.grey.400}",
+                "description": "Grey 400",
                 "type": "color"
               },
               "hover": {
