@@ -3924,12 +3924,26 @@
     },
     "boxShadow": {
       "xs": {
-        "value": "0px 4px 4px rgba(17,18,20,0.1)",
+        "value": {
+          "x": "0",
+          "y": "1",
+          "blur": "1",
+          "spread": "0",
+          "color": "rgba(42,61,74,0.2)",
+          "type": "dropShadow"
+        },
         "comment": "Shadow / List view",
         "type": "boxShadow"
       },
       "s": {
-        "value": "0px 4px 8px rgba(17,18,20,0.15)",
+        "value": {
+          "x": "0",
+          "y": "1",
+          "blur": "3",
+          "spread": "0",
+          "color": "rgba(42,61,74,0.2)",
+          "type": "dropShadow"
+        },
         "comment": "Shadow / Default",
         "type": "boxShadow"
       },
