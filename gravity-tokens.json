@@ -4023,18 +4023,25 @@
         "type": "boxShadow"
       },
       "m": {
-        "value": "0px -1px 16px rgba(17,18,20,0.2)",
-        "comment": "Shadow/ Hover",
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "2",
+          "spread": "0",
+          "color": "rgba(0,0,0,0.2)",
+          "type": "dropShadow"
+        },
         "type": "boxShadow"
       },
       "l": {
-        "value": "0px 4px 16px rgba(130,131,133,0.45)",
-        "comment": "Shadow Modal",
-        "type": "boxShadow"
-      },
-      "xl": {
-        "value": "6px 6px 10px rgba(17,18,20,0.1)",
-        "comment": "Shadow / Side panel",
+        "value": {
+          "x": "0",
+          "y": "3",
+          "blur": "9",
+          "spread": "0",
+          "color": "rgba(42,61,74,0.2)",
+          "type": "dropShadow"
+        },
         "type": "boxShadow"
       }
     }
