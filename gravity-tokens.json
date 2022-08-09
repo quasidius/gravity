@@ -2250,6 +2250,11 @@
           "description": "#CCEAFF",
           "type": "color"
         },
+        "200": {
+          "value": "#C6D1D9",
+          "description": "#C6D1D9",
+          "type": "color"
+        },
         "300": {
           "value": "#99D5FF",
           "description": "#99D5FF",
