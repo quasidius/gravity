@@ -3901,6 +3901,11 @@
         "value": "36",
         "comment": "36px (H1)",
         "type": "lineHeights"
+      },
+      "3xl": {
+        "value": "48",
+        "comment": "36px (H1)",
+        "type": "lineHeights"
       }
     },
     "fontSizes": {
@@ -3935,7 +3940,7 @@
         "type": "fontSizes"
       },
       "3xl": {
-        "value": "64",
+        "value": "40",
         "comment": "64px",
         "type": "fontSizes"
       }
