@@ -3935,7 +3935,7 @@
         "type": "fontSizes"
       },
       "2xl": {
-        "value": "38",
+        "value": "32",
         "comment": "32px (H1)",
         "type": "fontSizes"
       },
