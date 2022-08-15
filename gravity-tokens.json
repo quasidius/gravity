@@ -4059,6 +4059,17 @@
           "type": "dropShadow"
         },
         "type": "boxShadow"
+      },
+      "2xl": {
+        "value": {
+          "x": " ",
+          "y": "0",
+          "blur": "40",
+          "spread": "0",
+          "color": "rgba(0,0,0,0.18)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
       }
     }
   },
