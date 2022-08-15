@@ -2011,7 +2011,7 @@
       },
       "l": {
         "value": "1.5rem",
-        "description": "24px",
+        "description": "20px",
         "type": "spacing"
       },
       "xl": {
