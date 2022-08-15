@@ -2015,8 +2015,8 @@
         "type": "spacing"
       },
       "xl": {
-        "value": "2rem",
-        "description": "32px",
+        "value": "1.5rem",
+        "description": "24px",
         "type": "spacing"
       },
       "2xl": {
