@@ -2020,8 +2020,8 @@
         "type": "spacing"
       },
       "2xl": {
-        "value": "2.5rem",
-        "description": "40px",
+        "value": "2rem",
+        "description": "32px",
         "type": "spacing"
       },
       "3xl": {
