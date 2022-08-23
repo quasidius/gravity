@@ -2237,6 +2237,11 @@
           "value": "#FFCC00",
           "description": "#FFCC00",
           "type": "color"
+        },
+        "900": {
+          "value": "#f2a73d",
+          "description": "#f2a73d",
+          "type": "color"
         }
       },
       "blue": {
