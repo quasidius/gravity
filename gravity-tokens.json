@@ -1850,11 +1850,16 @@
         "type": "lineHeights"
       },
       "xl": {
+        "value": "28",
+        "comment": "28px",
+        "type": "lineHeights"
+      },
+      "2xl": {
         "value": "32",
         "comment": "32px (H2)",
         "type": "lineHeights"
       },
-      "2xl": {
+      "3xl": {
         "value": "36",
         "comment": "36px (H1)",
         "type": "lineHeights"
