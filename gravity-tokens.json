@@ -1887,8 +1887,8 @@
         "type": "fontSizes"
       },
       "xl": {
-        "value": "28",
-        "comment": "28px (H2)",
+        "value": "24",
+        "comment": "24px (H2)",
         "type": "fontSizes"
       },
       "2xl": {
