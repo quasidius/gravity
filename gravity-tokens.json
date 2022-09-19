@@ -1983,10 +1983,10 @@
       "xs": {
         "value": {
           "x": "0",
-          "y": "1",
-          "blur": "1",
+          "y": "4",
+          "blur": "4",
           "spread": "0",
-          "color": "rgba(42,61,74,0.2)",
+          "color": "rgba(0,0,0,0.25)",
           "type": "dropShadow"
         },
         "comment": "Shadow / List view",
@@ -1995,10 +1995,10 @@
       "s": {
         "value": {
           "x": "0",
-          "y": "1",
-          "blur": "3",
+          "y": "4",
+          "blur": "8",
           "spread": "0",
-          "color": "rgba(42,61,74,0.2)",
+          "color": "rgba(41,45,48,0.16)",
           "type": "dropShadow"
         },
         "comment": "Shadow / Default",
@@ -2007,10 +2007,10 @@
       "m": {
         "value": {
           "x": "0",
-          "y": "0",
-          "blur": "2",
+          "y": "8",
+          "blur": "16",
           "spread": "0",
-          "color": "rgba(0,0,0,0.2)",
+          "color": "rgba(41,45,48,0.16)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -2018,10 +2018,10 @@
       "l": {
         "value": {
           "x": "0",
-          "y": "3",
-          "blur": "9",
+          "y": "16",
+          "blur": "24",
           "spread": "0",
-          "color": "rgba(42,61,74,0.2)",
+          "color": "rgba(41,45,48,0.16)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -2029,21 +2029,10 @@
       "xl": {
         "value": {
           "x": "2",
-          "y": "0",
-          "blur": "0",
+          "y": "24",
+          "blur": "32",
           "spread": "0",
-          "color": "rgba(0,0,0,0.1)",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "2xl": {
-        "value": {
-          "x": "0",
-          "y": "0",
-          "blur": "40",
-          "spread": "0",
-          "color": "rgba(0,0,0,0.18)",
+          "color": "rgba(41,45,48,0.16)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
