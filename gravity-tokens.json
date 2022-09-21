@@ -2042,6 +2042,10 @@
         },
         "type": "boxShadow"
       }
+    },
+    "rewre": {
+      "value": "0.1",
+      "type": "opacity"
     }
   },
   "vibesux": {
@@ -6123,5 +6127,12 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "vibesux",
+      "workstation"
+    ]
+  }
 }
