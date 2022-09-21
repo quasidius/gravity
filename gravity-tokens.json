@@ -1951,6 +1951,15 @@
         "type": "fontFamilies"
       }
     },
+    "Test": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.regular}",
+        "lineHeight": "{lineHeights.l}",
+        "fontSize": "{fontSizes.m}"
+      },
+      "type": "typography"
+    },
     "borderWidth": {
       "s": {
         "value": "1",
@@ -2042,10 +2051,6 @@
         },
         "type": "boxShadow"
       }
-    },
-    "rewre": {
-      "value": "0.1",
-      "type": "opacity"
     }
   },
   "vibesux": {
