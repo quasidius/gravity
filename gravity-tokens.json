@@ -2227,6 +2227,18 @@
         "type": "borderRadius"
       }
     },
+    "opacity": {
+      "normal": {
+        "value": "100%",
+        "comment": "Default",
+        "type": "opacity"
+      },
+      "overlay": {
+        "value": "15%",
+        "comment": "Overlay",
+        "type": "opacity"
+      }
+    },
     "boxShadow": {
       "xs": {
         "value": {
