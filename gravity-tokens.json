@@ -2012,7 +2012,7 @@
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.regular}",
         "lineHeight": "{lineHeights.l}",
-        "fontSize": "{fontSizes.s}",
+        "fontSize": "{fontSizes.m}",
         "textCase": "{textCase.normal}"
       },
       "type": "typography",
@@ -2023,7 +2023,7 @@
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.medium}",
         "lineHeight": "{lineHeights.l}",
-        "fontSize": "{fontSizes.s}",
+        "fontSize": "{fontSizes.m}",
         "textCase": "{textCase.normal}"
       },
       "type": "typography",
@@ -2034,7 +2034,7 @@
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.bold}",
         "lineHeight": "{lineHeights.l}",
-        "fontSize": "{fontSizes.s}",
+        "fontSize": "{fontSizes.m}",
         "textCase": "{textCase.normal}"
       },
       "type": "typography",
@@ -2045,7 +2045,7 @@
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.bold}",
         "lineHeight": "{lineHeights.l}",
-        "fontSize": "{fontSizes.s}",
+        "fontSize": "{fontSizes.m}",
         "textCase": "{textCase.uppercase}"
       },
       "type": "typography",
