@@ -1944,6 +1944,18 @@
         "type": "fontWeights"
       }
     },
+    "textCase": {
+      "normal": {
+        "value": "none",
+        "comment": "default",
+        "type": "textCase"
+      },
+      "uppercase": {
+        "value": "uppercase",
+        "comment": "All caps",
+        "type": "textCase"
+      }
+    },
     "fontFamilies": {
       "primary": {
         "value": "Roboto",
@@ -1951,14 +1963,203 @@
         "type": "fontFamilies"
       }
     },
-    "Test": {
+    "TextCaption": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.regular}",
+        "lineHeight": "{lineHeights.s}",
+        "fontSize": "{fontSizes.xs}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "This is caption text, regular weight. It is used as captions and timestamps ex: 7 minutes ago."
+    },
+    "TextCaptionMedium": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.medium}",
+        "lineHeight": "{lineHeights.s}",
+        "fontSize": "{fontSizes.xs}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "This is caption text, medium weight. This style is used in Badges and links"
+    },
+    "TextCaptionBold": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.bold}",
+        "lineHeight": "{lineHeights.s}",
+        "fontSize": "{fontSizes.xs}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "This is caption text, medium weight. This style is used in Badges and links"
+    },
+    "TextCaptionBoldCaps": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.bold}",
+        "lineHeight": "{lineHeights.s}",
+        "fontSize": "{fontSizes.xs}",
+        "textCase": "{textCase.uppercase}"
+      },
+      "type": "typography",
+      "comment": "This is caption text, medium weight. This style is used in Badges and links"
+    },
+    "TextBody": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.regular}",
         "lineHeight": "{lineHeights.l}",
-        "fontSize": "{fontSizes.m}"
+        "fontSize": "{fontSizes.s}",
+        "textCase": "{textCase.normal}"
       },
-      "type": "typography"
+      "type": "typography",
+      "comment": "This is Body 1, in regular weight. It is a primary size for copy in a side panel, atoms and molecule components such as chips, selections. text in modal and  lists ..."
+    },
+    "TextBodyMedium": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.medium}",
+        "lineHeight": "{lineHeights.l}",
+        "fontSize": "{fontSizes.s}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "This is Body 1 in medium weight, which is predominately used in Accordion header, and links"
+    },
+    "TextBodyBold": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.bold}",
+        "lineHeight": "{lineHeights.l}",
+        "fontSize": "{fontSizes.s}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "This is Body 1 in bold weight. Used as a Section title in the side panel, Modular accordion header paired with icon, selections"
+    },
+    "TextBodyBoldCaps": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.bold}",
+        "lineHeight": "{lineHeights.l}",
+        "fontSize": "{fontSizes.s}",
+        "textCase": "{textCase.uppercase}"
+      },
+      "type": "typography",
+      "comment": "This is Body 1 in bold weight. Used as a Section title in the side panel, Modular accordion header paired with icon, selections"
+    },
+    "TextBody2": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.regular}",
+        "lineHeight": "{lineHeights.l}",
+        "fontSize": "{fontSizes.s}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "This is Body 2, a secondary size for paragraphs of text. This style is used in Legend, Snack bar, Search, Table rows, Side panel sub header (when stacked by XL)"
+    },
+    "TextBody2Medium": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.medium}",
+        "lineHeight": "{lineHeights.l}",
+        "fontSize": "{fontSizes.s}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "This is Body 2, in medium weight. This style is used in Tags, Timeline, Search list item, Card ID and links"
+    },
+    "TextBody2Bold": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.bold}",
+        "lineHeight": "{lineHeights.l}",
+        "fontSize": "{fontSizes.s}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "This is Body 2, in bold weight.This style is used in Banner, breadcrumbs ..."
+    },
+    "TextBody2BoldCaps": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.bold}",
+        "lineHeight": "{lineHeights.l}",
+        "fontSize": "{fontSizes.s}",
+        "textCase": "{textCase.uppercase}"
+      },
+      "type": "typography",
+      "comment": "This is Body 2, in bold weight.This style is used in Banner, breadcrumbs ..."
+    },
+    "TextHeader": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.regular}",
+        "lineHeight": "{lineHeights.3xl}",
+        "fontSize": "{fontSizes.2xl}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "Header 1, regular"
+    },
+    "TextHeaderMedium": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.medium}",
+        "lineHeight": "{lineHeights.3xl}",
+        "fontSize": "{fontSizes.2xl}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "Header 1 medium "
+    },
+    "TextHeaderBold": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.bold}",
+        "lineHeight": "{lineHeights.3xl}",
+        "fontSize": "{fontSizes.2xl}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "Header 1, bold Page title"
+    },
+    "TextHeader2": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.regular}",
+        "lineHeight": "{lineHeights.2xl}",
+        "fontSize": "{fontSizes.xl}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "Header 2, regular"
+    },
+    "TextHeader2Medium": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.medium}",
+        "lineHeight": "{lineHeights.2xl}",
+        "fontSize": "{fontSizes.xl}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "Header 2, medium. Used in side panel header"
+    },
+    "TextHeader2Bold": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.bold}",
+        "lineHeight": "{lineHeights.2xl}",
+        "fontSize": "{fontSizes.xl}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "Header 2, bold. Used in modal and header paired with sub title"
     },
     "borderWidth": {
       "s": {
