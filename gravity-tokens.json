@@ -2161,6 +2161,39 @@
       "type": "typography",
       "comment": "Header 2, bold. Used in modal and header paired with sub title"
     },
+    "TextHeader3": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.regular}",
+        "lineHeight": "{lineHeights.l}",
+        "fontSize": "{fontSizes.l}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "Header 2, regular"
+    },
+    "TextHeader3Medium": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.medium}",
+        "lineHeight": "{lineHeights.l}",
+        "fontSize": "{fontSizes.l}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "Header 2, regular"
+    },
+    "TextHeader3Bold": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.bold}",
+        "lineHeight": "{lineHeights.l}",
+        "fontSize": "{fontSizes.l}",
+        "textCase": "{textCase.normal}"
+      },
+      "type": "typography",
+      "comment": "Header 2, regular"
+    },
     "borderWidth": {
       "s": {
         "value": "1",
