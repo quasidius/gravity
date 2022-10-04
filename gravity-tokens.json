@@ -1963,7 +1963,7 @@
         "type": "fontFamilies"
       }
     },
-    "TextCaption": {
+    "Caption": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.regular}",
@@ -1974,7 +1974,7 @@
       "type": "typography",
       "comment": "This is caption text, regular weight. It is used as captions and timestamps ex: 7 minutes ago."
     },
-    "TextCaptionMedium": {
+    "CaptionMedium": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.medium}",
@@ -1985,7 +1985,7 @@
       "type": "typography",
       "comment": "This is caption text, medium weight. This style is used in Badges and links"
     },
-    "TextCaptionBold": {
+    "CaptionBold": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.bold}",
@@ -1996,7 +1996,7 @@
       "type": "typography",
       "comment": "This is caption text, medium weight. This style is used in Badges and links"
     },
-    "TextCaptionBoldCaps": {
+    "CaptionBoldCaps": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.bold}",
@@ -2007,7 +2007,7 @@
       "type": "typography",
       "comment": "This is caption text, medium weight. This style is used in Badges and links"
     },
-    "TextBody": {
+    "Body": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.regular}",
@@ -2018,7 +2018,7 @@
       "type": "typography",
       "comment": "This is Body 1, in regular weight. It is a primary size for copy in a side panel, atoms and molecule components such as chips, selections. text in modal and  lists ..."
     },
-    "TextBodyMedium": {
+    "BodyMedium": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.medium}",
@@ -2029,7 +2029,7 @@
       "type": "typography",
       "comment": "This is Body 1 in medium weight, which is predominately used in Accordion header, and links"
     },
-    "TextBodyBold": {
+    "BodyBold": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.bold}",
@@ -2040,7 +2040,7 @@
       "type": "typography",
       "comment": "This is Body 1 in bold weight. Used as a Section title in the side panel, Modular accordion header paired with icon, selections"
     },
-    "TextBodyBoldCaps": {
+    "BodyBoldCaps": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.bold}",
@@ -2051,7 +2051,7 @@
       "type": "typography",
       "comment": "This is Body 1 in bold weight. Used as a Section title in the side panel, Modular accordion header paired with icon, selections"
     },
-    "TextBody2": {
+    "Body2": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.regular}",
@@ -2062,7 +2062,7 @@
       "type": "typography",
       "comment": "This is Body 2, a secondary size for paragraphs of text. This style is used in Legend, Snack bar, Search, Table rows, Side panel sub header (when stacked by XL)"
     },
-    "TextBody2Medium": {
+    "Body2Medium": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.medium}",
@@ -2073,7 +2073,7 @@
       "type": "typography",
       "comment": "This is Body 2, in medium weight. This style is used in Tags, Timeline, Search list item, Card ID and links"
     },
-    "TextBody2Bold": {
+    "Body2Bold": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.bold}",
@@ -2084,7 +2084,7 @@
       "type": "typography",
       "comment": "This is Body 2, in bold weight.This style is used in Banner, breadcrumbs ..."
     },
-    "TextBody2BoldCaps": {
+    "Body2BoldCaps": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.bold}",
@@ -2095,7 +2095,7 @@
       "type": "typography",
       "comment": "This is Body 2, in bold weight.This style is used in Banner, breadcrumbs ..."
     },
-    "TextHeader": {
+    "Header": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.regular}",
@@ -2106,7 +2106,7 @@
       "type": "typography",
       "comment": "Header 1, regular"
     },
-    "TextHeaderMedium": {
+    "HeaderMedium": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.medium}",
@@ -2117,7 +2117,7 @@
       "type": "typography",
       "comment": "Header 1 medium "
     },
-    "TextHeaderBold": {
+    "HeaderBold": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.bold}",
@@ -2128,7 +2128,7 @@
       "type": "typography",
       "comment": "Header 1, bold Page title"
     },
-    "TextHeader2": {
+    "Header2": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.regular}",
@@ -2139,7 +2139,7 @@
       "type": "typography",
       "comment": "Header 2, regular"
     },
-    "TextHeader2Medium": {
+    "Header2Medium": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.medium}",
@@ -2150,7 +2150,7 @@
       "type": "typography",
       "comment": "Header 2, medium. Used in side panel header"
     },
-    "TextHeader2Bold": {
+    "Header2Bold": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.bold}",
@@ -2161,7 +2161,7 @@
       "type": "typography",
       "comment": "Header 2, bold. Used in modal and header paired with sub title"
     },
-    "TextHeader3": {
+    "Header3": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.regular}",
@@ -2172,7 +2172,7 @@
       "type": "typography",
       "comment": "Header 2, regular"
     },
-    "TextHeader3Medium": {
+    "Header3Medium": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.medium}",
@@ -2183,7 +2183,7 @@
       "type": "typography",
       "comment": "Header 2, regular"
     },
-    "TextHeader3Bold": {
+    "Header3Bold": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
         "fontWeight": "{fontWeights.bold}",
