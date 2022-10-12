@@ -2234,7 +2234,7 @@
         "type": "opacity"
       },
       "overlay": {
-        "value": "15%",
+        "value": "50%",
         "comment": "Overlay",
         "type": "opacity"
       }
