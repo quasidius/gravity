@@ -1985,6 +1985,17 @@
       "type": "typography",
       "comment": "This is caption text, medium weight. This style is used in Badges and links"
     },
+    "CaptionMediumCaps": {
+      "value": {
+        "fontFamily": "{fontFamilies.primary}",
+        "fontWeight": "{fontWeights.medium}",
+        "lineHeight": "{lineHeights.s}",
+        "fontSize": "{fontSizes.xs}",
+        "textCase": "{textCase.uppercase}"
+      },
+      "type": "typography",
+      "comment": "This is caption text, medium weight. This style is used in Badges and links"
+    },
     "CaptionBold": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
