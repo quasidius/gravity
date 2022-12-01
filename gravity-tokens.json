@@ -48,6 +48,16 @@
       }
     },
     "sizing": {
+      "xs": {
+        "value": "16",
+        "type": "sizing",
+        "description": "16px"
+      },
+      "s": {
+        "value": "24",
+        "type": "sizing",
+        "description": "24px"
+      },
       "m": {
         "value": "32",
         "type": "sizing",
