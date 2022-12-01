@@ -49,9 +49,9 @@
     },
     "sizing": {
       "xs": {
-        "value": "16",
+        "value": "18",
         "type": "sizing",
-        "description": "16px"
+        "description": "18px"
       },
       "s": {
         "value": "24",
