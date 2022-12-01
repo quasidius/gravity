@@ -48,20 +48,20 @@
       }
     },
     "sizing": {
-      "xs": {
-        "value": "32",
-        "description": "32px",
-        "type": "sizing"
-      },
-      "s": {
-        "value": "40",
-        "description": "40px",
-        "type": "sizing"
-      },
       "m": {
+        "value": "32",
+        "type": "sizing",
+        "description": "32px"
+      },
+      "l": {
+        "value": "40",
+        "type": "sizing",
+        "description": "40px"
+      },
+      "xl": {
         "value": "56",
-        "description": "56px",
-        "type": "sizing"
+        "type": "sizing",
+        "description": "56px"
       }
     },
     "color": {
