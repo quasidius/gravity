@@ -569,9 +569,11 @@
                 "type": "color"
             },
             "primary": {
-                "value": "{palette.primary50}",
-                "description": "Color Primary (Primary interactive elements BG)",
-                "type": "color",
+                "default": {
+                    "value": "{palette.primary50}",
+                    "description": "Color Primary (Primary interactive elements BG)",
+                    "type": "color",
+                },
                 "hover": {
                     "value": "{palette.primary40}",
                     "description": "Color Primary Hover (Primary interactive elements hovered BG)",
@@ -599,9 +601,11 @@
                 "type": "color"
             },
             "secondary": {
-                "value": "{palette.secondary80}",
-                "description": "Color Secondary (Secondary interactive elements BG)",
-                "type": "color",
+                "default": {
+                    "value": "{palette.secondary80}",
+                    "description": "Color Secondary (Secondary interactive elements BG)",
+                    "type": "color",
+                },
                 "hover": {
                     "value": "{palette.secondary70}",
                     "description": "Color Secondary Hover (Secondary interactive elements hovered BG)",
@@ -1820,9 +1824,11 @@
                 "type": "color"
             },
             "primary": {
-                "value": "{palette.primary50}",
-                "description": "Color Primary (Primary interactive elements BG)",
-                "type": "color",
+                "default" : {
+                    "value": "{palette.primary50}",
+                    "description": "Color Primary (Primary interactive elements BG)",
+                    "type": "color",
+                },
                 "hover": {
                     "value": "{palette.primary40}",
                     "description": "Color Primary Hover (Primary interactive elements hovered BG)",
@@ -1850,9 +1856,11 @@
                 "type": "color"
             },
             "secondary": {
-                "value": "{palette.secondary80}",
-                "description": "Color Secondary (Secondary interactive elements BG)",
-                "type": "color",
+                "default": {
+                    "value": "{palette.secondary80}",
+                    "description": "Color Secondary (Secondary interactive elements BG)",
+                    "type": "color",
+                },
                 "hover": {
                     "value": "{palette.secondary70}",
                     "description": "Color Secondary Hover (Secondary interactive elements hovered BG)",
