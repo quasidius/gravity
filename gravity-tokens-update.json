@@ -1,1251 +1,1253 @@
 {   
-    "palette": {
-        "clear": {
-            "value": "rgba(255,255,255,0)",
-            "description": "Palette Reference Clear",
-            "type": "palette"
+    "global" : {
+        "palette": {
+            "clear": {
+                "value": "rgba(255,255,255,0)",
+                "description": "Palette Reference Clear",
+                "type": "palette"
+            },
+            "grey": {
+                "value": "#969AA1",
+                "description": "Palette Reference White",
+                "type": "palette"
+            },
+            "blue": {
+                "value": "#298AFF",
+                "description": "Palette Reference Blue",
+                "type": "palette"
+            },
+            "green": {
+                "value": "#26A95C",
+                "description": "Palette Reference Green",
+                "type": "palette"
+            }, 
+            "amber": {
+                "value": "#FBAC28",
+                "description": "Palette Reference Amber",
+                "type": "palette"
+            },
+            "red": {
+                "value": "#CC2626",
+                "description": "Palette Reference Red",
+                "type": "palette"
+            },
+            "orange": {
+                "value": "#EF7B10",
+                "description": "Palette Reference Orange",
+                "type": "palette"
+            },
+            "neutral0": {
+                "value": "#ffffff",
+                "description": "Palette Neutral 0",
+                "type": "palette"
+            },
+            "neutral5": {
+                "value": "#FBFBFB",
+                "description": "Palette Neutral 5",
+                "type": "palette"
+            },
+            "neutral10": {
+                "value": "#F1F2F3",
+                "description": "Palette Neutral 10",
+                "type": "palette"
+            },
+            "neutral20": {
+                "value": "#E1E2E5",
+                "description": "Palette Neutral 20",
+                "type": "palette"
+            },
+            "neutral30": {
+                "value": "#D1D3D6",
+                "description": "Palette Neutral 30",
+                "type": "palette"
+            },
+            "neutral40": {
+                "value": "#B3B6BC",
+                "description": "Palette Neutral 40",
+                "type": "palette"
+            },
+            "neutral50": {
+                "value": "{palette.grey}",
+                "description": "Palette Neutral 50",
+                "type": "palette"
+            },
+            "neutral60": {
+                "value": "#737882",
+                "description": "Palette Neutral 60",
+                "type": "palette"
+            },
+            "neutral70": {
+                "value": "#5B5F67",
+                "description": "Palette Neutral 70",
+                "type": "palette"
+            },
+            "neutral80": {
+                "value": "#393C41",
+                "description": "Palette Neutral 80",
+                "type": "palette"
+            },
+            "neutral90": {
+                "value": "#2B2D31",
+                "description": "Palette Neutral 90",
+                "type": "palette"
+            },
+            "neutral100": {
+                "value": "#000000",
+                "description": "Palette Neutral 100",
+                "type": "palette"
+            },
+            "primary0": {
+                "value": "#ffffff",
+                "description": "Palette Primary 0",
+                "type": "palette"
+            },
+            "primary5": {
+                "value": "#E6F3FF",
+                "description": "Palette Primary 5",
+                "type": "palette"
+            },
+            "primary10": {
+                "value": "#B8DCFF",
+                "description": "Palette Primary 10",
+                "type": "palette"
+            },
+            "primary20": {
+                "value": "#8AC7FF",
+                "description": "Palette Primary 20",
+                "type": "palette"
+            },
+            "primary30": {
+                "value": "#60B2FF",
+                "description": "Palette Primary 30",
+                "type": "palette"
+            },
+            "primary40": {
+                "value": "#429EFF",
+                "description": "Palette Primary 40",
+                "type": "palette"
+            },
+            "primary50": {
+                "value": "{palette.blue}",
+                "description": "Palette Primary 50",
+                "type": "palette"
+            },
+            "primary60": {
+                "value": "#2271F2",
+                "description": "Palette Primary 60",
+                "type": "palette"
+            },
+            "primary70": {
+                "value": "#1F65D9",
+                "description": "Palette Primary 70",
+                "type": "palette"
+            },
+            "primary80": {
+                "value": "#1953B3",
+                "description": "Palette Primary 80",
+                "type": "palette"
+            },
+            "primary90": {
+                "value": "#14418C",
+                "description": "Palette Primary 90",
+                "type": "palette"
+            },
+            "primary100": {
+                "value": "#000000",
+                "description": "Palette Primary 100",
+                "type": "palette"
+            },
+            "secondary0": {
+                "value": "#ffffff",
+                "description": "Palette Secondary 0",
+                "type": "palette"
+            },
+            "secondary5": {
+                "value": "#FBFBFB",
+                "description": "Palette Secondary 5",
+                "type": "palette"
+            },
+            "secondary10": {
+                "value": "#F1F2F3",
+                "description": "Palette Secondary 10",
+                "type": "palette"
+            },
+            "secondary20": {
+                "value": "#E1E2E5",
+                "description": "Palette Secondary 20",
+                "type": "palette"
+            },
+            "secondary30": {
+                "value": "#D1D3D6",
+                "description": "Palette Secondary 30",
+                "type": "palette"
+            },
+            "secondary40": {
+                "value": "#B3B6BC",
+                "description": "Palette Secondary 40",
+                "type": "palette"
+            },
+            "secondary50": {
+                "value": "{palette.grey}",
+                "description": "Palette Secondary 50",
+                "type": "palette"
+            },
+            "secondary60": {
+                "value": "#737882",
+                "description": "Palette Secondary 60",
+                "type": "palette"
+            },
+            "secondary70": {
+                "value": "#5B5F67",
+                "description": "Palette Secondary 70",
+                "type": "palette"
+            },
+            "secondary80": {
+                "value": "#393C41",
+                "description": "Palette Secondary 80",
+                "type": "palette"
+            },
+            "secondary90": {
+                "value": "#2B2D31",
+                "description": "Palette Secondary 90",
+                "type": "palette"
+            },
+            "secondary100": {
+                "value": "#000000",
+                "description": "Palette Secondary 100",
+                "type": "palette"
+            },
+            "info0": {
+                "value": "#ffffff",
+                "description": "Palette Info 0",
+                "type": "palette"
+            },
+            "info5": {
+                "value": "#E6F3FF",
+                "description": "Palette Info 5",
+                "type": "palette"
+            },
+            "info10": {
+                "value": "#B8DCFF",
+                "description": "Palette Info 10",
+                "type": "palette"
+            },
+            "info20": {
+                "value": "#8AC7FF",
+                "description": "Palette Info 20",
+                "type": "palette"
+            },
+            "info30": {
+                "value": "#60B2FF",
+                "description": "Palette Info 30",
+                "type": "palette"
+            },
+            "info40": {
+                "value": "#429EFF",
+                "description": "Palette Info 40",
+                "type": "palette"
+            },
+            "info50": {
+                "value": "{palette.blue}",
+                "description": "Palette Info 50",
+                "type": "palette"
+            },
+            "info60": {
+                "value": "#2271F2",
+                "description": "Palette Info 60",
+                "type": "palette"
+            },
+            "info70": {
+                "value": "#1F65D9",
+                "description": "Palette Info 70",
+                "type": "palette"
+            },
+            "info80": {
+                "value": "#1953B3",
+                "description": "Palette Info 80",
+                "type": "palette"
+            },
+            "info90": {
+                "value": "#14418C",
+                "description": "Palette Info 90",
+                "type": "palette"
+            },
+            "info100": {
+                "value": "#000000",
+                "description": "Palette Info 100",
+                "type": "palette"
+            },
+            "success0": {
+                "value": "#ffffff",
+                "description": "Palette Success 0",
+                "type": "palette"
+            },
+            "success5": {
+                "value": "#E9F6EE",
+                "description": "Palette Success 5",
+                "type": "palette"
+            },
+            "success10": {
+                "value": "#D4EEDE",
+                "description": "Palette Success 10",
+                "type": "palette"
+            },
+            "success20": {
+                "value": "#A8DDBC",
+                "description": "Palette Success 20",
+                "type": "palette"
+            },
+            "success30": {
+                "value": "#7DCB9B",
+                "description": "Palette Success 30",
+                "type": "palette"
+            },
+            "success40": {
+                "value": "#51BA79",
+                "description": "Palette Success 40",
+                "type": "palette"
+            },
+            "success50": {
+                "value": "{palette.green}",
+                "description": "Palette Success 50",
+                "type": "palette"
+            },
+            "success60": {
+                "value": "#188B3E",
+                "description": "Palette Success 60",
+                "type": "palette"
+            },
+            "success70": {
+                "value": "#157C37",
+                "description": "Palette Success 70",
+                "type": "palette"
+            },
+            "success80": {
+                "value": "#12662E",
+                "description": "Palette Success 80",
+                "type": "palette"
+            },
+            "success90": {
+                "value": "#0E5024",
+                "description": "Palette Success 90",
+                "type": "palette"
+            },
+            "success100": {
+                "value": "#000000",
+                "description": "Palette Success 100",
+                "type": "palette"
+            },
+            "warning0": {
+                "value": "#ffffff",
+                "description": "Palette Warning 0",
+                "type": "palette"
+            },
+            "warning5": {
+                "value": "#FFF7EA",
+                "description": "Palette Warning 5",
+                "type": "palette"
+            },
+            "warning10": {
+                "value": "#FEEED4",
+                "description": "Palette Warning 10",
+                "type": "palette"
+            },
+            "warning20": {
+                "value": "#FDDEA9",
+                "description": "Palette Warning 20",
+                "type": "palette"
+            },
+            "warning30": {
+                "value": "#FDCD7E",
+                "description": "Palette Warning 30",
+                "type": "palette"
+            },
+            "warning40": {
+                "value": "#FCBD53",
+                "description": "Palette Warning 40",
+                "type": "palette"
+            },
+            "warning50": {
+                "value": "{palette.amber}",
+                "description": "Palette Warning 50",
+                "type": "palette"
+            },
+            "warning60": {
+                "value": "#DD8B22",
+                "description": "Palette Warning 60",
+                "type": "palette"
+            },
+            "warning70": {
+                "value": "#C67C1F",
+                "description": "Palette Warning 70",
+                "type": "palette"
+            },
+            "warning80": {
+                "value": "#A36619",
+                "description": "Palette Warning 80",
+                "type": "palette"
+            },
+            "warning90": {
+                "value": "#805014",
+                "description": "Palette Warning 90",
+                "type": "palette"
+            },
+            "warning100": {
+                "value": "#000000",
+                "description": "Palette Warning 100",
+                "type": "palette"
+            },
+            "error0": {
+                "value": "#ffffff",
+                "description": "Palette Error 0",
+                "type": "palette"
+            },
+            "error5": {
+                "value": "#FAE9E9",
+                "description": "Palette Error 5",
+                "type": "palette"
+            },
+            "error10": {
+                "value": "#F5D4D4",
+                "description": "Palette Error 10",
+                "type": "palette"
+            },
+            "error20": {
+                "value": "#EBA8A8",
+                "description": "Palette Error 20",
+                "type": "palette"
+            },
+            "error30": {
+                "value": "#E07D7D",
+                "description": "Palette Error 30",
+                "type": "palette"
+            },
+            "error40": {
+                "value": "#D65151",
+                "description": "Palette Error 40",
+                "type": "palette"
+            },
+            "error50": {
+                "value": "{palette.red}",
+                "description": "Palette Error 50",
+                "type": "palette"
+            },
+            "error60": {
+                "value": "#B31818",
+                "description": "Palette Error 60",
+                "type": "palette"
+            },
+            "error70": {
+                "value": "#A01515",
+                "description": "Palette Error 70",
+                "type": "palette"
+            },
+            "error80": {
+                "value": "#841212",
+                "description": "Palette Error 80",
+                "type": "palette"
+            },
+            "error90": {
+                "value": "#670E0E",
+                "description": "Palette Error 90",
+                "type": "palette"
+            },
+            "error100": {
+                "value": "#000000",
+                "description": "Palette Error 100",
+                "type": "palette"
+            },
+            "brand0": {
+                "value": "#ffffff",
+                "description": "Palette Brand 0",
+                "type": "palette"
+            },
+            "brand5": {
+                "value": "#FDF2E7",
+                "description": "Palette Brand 5",
+                "type": "palette"
+            },
+            "brand10": {
+                "value": "#FCE5CF",
+                "description": "Palette Brand 10",
+                "type": "palette"
+            },
+            "brand20": {
+                "value": "#F3CA9F",
+                "description": "Palette Brand 20",
+                "type": "palette"
+            },
+            "brand30": {
+                "value": "#F5B070",
+                "description": "Palette Brand 30",
+                "type": "palette"
+            },
+            "brand40": {
+                "value": "#F29540",
+                "description": "Palette Brand 40",
+                "type": "palette"
+            },
+            "brand50": {
+                "value": "{palette.orange}",
+                "description": "Palette Brand 50",
+                "type": "palette"
+            },
+            "brand60": {
+                "value": "#DD5C0A",
+                "description": "Palette Brand 60",
+                "type": "palette"
+            },
+            "brand70": {
+                "value": "#C65209",
+                "description": "Palette Brand 70",
+                "type": "palette"
+            },
+            "brand80": {
+                "value": "#A34407",
+                "description": "Palette Brand 80",
+                "type": "palette"
+            },
+            "brand90": {
+                "value": "#803506",
+                "description": "Palette Brand 90",
+                "type": "palette"
+            },
+            "brand100": {
+                "value": "#000000",
+                "description": "Palette Brand 100",
+                "type": "palette"
+            }
         },
-        "grey": {
-            "value": "#969AA1",
-            "description": "Palette Reference White",
-            "type": "palette"
-        },
-        "blue": {
-            "value": "#298AFF",
-            "description": "Palette Reference Blue",
-            "type": "palette"
-        },
-        "green": {
-            "value": "#26A95C",
-            "description": "Palette Reference Green",
-            "type": "palette"
+        "color": {
+            "application": {
+                "value": "{palette.neutral5}",
+                "description": "Color Application (App BG)",
+                "type": "color"
+            },
+            "on-application": {
+                "value": "{palette.neutral80}",
+                "description": "Color On Application",
+                "type": "color"
+            },
+            "application-container": {
+                "value": "{palette.neutral20}",
+                "description": "Color Application Container (Sidebar BG)",
+                "type": "color"
+            },
+            "on-application-container": {
+                "value": "{palette.neutral80}",
+                "description": "Color On Application Container",
+                "type": "color"
+            },
+            "application-container-variant": {
+                "value": "{palette.neutral80}",
+                "description": "Color Application Container Variant (Header BG)",
+                "type": "color"
+            },
+            "on-application-container-variant": {
+                "value": "{palette.neutral0}",
+                "description": "Color On Application Container Variant",
+                "type": "color"
+            },
+            "component": {
+                "value": "{palette.neutral80}",
+                "description": "Color Component (Component BG ex:card)",
+                "type": "color"
+            },
+            "on-component": {
+                "value": "{palette.neutral5}",
+                "description": "Color On Component",
+                "type": "color"
+            },
+            "disabled": {
+                "value": "{palette.neutral10}",
+                "description": "Color Disabled (Disabled interactive elements BG)",
+                "type": "color"
+            },
+            "on-component": {
+                "value": "{palette.neutral30}",
+                "description": "Color On Disabled",
+                "type": "color"
+            },
+            "primary": {
+                "value": "{palette.primary50}",
+                "description": "Color Primary (Primary interactive elements BG)",
+                "type": "color",
+            },
+            "primary-hover": {
+                "value": "{palette.primary40}",
+                "description": "Color Primary Hover (Primary interactive elements hovered BG)",
+                "type": "color",
+            },
+            "primary-press": {
+                "value": "{palette.primary60}",
+                "description": "Color Primary Press (Primary interactive elements pressed BG)",
+                "type": "color",
+            },
+            "on-primary": {
+                "value": "{palette.primary0}",
+                "description": "Color On Primary",
+                "type": "color"
+            },
+            "primary-container": {
+                "value": "{palette.primary5}",
+                "description": "Color Primary Container (Primary light BG (ex: outline button hover BG)",
+                "type": "color"
+            },
+            "primary-on-container": {
+                "value": "{palette.primary90}",
+                "description": "Color Primary On Container",
+                "type": "color"
+            },
+            "secondary": {
+                "value": "{palette.secondary80}",
+                "description": "Color Secondary (Secondary interactive elements BG)",
+                "type": "color",
+            },
+            "secondary-hover": {
+                "value": "{palette.secondary70}",
+                "description": "Color Secondary Hover (Secondary interactive elements hovered BG)",
+                "type": "color",
+            },
+            "secondary-press": {
+                "value": "{palette.secondary90}",
+                "description": "Color Secondary Press (Secondary interactive elements pressed BG)",
+                "type": "color",
+            },
+            "on-secondary": {
+                "value": "{palette.secondary0}",
+                "description": "Color On Secondary",
+                "type": "color"
+            },
+            "secondary-container": {
+                "value": "{palette.secondary5}",
+                "description": "Color Secondary Container (Secondary light BG (ex: outline button hover BG)",
+                "type": "color"
+            },
+            "secondary-on-container": {
+                "value": "{palette.secondary90}",
+                "description": "Color Secondary On Container",
+                "type": "color"
+            },
+            "info": {
+                "value": "{palette.info50}",
+                "description": "Color Info (Info elements BG)",
+                "type": "color",
+            },
+            "on-info": {
+                "value": "{palette.info0}",
+                "description": "Color On Info",
+                "type": "color"
+            },
+            "info-container": {
+                "value": "{palette.info5}",
+                "description": "Color Info Container",
+                "type": "color"
+            },
+            "info-on-container": {
+                "value": "{palette.info70}",
+                "description": "Color Info On Container",
+                "type": "color"
+            },
+            "warning": {
+                "value": "{palette.warning50}",
+                "description": "Color Warning (Warning elements BG)",
+                "type": "color",
+            },
+            "on-warning": {
+                "value": "{palette.warning0}",
+                "description": "Color On Warning",
+                "type": "color"
+            },
+            "warning-container": {
+                "value": "{palette.warning5}",
+                "description": "Color Warning Container",
+                "type": "color"
+            },
+            "warning-on-container": {
+                "value": "{palette.warning70}",
+                "description": "Color Warning On Container",
+                "type": "color"
+            },
+            "success": {
+                "value": "{palette.success50}",
+                "description": "Color Success (Warning elements BG)",
+                "type": "color",
+            },
+            "on-success": {
+                "value": "{palette.success0}",
+                "description": "Color On Success",
+                "type": "color"
+            },
+            "success-container": {
+                "value": "{palette.success5}",
+                "description": "Color Success Container",
+                "type": "color"
+            },
+            "success-on-container": {
+                "value": "{palette.success70}",
+                "description": "Color Success On Container",
+                "type": "color"
+            },
+            "error": {
+                "value": "{palette.error50}",
+                "description": "Color Error (Warning elements BG)",
+                "type": "color",
+            },
+            "on-error": {
+                "value": "{palette.error0}",
+                "description": "Color On Error",
+                "type": "color"
+            },
+            "error-container": {
+                "value": "{palette.error5}",
+                "description": "Color Error Container",
+                "type": "color"
+            },
+            "error-on-container": {
+                "value": "{palette.error70}",
+                "description": "Color Error On Container",
+                "type": "color"
+            },
         }, 
-        "amber": {
-            "value": "#FBAC28",
-            "description": "Palette Reference Amber",
-            "type": "palette"
-        },
-        "red": {
-            "value": "#CC2626",
-            "description": "Palette Reference Red",
-            "type": "palette"
-        },
-        "orange": {
-            "value": "#EF7B10",
-            "description": "Palette Reference Orange",
-            "type": "palette"
-        },
-        "neutral0": {
-            "value": "#ffffff",
-            "description": "Palette Neutral 0",
-            "type": "palette"
-        },
-        "neutral5": {
-            "value": "#FBFBFB",
-            "description": "Palette Neutral 5",
-            "type": "palette"
-        },
-        "neutral10": {
-            "value": "#F1F2F3",
-            "description": "Palette Neutral 10",
-            "type": "palette"
-        },
-        "neutral20": {
-            "value": "#E1E2E5",
-            "description": "Palette Neutral 20",
-            "type": "palette"
-        },
-        "neutral30": {
-            "value": "#D1D3D6",
-            "description": "Palette Neutral 30",
-            "type": "palette"
-        },
-        "neutral40": {
-            "value": "#B3B6BC",
-            "description": "Palette Neutral 40",
-            "type": "palette"
-        },
-        "neutral50": {
-            "value": "{palette.grey}",
-            "description": "Palette Neutral 50",
-            "type": "palette"
-        },
-        "neutral60": {
-            "value": "#737882",
-            "description": "Palette Neutral 60",
-            "type": "palette"
-        },
-        "neutral70": {
-            "value": "#5B5F67",
-            "description": "Palette Neutral 70",
-            "type": "palette"
-        },
-        "neutral80": {
-            "value": "#393C41",
-            "description": "Palette Neutral 80",
-            "type": "palette"
-        },
-        "neutral90": {
-            "value": "#2B2D31",
-            "description": "Palette Neutral 90",
-            "type": "palette"
-        },
-        "neutral100": {
-            "value": "#000000",
-            "description": "Palette Neutral 100",
-            "type": "palette"
-        },
-        "primary0": {
-            "value": "#ffffff",
-            "description": "Palette Primary 0",
-            "type": "palette"
-        },
-        "primary5": {
-            "value": "#E6F3FF",
-            "description": "Palette Primary 5",
-            "type": "palette"
-        },
-        "primary10": {
-            "value": "#B8DCFF",
-            "description": "Palette Primary 10",
-            "type": "palette"
-        },
-        "primary20": {
-            "value": "#8AC7FF",
-            "description": "Palette Primary 20",
-            "type": "palette"
-        },
-        "primary30": {
-            "value": "#60B2FF",
-            "description": "Palette Primary 30",
-            "type": "palette"
-        },
-        "primary40": {
-            "value": "#429EFF",
-            "description": "Palette Primary 40",
-            "type": "palette"
-        },
-        "primary50": {
-            "value": "{palette.blue}",
-            "description": "Palette Primary 50",
-            "type": "palette"
-        },
-        "primary60": {
-            "value": "#2271F2",
-            "description": "Palette Primary 60",
-            "type": "palette"
-        },
-        "primary70": {
-            "value": "#1F65D9",
-            "description": "Palette Primary 70",
-            "type": "palette"
-        },
-        "primary80": {
-            "value": "#1953B3",
-            "description": "Palette Primary 80",
-            "type": "palette"
-        },
-        "primary90": {
-            "value": "#14418C",
-            "description": "Palette Primary 90",
-            "type": "palette"
-        },
-        "primary100": {
-            "value": "#000000",
-            "description": "Palette Primary 100",
-            "type": "palette"
-        },
-        "secondary0": {
-            "value": "#ffffff",
-            "description": "Palette Secondary 0",
-            "type": "palette"
-        },
-        "secondary5": {
-            "value": "#FBFBFB",
-            "description": "Palette Secondary 5",
-            "type": "palette"
-        },
-        "secondary10": {
-            "value": "#F1F2F3",
-            "description": "Palette Secondary 10",
-            "type": "palette"
-        },
-        "secondary20": {
-            "value": "#E1E2E5",
-            "description": "Palette Secondary 20",
-            "type": "palette"
-        },
-        "secondary30": {
-            "value": "#D1D3D6",
-            "description": "Palette Secondary 30",
-            "type": "palette"
-        },
-        "secondary40": {
-            "value": "#B3B6BC",
-            "description": "Palette Secondary 40",
-            "type": "palette"
-        },
-        "secondary50": {
-            "value": "{palette.grey}",
-            "description": "Palette Secondary 50",
-            "type": "palette"
-        },
-        "secondary60": {
-            "value": "#737882",
-            "description": "Palette Secondary 60",
-            "type": "palette"
-        },
-        "secondary70": {
-            "value": "#5B5F67",
-            "description": "Palette Secondary 70",
-            "type": "palette"
-        },
-        "secondary80": {
-            "value": "#393C41",
-            "description": "Palette Secondary 80",
-            "type": "palette"
-        },
-        "secondary90": {
-            "value": "#2B2D31",
-            "description": "Palette Secondary 90",
-            "type": "palette"
-        },
-        "secondary100": {
-            "value": "#000000",
-            "description": "Palette Secondary 100",
-            "type": "palette"
-        },
-        "info0": {
-            "value": "#ffffff",
-            "description": "Palette Info 0",
-            "type": "palette"
-        },
-        "info5": {
-            "value": "#E6F3FF",
-            "description": "Palette Info 5",
-            "type": "palette"
-        },
-        "info10": {
-            "value": "#B8DCFF",
-            "description": "Palette Info 10",
-            "type": "palette"
-        },
-        "info20": {
-            "value": "#8AC7FF",
-            "description": "Palette Info 20",
-            "type": "palette"
-        },
-        "info30": {
-            "value": "#60B2FF",
-            "description": "Palette Info 30",
-            "type": "palette"
-        },
-        "info40": {
-            "value": "#429EFF",
-            "description": "Palette Info 40",
-            "type": "palette"
-        },
-        "info50": {
-            "value": "{palette.blue}",
-            "description": "Palette Info 50",
-            "type": "palette"
-        },
-        "info60": {
-            "value": "#2271F2",
-            "description": "Palette Info 60",
-            "type": "palette"
-        },
-        "info70": {
-            "value": "#1F65D9",
-            "description": "Palette Info 70",
-            "type": "palette"
-        },
-        "info80": {
-            "value": "#1953B3",
-            "description": "Palette Info 80",
-            "type": "palette"
-        },
-        "info90": {
-            "value": "#14418C",
-            "description": "Palette Info 90",
-            "type": "palette"
-        },
-        "info100": {
-            "value": "#000000",
-            "description": "Palette Info 100",
-            "type": "palette"
-        },
-        "success0": {
-            "value": "#ffffff",
-            "description": "Palette Success 0",
-            "type": "palette"
-        },
-        "success5": {
-            "value": "#E9F6EE",
-            "description": "Palette Success 5",
-            "type": "palette"
-        },
-        "success10": {
-            "value": "#D4EEDE",
-            "description": "Palette Success 10",
-            "type": "palette"
-        },
-        "success20": {
-            "value": "#A8DDBC",
-            "description": "Palette Success 20",
-            "type": "palette"
-        },
-        "success30": {
-            "value": "#7DCB9B",
-            "description": "Palette Success 30",
-            "type": "palette"
-        },
-        "success40": {
-            "value": "#51BA79",
-            "description": "Palette Success 40",
-            "type": "palette"
-        },
-        "success50": {
-            "value": "{palette.green}",
-            "description": "Palette Success 50",
-            "type": "palette"
-        },
-        "success60": {
-            "value": "#188B3E",
-            "description": "Palette Success 60",
-            "type": "palette"
-        },
-        "success70": {
-            "value": "#157C37",
-            "description": "Palette Success 70",
-            "type": "palette"
-        },
-        "success80": {
-            "value": "#12662E",
-            "description": "Palette Success 80",
-            "type": "palette"
-        },
-        "success90": {
-            "value": "#0E5024",
-            "description": "Palette Success 90",
-            "type": "palette"
-        },
-        "success100": {
-            "value": "#000000",
-            "description": "Palette Success 100",
-            "type": "palette"
-        },
-        "warning0": {
-            "value": "#ffffff",
-            "description": "Palette Warning 0",
-            "type": "palette"
-        },
-        "warning5": {
-            "value": "#FFF7EA",
-            "description": "Palette Warning 5",
-            "type": "palette"
-        },
-        "warning10": {
-            "value": "#FEEED4",
-            "description": "Palette Warning 10",
-            "type": "palette"
-        },
-        "warning20": {
-            "value": "#FDDEA9",
-            "description": "Palette Warning 20",
-            "type": "palette"
-        },
-        "warning30": {
-            "value": "#FDCD7E",
-            "description": "Palette Warning 30",
-            "type": "palette"
-        },
-        "warning40": {
-            "value": "#FCBD53",
-            "description": "Palette Warning 40",
-            "type": "palette"
-        },
-        "warning50": {
-            "value": "{palette.amber}",
-            "description": "Palette Warning 50",
-            "type": "palette"
-        },
-        "warning60": {
-            "value": "#DD8B22",
-            "description": "Palette Warning 60",
-            "type": "palette"
-        },
-        "warning70": {
-            "value": "#C67C1F",
-            "description": "Palette Warning 70",
-            "type": "palette"
-        },
-        "warning80": {
-            "value": "#A36619",
-            "description": "Palette Warning 80",
-            "type": "palette"
-        },
-        "warning90": {
-            "value": "#805014",
-            "description": "Palette Warning 90",
-            "type": "palette"
-        },
-        "warning100": {
-            "value": "#000000",
-            "description": "Palette Warning 100",
-            "type": "palette"
-        },
-        "error0": {
-            "value": "#ffffff",
-            "description": "Palette Error 0",
-            "type": "palette"
-        },
-        "error5": {
-            "value": "#FAE9E9",
-            "description": "Palette Error 5",
-            "type": "palette"
-        },
-        "error10": {
-            "value": "#F5D4D4",
-            "description": "Palette Error 10",
-            "type": "palette"
-        },
-        "error20": {
-            "value": "#EBA8A8",
-            "description": "Palette Error 20",
-            "type": "palette"
-        },
-        "error30": {
-            "value": "#E07D7D",
-            "description": "Palette Error 30",
-            "type": "palette"
-        },
-        "error40": {
-            "value": "#D65151",
-            "description": "Palette Error 40",
-            "type": "palette"
-        },
-        "error50": {
-            "value": "{palette.red}",
-            "description": "Palette Error 50",
-            "type": "palette"
-        },
-        "error60": {
-            "value": "#B31818",
-            "description": "Palette Error 60",
-            "type": "palette"
-        },
-        "error70": {
-            "value": "#A01515",
-            "description": "Palette Error 70",
-            "type": "palette"
-        },
-        "error80": {
-            "value": "#841212",
-            "description": "Palette Error 80",
-            "type": "palette"
-        },
-        "error90": {
-            "value": "#670E0E",
-            "description": "Palette Error 90",
-            "type": "palette"
-        },
-        "error100": {
-            "value": "#000000",
-            "description": "Palette Error 100",
-            "type": "palette"
-        },
-        "brand0": {
-            "value": "#ffffff",
-            "description": "Palette Brand 0",
-            "type": "palette"
-        },
-        "brand5": {
-            "value": "#FDF2E7",
-            "description": "Palette Brand 5",
-            "type": "palette"
-        },
-        "brand10": {
-            "value": "#FCE5CF",
-            "description": "Palette Brand 10",
-            "type": "palette"
-        },
-        "brand20": {
-            "value": "#F3CA9F",
-            "description": "Palette Brand 20",
-            "type": "palette"
-        },
-        "brand30": {
-            "value": "#F5B070",
-            "description": "Palette Brand 30",
-            "type": "palette"
-        },
-        "brand40": {
-            "value": "#F29540",
-            "description": "Palette Brand 40",
-            "type": "palette"
-        },
-        "brand50": {
-            "value": "{palette.orange}",
-            "description": "Palette Brand 50",
-            "type": "palette"
-        },
-        "brand60": {
-            "value": "#DD5C0A",
-            "description": "Palette Brand 60",
-            "type": "palette"
-        },
-        "brand70": {
-            "value": "#C65209",
-            "description": "Palette Brand 70",
-            "type": "palette"
-        },
-        "brand80": {
-            "value": "#A34407",
-            "description": "Palette Brand 80",
-            "type": "palette"
-        },
-        "brand90": {
-            "value": "#803506",
-            "description": "Palette Brand 90",
-            "type": "palette"
-        },
-        "brand100": {
-            "value": "#000000",
-            "description": "Palette Brand 100",
-            "type": "palette"
-        },
-    },
-    "color": {
-        "application": {
-            "value": "{palette.neutral5}",
-            "description": "Color Application (App BG)",
-            "type": "color"
-        },
-        "on-application": {
-            "value": "{palette.neutral80}",
-            "description": "Color On Application",
-            "type": "color"
-        },
-        "application-container": {
-            "value": "{palette.neutral20}",
-            "description": "Color Application Container (Sidebar BG)",
-            "type": "color"
-        },
-        "on-application-container": {
-            "value": "{palette.neutral80}",
-            "description": "Color On Application Container",
-            "type": "color"
-        },
-        "application-container-variant": {
-            "value": "{palette.neutral80}",
-            "description": "Color Application Container Variant (Header BG)",
-            "type": "color"
-        },
-        "on-application-container-variant": {
-            "value": "{palette.neutral0}",
-            "description": "Color On Application Container Variant",
-            "type": "color"
-        },
-        "component": {
-            "value": "{palette.neutral80}",
-            "description": "Color Component (Component BG ex:card)",
-            "type": "color"
-        },
-        "on-component": {
-            "value": "{palette.neutral5}",
-            "description": "Color On Component",
-            "type": "color"
-        },
-        "disabled": {
-            "value": "{palette.neutral10}",
-            "description": "Color Disabled (Disabled interactive elements BG)",
-            "type": "color"
-        },
-        "on-component": {
-            "value": "{palette.neutral30}",
-            "description": "Color On Disabled",
-            "type": "color"
-        },
-        "primary": {
-            "value": "{palette.primary50}",
-            "description": "Color Primary (Primary interactive elements BG)",
-            "type": "color",
-        },
-        "primary-hover": {
-            "value": "{palette.primary40}",
-            "description": "Color Primary Hover (Primary interactive elements hovered BG)",
-            "type": "color",
-        },
-        "primary-press": {
-            "value": "{palette.primary60}",
-            "description": "Color Primary Press (Primary interactive elements pressed BG)",
-            "type": "color",
-        },
-        "on-primary": {
-            "value": "{palette.primary0}",
-            "description": "Color On Primary",
-            "type": "color"
-        },
-        "primary-container": {
-            "value": "{palette.primary5}",
-            "description": "Color Primary Container (Primary light BG (ex: outline button hover BG)",
-            "type": "color"
-        },
-        "primary-on-container": {
-            "value": "{palette.primary90}",
-            "description": "Color Primary On Container",
-            "type": "color"
-        },
-        "secondary": {
-            "value": "{palette.secondary80}",
-            "description": "Color Secondary (Secondary interactive elements BG)",
-            "type": "color",
-        },
-        "secondary-hover": {
-            "value": "{palette.secondary70}",
-            "description": "Color Secondary Hover (Secondary interactive elements hovered BG)",
-            "type": "color",
-        },
-        "secondary-press": {
-            "value": "{palette.secondary90}",
-            "description": "Color Secondary Press (Secondary interactive elements pressed BG)",
-            "type": "color",
-        },
-        "on-secondary": {
-            "value": "{palette.secondary0}",
-            "description": "Color On Secondary",
-            "type": "color"
-        },
-        "secondary-container": {
-            "value": "{palette.secondary5}",
-            "description": "Color Secondary Container (Secondary light BG (ex: outline button hover BG)",
-            "type": "color"
-        },
-        "secondary-on-container": {
-            "value": "{palette.secondary90}",
-            "description": "Color Secondary On Container",
-            "type": "color"
-        },
-        "info": {
-            "value": "{palette.info50}",
-            "description": "Color Info (Info elements BG)",
-            "type": "color",
-        },
-        "on-info": {
-            "value": "{palette.info0}",
-            "description": "Color On Info",
-            "type": "color"
-        },
-        "info-container": {
-            "value": "{palette.info5}",
-            "description": "Color Info Container",
-            "type": "color"
-        },
-        "info-on-container": {
-            "value": "{palette.info70}",
-            "description": "Color Info On Container",
-            "type": "color"
-        },
-        "warning": {
-            "value": "{palette.warning50}",
-            "description": "Color Warning (Warning elements BG)",
-            "type": "color",
-        },
-        "on-warning": {
-            "value": "{palette.warning0}",
-            "description": "Color On Warning",
-            "type": "color"
-        },
-        "warning-container": {
-            "value": "{palette.warning5}",
-            "description": "Color Warning Container",
-            "type": "color"
-        },
-        "warning-on-container": {
-            "value": "{palette.warning70}",
-            "description": "Color Warning On Container",
-            "type": "color"
-        },
-        "success": {
-            "value": "{palette.success50}",
-            "description": "Color Success (Warning elements BG)",
-            "type": "color",
-        },
-        "on-success": {
-            "value": "{palette.success0}",
-            "description": "Color On Success",
-            "type": "color"
-        },
-        "success-container": {
-            "value": "{palette.success5}",
-            "description": "Color Success Container",
-            "type": "color"
-        },
-        "success-on-container": {
-            "value": "{palette.success70}",
-            "description": "Color Success On Container",
-            "type": "color"
-        },
-        "error": {
-            "value": "{palette.error50}",
-            "description": "Color Error (Warning elements BG)",
-            "type": "color",
-        },
-        "on-error": {
-            "value": "{palette.error0}",
-            "description": "Color On Error",
-            "type": "color"
-        },
-        "error-container": {
-            "value": "{palette.error5}",
-            "description": "Color Error Container",
-            "type": "color"
-        },
-        "error-on-container": {
-            "value": "{palette.error70}",
-            "description": "Color Error On Container",
-            "type": "color"
-        },
-    }, 
-    "spacing": {
-        "s": {
-            "value": "0.5rem",
-            "description": "8px",
-            "type": "spacing"
-        },
-        "m": {
-            "value": "1rem",
-            "description": "16px",
-            "type": "spacing"
-        },
-        "l": {
-            "value": "1.5rem",
-            "description": "24px",
-            "type": "spacing"
-        },
-        "xl": {
-            "value": "2rem",
-            "description": "32px",
-            "type": "spacing"
-        },
-        "2xl": {
-            "value": "2.5rem",
-            "description": "40px",
-            "type": "spacing"
-        },
-        "3xl": {
-            "value": "3rem",
-            "description": "48px",
-            "type": "spacing"
-        },
-        "4xl": {
-            "value": "3.5rem",
-            "description": "56px",
-            "type": "spacing"
-        },
-        "5xl": {
-            "value": "4rem",
-            "description": "64px",
-            "type": "spacing"
-        }
-    },
-    "sizing": {
-        "xs": {
-            "value": "16",
-            "type": "sizing",
-            "description": "16px"
-        },
-        "s": {
-            "value": "24",
-            "type": "sizing",
-            "description": "24px"
-        },
-        "m": {
-            "value": "32",
-            "type": "sizing",
-            "description": "32px"
-        },
-        "l": {
-            "value": "40",
-            "type": "sizing",
-            "description": "40px"
-        },
-        "xl": {
-            "value": "56",
-            "type": "sizing",
-            "description": "56px"
-        }
-    },
-    "lineHeights": {
-        "s": {
-            "value": "16",
-            "comment": "16px (Label 4)",
-            "type": "lineHeights"
-        },
-        "m": {
-            "value": "20",
-            "comment": "20px (H4, Body 1, Body 2, Label 2, )",
-            "type": "lineHeights"
-        },
-        "l": {
-            "value": "24",
-            "comment": "24px (H3)",
-            "type": "lineHeights"
-        },
-        "xl": {
-            "value": "28",
-            "comment": "28px",
-            "type": "lineHeights"
-        },
-        "2xl": {
-            "value": "32",
-            "comment": "32px (H2)",
-            "type": "lineHeights"
-        },
-        "3xl": {
-            "value": "36",
-            "comment": "36px (H1)",
-            "type": "lineHeights"
-        },
-        "4xl": {
-            "value": "48",
-            "comment": "48px",
-            "type": "lineHeights"
-        }
-    },
-    "fontSizes": {
-        "2xs": {
-            "value": "10",
-            "comment": "10px (sidebar)",
-            "type": "fontSizes"
-        },
-        "xs": {
-            "value": "12",
-            "comment": "12px (Label 4)",
-            "type": "fontSizes"
-        },
-        "s": {
-            "value": "14",
-            "comment": "14px (Body 2, Label 3)",
-            "type": "fontSizes"
-        },
-        "m": {
-            "value": "16",
-            "comment": "16px (H4, Body 1, Label 2)",
-            "type": "fontSizes"
-        },
-        "l": {
-            "value": "20",
-            "comment": "20px (H3, Label 1)",
-            "type": "fontSizes"
-        },
-        "xl": {
-            "value": "24",
-            "comment": "24px (H2)",
-            "type": "fontSizes"
-        },
-        "2xl": {
-            "value": "32",
-            "comment": "32px (H1)",
-            "type": "fontSizes"
-        },
-        "3xl": {
-            "value": "40",
-            "comment": "64px",
-            "type": "fontSizes"
-        },
-        "4xl": {
-            "value": "64",
-            "comment": "64px",
-            "type": "fontSizes"
-        }
-    },
-    "fontWeights": {
-        "light": {
-            "value": "Light",
-            "comment": "Light",
-            "type": "fontWeights"
-        },
-        "regular": {
-            "value": "Regular",
-            "comment": "Regular",
-            "type": "fontWeights"
-        },
-        "medium": {
-            "value": "Medium",
-            "comment": "Medium",
-            "type": "fontWeights"
-        },
-        "bold": {
-            "value": "Bold",
-            "comment": "Bold",
-            "type": "fontWeights"
-        }
-    },
-    "textCase": {
-        "normal": {
-            "value": "none",
-            "comment": "default",
-            "type": "textCase"
-        },
-        "uppercase": {
-            "value": "uppercase",
-            "comment": "All caps",
-            "type": "textCase"
-        }
-    },
-    "fontFamilies": {
-        "primary": {
-            "value": "Roboto",
-            "comment": "Roboto",
-            "type": "fontFamilies"
-        }
-    },
-    "Caption": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.regular}",
-            "lineHeight": "{lineHeights.s}",
-            "fontSize": "{fontSizes.xs}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is caption text, regular weight. It is used as captions and timestamps ex: 7 minutes ago."
-    },
-    "CaptionMedium": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.medium}",
-            "lineHeight": "{lineHeights.s}",
-            "fontSize": "{fontSizes.xs}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is caption text, medium weight. This style is used in Badges and links"
-    },
-    "CaptionMediumCaps": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.medium}",
-            "lineHeight": "{lineHeights.s}",
-            "fontSize": "{fontSizes.xs}",
-            "textCase": "{textCase.uppercase}"
-        },
-        "type": "typography",
-        "comment": "This is caption text, medium weight in caps. This style is used in Card Eyebrow"
-    },
-    "CaptionBold": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.s}",
-            "fontSize": "{fontSizes.xs}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is caption text, medium weight. This style is used in Badges and links"
-    },
-    "CaptionBoldCaps": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.s}",
-            "fontSize": "{fontSizes.xs}",
-            "textCase": "{textCase.uppercase}"
-        },
-        "type": "typography",
-        "comment": "This is caption text, medium weight. This style is used in Badges and links"
-    },
-    "Body": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.regular}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.m}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is Body 1, in regular weight. It is a primary size for copy in a side panel, atoms and molecule components such as chips, selections. text in modal and  lists ..."
-    },
-    "BodyMedium": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.medium}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.m}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is Body 1 in medium weight, which is predominately used in Accordion header, and links"
-    },
-    "BodyBold": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.m}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is Body 1 in bold weight. Used as a Section title in the side panel, Modular accordion header paired with icon, selections"
-    },
-    "BodyBoldCaps": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.m}",
-            "textCase": "{textCase.uppercase}"
-        },
-        "type": "typography",
-        "comment": "This is Body 1 in bold weight. Used as a Section title in the side panel, Modular accordion header paired with icon, selections"
-    },
-    "Body2": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.regular}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.s}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is Body 2, a secondary size for paragraphs of text. This style is used in Legend, Snack bar, Search, Table rows, Side panel sub header (when stacked by XL)"
-    },
-    "Body2Medium": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.medium}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.s}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is Body 2, in medium weight. This style is used in Tags, Timeline, Search list item, Card ID and links"
-    },
-    "Body2Bold": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.s}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is Body 2, in bold weight.This style is used in Banner, breadcrumbs ..."
-    },
-    "Body2BoldCaps": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.s}",
-            "textCase": "{textCase.uppercase}"
-        },
-        "type": "typography",
-        "comment": "This is Body 2, in bold weight.This style is used in Banner, breadcrumbs ..."
-    },
-    "Header": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.regular}",
-            "lineHeight": "{lineHeights.3xl}",
-            "fontSize": "{fontSizes.2xl}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 1, regular"
-    },
-    "HeaderMedium": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.medium}",
-            "lineHeight": "{lineHeights.3xl}",
-            "fontSize": "{fontSizes.2xl}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 1 medium "
-    },
-    "HeaderBold": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.3xl}",
-            "fontSize": "{fontSizes.2xl}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 1, bold Page title"
-    },
-    "Header2": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.regular}",
-            "lineHeight": "{lineHeights.2xl}",
-            "fontSize": "{fontSizes.xl}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 2, regular"
-    },
-    "Header2Medium": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.medium}",
-            "lineHeight": "{lineHeights.2xl}",
-            "fontSize": "{fontSizes.xl}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 2, medium. Used in side panel header"
-    },
-    "Header2Bold": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.2xl}",
-            "fontSize": "{fontSizes.xl}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 2, bold. Used in modal and header paired with sub title"
-    },
-    "Header3": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.regular}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.l}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 2, regular"
-    },
-    "Header3Medium": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.medium}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.l}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 2, regular"
-    },
-    "Header3Bold": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.l}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 2, regular"
-    },
-    "borderWidth": {
-        "s": {
-            "value": "1",
-            "comment": "Default Border Size",
-            "type": "borderWidth"
-        },
-        "m": {
-            "value": "2",
-            "comment": "Focus Border Size",
-            "type": "borderWidth"
-        },
-        "l": {
-            "value": "4",
-            "type": "borderWidth"
-        }
-    },
-    "borderRadius": {
-        "s": {
-            "value": "0",
-            "comment": "Border radius 1",
-            "type": "borderRadius"
-        },
-        "m": {
-            "value": "4",
-            "comment": "Border radius 2 (4px)",
-            "type": "borderRadius"
-        },
-        "l": {
-            "value": "50",
-            "comment": "Full rounded corners (2x the highest line-height)",
-            "type": "borderRadius"
-        }
-    },
-    "opacity": {
-        "normal": {
-            "value": "100%",
-            "comment": "Default",
-            "type": "opacity"
-        },
-        "overlay": {
-            "value": "50%",
-            "comment": "Overlay",
-            "type": "opacity"
-        }
-    },
-    "boxShadow": {
-        "xs": {
-            "value": {
-            "x": "0",
-            "y": "4",
-            "blur": "4",
-            "spread": "0",
-            "color": "rgba(0,0,0,0.25)",
-            "type": "dropShadow"
+        "spacing": {
+            "s": {
+                "value": "0.5rem",
+                "description": "8px",
+                "type": "spacing"
             },
-            "comment": "Shadow / List view",
-            "type": "boxShadow"
-        },
-        "s": {
-            "value": {
-            "x": "0",
-            "y": "4",
-            "blur": "8",
-            "spread": "0",
-            "color": "rgba(41,45,48,0.16)",
-            "type": "dropShadow"
+            "m": {
+                "value": "1rem",
+                "description": "16px",
+                "type": "spacing"
             },
-            "comment": "Shadow / Default",
-            "type": "boxShadow"
-        },
-        "m": {
-            "value": {
-            "x": "0",
-            "y": "8",
-            "blur": "16",
-            "spread": "0",
-            "color": "rgba(41,45,48,0.16)",
-            "type": "dropShadow"
+            "l": {
+                "value": "1.5rem",
+                "description": "24px",
+                "type": "spacing"
             },
-            "type": "boxShadow"
-        },
-        "l": {
-            "value": {
-            "x": "0",
-            "y": "16",
-            "blur": "24",
-            "spread": "0",
-            "color": "rgba(41,45,48,0.16)",
-            "type": "dropShadow"
+            "xl": {
+                "value": "2rem",
+                "description": "32px",
+                "type": "spacing"
             },
-            "type": "boxShadow"
-        },
-        "xl": {
-            "value": {
-            "x": "2",
-            "y": "24",
-            "blur": "32",
-            "spread": "0",
-            "color": "rgba(41,45,48,0.16)",
-            "type": "dropShadow"
+            "2xl": {
+                "value": "2.5rem",
+                "description": "40px",
+                "type": "spacing"
             },
-            "type": "boxShadow"
+            "3xl": {
+                "value": "3rem",
+                "description": "48px",
+                "type": "spacing"
+            },
+            "4xl": {
+                "value": "3.5rem",
+                "description": "56px",
+                "type": "spacing"
+            },
+            "5xl": {
+                "value": "4rem",
+                "description": "64px",
+                "type": "spacing"
+            }
+        },
+        "sizing": {
+            "xs": {
+                "value": "16",
+                "type": "sizing",
+                "description": "16px"
+            },
+            "s": {
+                "value": "24",
+                "type": "sizing",
+                "description": "24px"
+            },
+            "m": {
+                "value": "32",
+                "type": "sizing",
+                "description": "32px"
+            },
+            "l": {
+                "value": "40",
+                "type": "sizing",
+                "description": "40px"
+            },
+            "xl": {
+                "value": "56",
+                "type": "sizing",
+                "description": "56px"
+            }
+        },
+        "lineHeights": {
+            "s": {
+                "value": "16",
+                "comment": "16px (Label 4)",
+                "type": "lineHeights"
+            },
+            "m": {
+                "value": "20",
+                "comment": "20px (H4, Body 1, Body 2, Label 2, )",
+                "type": "lineHeights"
+            },
+            "l": {
+                "value": "24",
+                "comment": "24px (H3)",
+                "type": "lineHeights"
+            },
+            "xl": {
+                "value": "28",
+                "comment": "28px",
+                "type": "lineHeights"
+            },
+            "2xl": {
+                "value": "32",
+                "comment": "32px (H2)",
+                "type": "lineHeights"
+            },
+            "3xl": {
+                "value": "36",
+                "comment": "36px (H1)",
+                "type": "lineHeights"
+            },
+            "4xl": {
+                "value": "48",
+                "comment": "48px",
+                "type": "lineHeights"
+            }
+        },
+        "fontSizes": {
+            "2xs": {
+                "value": "10",
+                "comment": "10px (sidebar)",
+                "type": "fontSizes"
+            },
+            "xs": {
+                "value": "12",
+                "comment": "12px (Label 4)",
+                "type": "fontSizes"
+            },
+            "s": {
+                "value": "14",
+                "comment": "14px (Body 2, Label 3)",
+                "type": "fontSizes"
+            },
+            "m": {
+                "value": "16",
+                "comment": "16px (H4, Body 1, Label 2)",
+                "type": "fontSizes"
+            },
+            "l": {
+                "value": "20",
+                "comment": "20px (H3, Label 1)",
+                "type": "fontSizes"
+            },
+            "xl": {
+                "value": "24",
+                "comment": "24px (H2)",
+                "type": "fontSizes"
+            },
+            "2xl": {
+                "value": "32",
+                "comment": "32px (H1)",
+                "type": "fontSizes"
+            },
+            "3xl": {
+                "value": "40",
+                "comment": "64px",
+                "type": "fontSizes"
+            },
+            "4xl": {
+                "value": "64",
+                "comment": "64px",
+                "type": "fontSizes"
+            }
+        },
+        "fontWeights": {
+            "light": {
+                "value": "Light",
+                "comment": "Light",
+                "type": "fontWeights"
+            },
+            "regular": {
+                "value": "Regular",
+                "comment": "Regular",
+                "type": "fontWeights"
+            },
+            "medium": {
+                "value": "Medium",
+                "comment": "Medium",
+                "type": "fontWeights"
+            },
+            "bold": {
+                "value": "Bold",
+                "comment": "Bold",
+                "type": "fontWeights"
+            }
+        },
+        "textCase": {
+            "normal": {
+                "value": "none",
+                "comment": "default",
+                "type": "textCase"
+            },
+            "uppercase": {
+                "value": "uppercase",
+                "comment": "All caps",
+                "type": "textCase"
+            }
+        },
+        "fontFamilies": {
+            "primary": {
+                "value": "Roboto",
+                "comment": "Roboto",
+                "type": "fontFamilies"
+            }
+        },
+        "Caption": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.regular}",
+                "lineHeight": "{lineHeights.s}",
+                "fontSize": "{fontSizes.xs}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is caption text, regular weight. It is used as captions and timestamps ex: 7 minutes ago."
+        },
+        "CaptionMedium": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.medium}",
+                "lineHeight": "{lineHeights.s}",
+                "fontSize": "{fontSizes.xs}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is caption text, medium weight. This style is used in Badges and links"
+        },
+        "CaptionMediumCaps": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.medium}",
+                "lineHeight": "{lineHeights.s}",
+                "fontSize": "{fontSizes.xs}",
+                "textCase": "{textCase.uppercase}"
+            },
+            "type": "typography",
+            "comment": "This is caption text, medium weight in caps. This style is used in Card Eyebrow"
+        },
+        "CaptionBold": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.s}",
+                "fontSize": "{fontSizes.xs}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is caption text, medium weight. This style is used in Badges and links"
+        },
+        "CaptionBoldCaps": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.s}",
+                "fontSize": "{fontSizes.xs}",
+                "textCase": "{textCase.uppercase}"
+            },
+            "type": "typography",
+            "comment": "This is caption text, medium weight. This style is used in Badges and links"
+        },
+        "Body": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.regular}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.m}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is Body 1, in regular weight. It is a primary size for copy in a side panel, atoms and molecule components such as chips, selections. text in modal and  lists ..."
+        },
+        "BodyMedium": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.medium}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.m}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is Body 1 in medium weight, which is predominately used in Accordion header, and links"
+        },
+        "BodyBold": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.m}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is Body 1 in bold weight. Used as a Section title in the side panel, Modular accordion header paired with icon, selections"
+        },
+        "BodyBoldCaps": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.m}",
+                "textCase": "{textCase.uppercase}"
+            },
+            "type": "typography",
+            "comment": "This is Body 1 in bold weight. Used as a Section title in the side panel, Modular accordion header paired with icon, selections"
+        },
+        "Body2": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.regular}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.s}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is Body 2, a secondary size for paragraphs of text. This style is used in Legend, Snack bar, Search, Table rows, Side panel sub header (when stacked by XL)"
+        },
+        "Body2Medium": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.medium}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.s}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is Body 2, in medium weight. This style is used in Tags, Timeline, Search list item, Card ID and links"
+        },
+        "Body2Bold": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.s}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is Body 2, in bold weight.This style is used in Banner, breadcrumbs ..."
+        },
+        "Body2BoldCaps": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.s}",
+                "textCase": "{textCase.uppercase}"
+            },
+            "type": "typography",
+            "comment": "This is Body 2, in bold weight.This style is used in Banner, breadcrumbs ..."
+        },
+        "Header": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.regular}",
+                "lineHeight": "{lineHeights.3xl}",
+                "fontSize": "{fontSizes.2xl}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 1, regular"
+        },
+        "HeaderMedium": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.medium}",
+                "lineHeight": "{lineHeights.3xl}",
+                "fontSize": "{fontSizes.2xl}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 1 medium "
+        },
+        "HeaderBold": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.3xl}",
+                "fontSize": "{fontSizes.2xl}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 1, bold Page title"
+        },
+        "Header2": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.regular}",
+                "lineHeight": "{lineHeights.2xl}",
+                "fontSize": "{fontSizes.xl}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 2, regular"
+        },
+        "Header2Medium": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.medium}",
+                "lineHeight": "{lineHeights.2xl}",
+                "fontSize": "{fontSizes.xl}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 2, medium. Used in side panel header"
+        },
+        "Header2Bold": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.2xl}",
+                "fontSize": "{fontSizes.xl}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 2, bold. Used in modal and header paired with sub title"
+        },
+        "Header3": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.regular}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.l}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 2, regular"
+        },
+        "Header3Medium": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.medium}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.l}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 2, regular"
+        },
+        "Header3Bold": {
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.l}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 2, regular"
+        },
+        "borderWidth": {
+            "s": {
+                "value": "1",
+                "comment": "Default Border Size",
+                "type": "borderWidth"
+            },
+            "m": {
+                "value": "2",
+                "comment": "Focus Border Size",
+                "type": "borderWidth"
+            },
+            "l": {
+                "value": "4",
+                "type": "borderWidth"
+            }
+        },
+        "borderRadius": {
+            "s": {
+                "value": "0",
+                "comment": "Border radius 1",
+                "type": "borderRadius"
+            },
+            "m": {
+                "value": "4",
+                "comment": "Border radius 2 (4px)",
+                "type": "borderRadius"
+            },
+            "l": {
+                "value": "50",
+                "comment": "Full rounded corners (2x the highest line-height)",
+                "type": "borderRadius"
+            }
+        },
+        "opacity": {
+            "normal": {
+                "value": "100%",
+                "comment": "Default",
+                "type": "opacity"
+            },
+            "overlay": {
+                "value": "50%",
+                "comment": "Overlay",
+                "type": "opacity"
+            }
+        },
+        "boxShadow": {
+            "xs": {
+                "value": {
+                "x": "0",
+                "y": "4",
+                "blur": "4",
+                "spread": "0",
+                "color": "rgba(0,0,0,0.25)",
+                "type": "dropShadow"
+                },
+                "comment": "Shadow / List view",
+                "type": "boxShadow"
+            },
+            "s": {
+                "value": {
+                "x": "0",
+                "y": "4",
+                "blur": "8",
+                "spread": "0",
+                "color": "rgba(41,45,48,0.16)",
+                "type": "dropShadow"
+                },
+                "comment": "Shadow / Default",
+                "type": "boxShadow"
+            },
+            "m": {
+                "value": {
+                "x": "0",
+                "y": "8",
+                "blur": "16",
+                "spread": "0",
+                "color": "rgba(41,45,48,0.16)",
+                "type": "dropShadow"
+                },
+                "type": "boxShadow"
+            },
+            "l": {
+                "value": {
+                "x": "0",
+                "y": "16",
+                "blur": "24",
+                "spread": "0",
+                "color": "rgba(41,45,48,0.16)",
+                "type": "dropShadow"
+                },
+                "type": "boxShadow"
+            },
+            "xl": {
+                "value": {
+                "x": "2",
+                "y": "24",
+                "blur": "32",
+                "spread": "0",
+                "color": "rgba(41,45,48,0.16)",
+                "type": "dropShadow"
+                },
+                "type": "boxShadow"
+            }
         }
     }
 }
