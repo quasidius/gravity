@@ -2171,13 +2171,13 @@
                 "comment": "Shadow / Side panel",
                 "type": "boxShadow"
             }
-        },
-        "$themes": [],
-        "$metadata": {
-            "tokenSetOrder": [
-            "global",
-            "workstation"
-            ]
-        },
+        }
+    },
+    "$themes": [],
+    "$metadata": {
+        "tokenSetOrder": [
+        "global",
+        "workstation"
+        ]
     }
 }
