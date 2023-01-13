@@ -1,714 +1,714 @@
 {   
     "global" : {
-        "palette": {
+        "color": {
             "clear": {
                 "value": "rgba(255,255,255,0)",
-                "description": "Palette Reference Clear",
+                "description": "color Reference Clear",
                 "type": "color"
             },
             "grey": {
                 "value": "#969AA1",
-                "description": "Palette Reference White",
+                "description": "color Reference White",
                 "type": "color"
             },
             "blue": {
                 "value": "#298AFF",
-                "description": "Palette Reference Blue",
+                "description": "color Reference Blue",
                 "type": "color"
             },
             "green": {
                 "value": "#26A95C",
-                "description": "Palette Reference Green",
+                "description": "color Reference Green",
                 "type": "color"
             }, 
             "amber": {
                 "value": "#FBAC28",
-                "description": "Palette Reference Amber",
+                "description": "color Reference Amber",
                 "type": "color"
             },
             "red": {
                 "value": "#CC2626",
-                "description": "Palette Reference Red",
+                "description": "color Reference Red",
                 "type": "color"
             },
             "orange": {
                 "value": "#EF7B10",
-                "description": "Palette Reference Orange",
+                "description": "color Reference Orange",
                 "type": "color"
             },
             "neutral0": {
                 "value": "#ffffff",
-                "description": "Palette Neutral 0",
+                "description": "color Neutral 0",
                 "type": "color"
             },
             "neutral5": {
                 "value": "#FBFBFB",
-                "description": "Palette Neutral 5",
+                "description": "color Neutral 5",
                 "type": "color"
             },
             "neutral10": {
                 "value": "#F1F2F3",
-                "description": "Palette Neutral 10",
+                "description": "color Neutral 10",
                 "type": "color"
             },
             "neutral20": {
                 "value": "#E1E2E5",
-                "description": "Palette Neutral 20",
+                "description": "color Neutral 20",
                 "type": "color"
             },
             "neutral30": {
                 "value": "#D1D3D6",
-                "description": "Palette Neutral 30",
+                "description": "color Neutral 30",
                 "type": "color"
             },
             "neutral40": {
                 "value": "#B3B6BC",
-                "description": "Palette Neutral 40",
+                "description": "color Neutral 40",
                 "type": "color"
             },
             "neutral50": {
-                "value": "{palette.grey}",
-                "description": "Palette Neutral 50",
+                "value": "{color.grey}",
+                "description": "color Neutral 50",
                 "type": "color"
             },
             "neutral60": {
                 "value": "#737882",
-                "description": "Palette Neutral 60",
+                "description": "color Neutral 60",
                 "type": "color"
             },
             "neutral70": {
                 "value": "#5B5F67",
-                "description": "Palette Neutral 70",
+                "description": "color Neutral 70",
                 "type": "color"
             },
             "neutral80": {
                 "value": "#393C41",
-                "description": "Palette Neutral 80",
+                "description": "color Neutral 80",
                 "type": "color"
             },
             "neutral90": {
                 "value": "#2B2D31",
-                "description": "Palette Neutral 90",
+                "description": "color Neutral 90",
                 "type": "color"
             },
             "neutral100": {
                 "value": "#000000",
-                "description": "Palette Neutral 100",
+                "description": "color Neutral 100",
                 "type": "color"
             },
             "primary0": {
                 "value": "#ffffff",
-                "description": "Palette Primary 0",
+                "description": "color Primary 0",
                 "type": "color"
             },
             "primary5": {
                 "value": "#E6F3FF",
-                "description": "Palette Primary 5",
+                "description": "color Primary 5",
                 "type": "color"
             },
             "primary10": {
                 "value": "#B8DCFF",
-                "description": "Palette Primary 10",
+                "description": "color Primary 10",
                 "type": "color"
             },
             "primary20": {
                 "value": "#8AC7FF",
-                "description": "Palette Primary 20",
+                "description": "color Primary 20",
                 "type": "color"
             },
             "primary30": {
                 "value": "#60B2FF",
-                "description": "Palette Primary 30",
+                "description": "color Primary 30",
                 "type": "color"
             },
             "primary40": {
                 "value": "#429EFF",
-                "description": "Palette Primary 40",
+                "description": "color Primary 40",
                 "type": "color"
             },
             "primary50": {
-                "value": "{palette.blue}",
-                "description": "Palette Primary 50",
+                "value": "{color.blue}",
+                "description": "color Primary 50",
                 "type": "color"
             },
             "primary60": {
                 "value": "#2271F2",
-                "description": "Palette Primary 60",
+                "description": "color Primary 60",
                 "type": "color"
             },
             "primary70": {
                 "value": "#1F65D9",
-                "description": "Palette Primary 70",
+                "description": "color Primary 70",
                 "type": "color"
             },
             "primary80": {
                 "value": "#1953B3",
-                "description": "Palette Primary 80",
+                "description": "color Primary 80",
                 "type": "color"
             },
             "primary90": {
                 "value": "#14418C",
-                "description": "Palette Primary 90",
+                "description": "color Primary 90",
                 "type": "color"
             },
             "primary100": {
                 "value": "#000000",
-                "description": "Palette Primary 100",
+                "description": "color Primary 100",
                 "type": "color"
             },
             "secondary0": {
                 "value": "#ffffff",
-                "description": "Palette Secondary 0",
+                "description": "color Secondary 0",
                 "type": "color"
             },
             "secondary5": {
                 "value": "#FBFBFB",
-                "description": "Palette Secondary 5",
+                "description": "color Secondary 5",
                 "type": "color"
             },
             "secondary10": {
                 "value": "#F1F2F3",
-                "description": "Palette Secondary 10",
+                "description": "color Secondary 10",
                 "type": "color"
             },
             "secondary20": {
                 "value": "#E1E2E5",
-                "description": "Palette Secondary 20",
+                "description": "color Secondary 20",
                 "type": "color"
             },
             "secondary30": {
                 "value": "#D1D3D6",
-                "description": "Palette Secondary 30",
+                "description": "color Secondary 30",
                 "type": "color"
             },
             "secondary40": {
                 "value": "#B3B6BC",
-                "description": "Palette Secondary 40",
+                "description": "color Secondary 40",
                 "type": "color"
             },
             "secondary50": {
-                "value": "{palette.grey}",
-                "description": "Palette Secondary 50",
+                "value": "{color.grey}",
+                "description": "color Secondary 50",
                 "type": "color"
             },
             "secondary60": {
                 "value": "#737882",
-                "description": "Palette Secondary 60",
+                "description": "color Secondary 60",
                 "type": "color"
             },
             "secondary70": {
                 "value": "#5B5F67",
-                "description": "Palette Secondary 70",
+                "description": "color Secondary 70",
                 "type": "color"
             },
             "secondary80": {
                 "value": "#393C41",
-                "description": "Palette Secondary 80",
+                "description": "color Secondary 80",
                 "type": "color"
             },
             "secondary90": {
                 "value": "#2B2D31",
-                "description": "Palette Secondary 90",
+                "description": "color Secondary 90",
                 "type": "color"
             },
             "secondary100": {
                 "value": "#000000",
-                "description": "Palette Secondary 100",
+                "description": "color Secondary 100",
                 "type": "color"
             },
             "info0": {
                 "value": "#ffffff",
-                "description": "Palette Info 0",
+                "description": "color Info 0",
                 "type": "color"
             },
             "info5": {
                 "value": "#E6F3FF",
-                "description": "Palette Info 5",
+                "description": "color Info 5",
                 "type": "color"
             },
             "info10": {
                 "value": "#B8DCFF",
-                "description": "Palette Info 10",
+                "description": "color Info 10",
                 "type": "color"
             },
             "info20": {
                 "value": "#8AC7FF",
-                "description": "Palette Info 20",
+                "description": "color Info 20",
                 "type": "color"
             },
             "info30": {
                 "value": "#60B2FF",
-                "description": "Palette Info 30",
+                "description": "color Info 30",
                 "type": "color"
             },
             "info40": {
                 "value": "#429EFF",
-                "description": "Palette Info 40",
+                "description": "color Info 40",
                 "type": "color"
             },
             "info50": {
-                "value": "{palette.blue}",
-                "description": "Palette Info 50",
+                "value": "{color.blue}",
+                "description": "color Info 50",
                 "type": "color"
             },
             "info60": {
                 "value": "#2271F2",
-                "description": "Palette Info 60",
+                "description": "color Info 60",
                 "type": "color"
             },
             "info70": {
                 "value": "#1F65D9",
-                "description": "Palette Info 70",
+                "description": "color Info 70",
                 "type": "color"
             },
             "info80": {
                 "value": "#1953B3",
-                "description": "Palette Info 80",
+                "description": "color Info 80",
                 "type": "color"
             },
             "info90": {
                 "value": "#14418C",
-                "description": "Palette Info 90",
+                "description": "color Info 90",
                 "type": "color"
             },
             "info100": {
                 "value": "#000000",
-                "description": "Palette Info 100",
+                "description": "color Info 100",
                 "type": "color"
             },
             "success0": {
                 "value": "#ffffff",
-                "description": "Palette Success 0",
+                "description": "color Success 0",
                 "type": "color"
             },
             "success5": {
                 "value": "#E9F6EE",
-                "description": "Palette Success 5",
+                "description": "color Success 5",
                 "type": "color"
             },
             "success10": {
                 "value": "#D4EEDE",
-                "description": "Palette Success 10",
+                "description": "color Success 10",
                 "type": "color"
             },
             "success20": {
                 "value": "#A8DDBC",
-                "description": "Palette Success 20",
+                "description": "color Success 20",
                 "type": "color"
             },
             "success30": {
                 "value": "#7DCB9B",
-                "description": "Palette Success 30",
+                "description": "color Success 30",
                 "type": "color"
             },
             "success40": {
                 "value": "#51BA79",
-                "description": "Palette Success 40",
+                "description": "color Success 40",
                 "type": "color"
             },
             "success50": {
-                "value": "{palette.green}",
-                "description": "Palette Success 50",
+                "value": "{color.green}",
+                "description": "color Success 50",
                 "type": "color"
             },
             "success60": {
                 "value": "#188B3E",
-                "description": "Palette Success 60",
+                "description": "color Success 60",
                 "type": "color"
             },
             "success70": {
                 "value": "#157C37",
-                "description": "Palette Success 70",
+                "description": "color Success 70",
                 "type": "color"
             },
             "success80": {
                 "value": "#12662E",
-                "description": "Palette Success 80",
+                "description": "color Success 80",
                 "type": "color"
             },
             "success90": {
                 "value": "#0E5024",
-                "description": "Palette Success 90",
+                "description": "color Success 90",
                 "type": "color"
             },
             "success100": {
                 "value": "#000000",
-                "description": "Palette Success 100",
+                "description": "color Success 100",
                 "type": "color"
             },
             "warning0": {
                 "value": "#ffffff",
-                "description": "Palette Warning 0",
+                "description": "color Warning 0",
                 "type": "color"
             },
             "warning5": {
                 "value": "#FFF7EA",
-                "description": "Palette Warning 5",
+                "description": "color Warning 5",
                 "type": "color"
             },
             "warning10": {
                 "value": "#FEEED4",
-                "description": "Palette Warning 10",
+                "description": "color Warning 10",
                 "type": "color"
             },
             "warning20": {
                 "value": "#FDDEA9",
-                "description": "Palette Warning 20",
+                "description": "color Warning 20",
                 "type": "color"
             },
             "warning30": {
                 "value": "#FDCD7E",
-                "description": "Palette Warning 30",
+                "description": "color Warning 30",
                 "type": "color"
             },
             "warning40": {
                 "value": "#FCBD53",
-                "description": "Palette Warning 40",
+                "description": "color Warning 40",
                 "type": "color"
             },
             "warning50": {
-                "value": "{palette.amber}",
-                "description": "Palette Warning 50",
+                "value": "{color.amber}",
+                "description": "color Warning 50",
                 "type": "color"
             },
             "warning60": {
                 "value": "#DD8B22",
-                "description": "Palette Warning 60",
+                "description": "color Warning 60",
                 "type": "color"
             },
             "warning70": {
                 "value": "#C67C1F",
-                "description": "Palette Warning 70",
+                "description": "color Warning 70",
                 "type": "color"
             },
             "warning80": {
                 "value": "#A36619",
-                "description": "Palette Warning 80",
+                "description": "color Warning 80",
                 "type": "color"
             },
             "warning90": {
                 "value": "#805014",
-                "description": "Palette Warning 90",
+                "description": "color Warning 90",
                 "type": "color"
             },
             "warning100": {
                 "value": "#000000",
-                "description": "Palette Warning 100",
+                "description": "color Warning 100",
                 "type": "color"
             },
             "error0": {
                 "value": "#ffffff",
-                "description": "Palette Error 0",
+                "description": "color Error 0",
                 "type": "color"
             },
             "error5": {
                 "value": "#FAE9E9",
-                "description": "Palette Error 5",
+                "description": "color Error 5",
                 "type": "color"
             },
             "error10": {
                 "value": "#F5D4D4",
-                "description": "Palette Error 10",
+                "description": "color Error 10",
                 "type": "color"
             },
             "error20": {
                 "value": "#EBA8A8",
-                "description": "Palette Error 20",
+                "description": "color Error 20",
                 "type": "color"
             },
             "error30": {
                 "value": "#E07D7D",
-                "description": "Palette Error 30",
+                "description": "color Error 30",
                 "type": "color"
             },
             "error40": {
                 "value": "#D65151",
-                "description": "Palette Error 40",
+                "description": "color Error 40",
                 "type": "color"
             },
             "error50": {
-                "value": "{palette.red}",
-                "description": "Palette Error 50",
+                "value": "{color.red}",
+                "description": "color Error 50",
                 "type": "color"
             },
             "error60": {
                 "value": "#B31818",
-                "description": "Palette Error 60",
+                "description": "color Error 60",
                 "type": "color"
             },
             "error70": {
                 "value": "#A01515",
-                "description": "Palette Error 70",
+                "description": "color Error 70",
                 "type": "color"
             },
             "error80": {
                 "value": "#841212",
-                "description": "Palette Error 80",
+                "description": "color Error 80",
                 "type": "color"
             },
             "error90": {
                 "value": "#670E0E",
-                "description": "Palette Error 90",
+                "description": "color Error 90",
                 "type": "color"
             },
             "error100": {
                 "value": "#000000",
-                "description": "Palette Error 100",
+                "description": "color Error 100",
                 "type": "color"
             },
             "brand0": {
                 "value": "#ffffff",
-                "description": "Palette Brand 0",
+                "description": "color Brand 0",
                 "type": "color"
             },
             "brand5": {
                 "value": "#FDF2E7",
-                "description": "Palette Brand 5",
+                "description": "color Brand 5",
                 "type": "color"
             },
             "brand10": {
                 "value": "#FCE5CF",
-                "description": "Palette Brand 10",
+                "description": "color Brand 10",
                 "type": "color"
             },
             "brand20": {
                 "value": "#F3CA9F",
-                "description": "Palette Brand 20",
+                "description": "color Brand 20",
                 "type": "color"
             },
             "brand30": {
                 "value": "#F5B070",
-                "description": "Palette Brand 30",
+                "description": "color Brand 30",
                 "type": "color"
             },
             "brand40": {
                 "value": "#F29540",
-                "description": "Palette Brand 40",
+                "description": "color Brand 40",
                 "type": "color"
             },
             "brand50": {
-                "value": "{palette.orange}",
-                "description": "Palette Brand 50",
+                "value": "{color.orange}",
+                "description": "color Brand 50",
                 "type": "color"
             },
             "brand60": {
                 "value": "#DD5C0A",
-                "description": "Palette Brand 60",
+                "description": "color Brand 60",
                 "type": "color"
             },
             "brand70": {
                 "value": "#C65209",
-                "description": "Palette Brand 70",
+                "description": "color Brand 70",
                 "type": "color"
             },
             "brand80": {
                 "value": "#A34407",
-                "description": "Palette Brand 80",
+                "description": "color Brand 80",
                 "type": "color"
             },
             "brand90": {
                 "value": "#803506",
-                "description": "Palette Brand 90",
+                "description": "color Brand 90",
                 "type": "color"
             },
             "brand100": {
                 "value": "#000000",
-                "description": "Palette Brand 100",
+                "description": "color Brand 100",
                 "type": "color"
             },
         },
         "color": {
             "application": {
-                "value": "{palette.neutral5}",
+                "value": "{color.neutral5}",
                 "description": "Color Application (App BG)",
                 "type": "color"
             },
             "on-application": {
-                "value": "{palette.neutral80}",
+                "value": "{color.neutral80}",
                 "description": "Color On Application",
                 "type": "color"
             },
             "application-container": {
-                "value": "{palette.neutral20}",
+                "value": "{color.neutral20}",
                 "description": "Color Application Container (Sidebar BG)",
                 "type": "color"
             },
             "on-application-container": {
-                "value": "{palette.neutral80}",
+                "value": "{color.neutral80}",
                 "description": "Color On Application Container",
                 "type": "color"
             },
             "application-container-variant": {
-                "value": "{palette.neutral80}",
+                "value": "{color.neutral80}",
                 "description": "Color Application Container Variant (Header BG)",
                 "type": "color"
             },
             "on-application-container-variant": {
-                "value": "{palette.neutral0}",
+                "value": "{color.neutral0}",
                 "description": "Color On Application Container Variant",
                 "type": "color"
             },
             "component": {
-                "value": "{palette.neutral80}",
+                "value": "{color.neutral80}",
                 "description": "Color Component (Component BG ex:card)",
                 "type": "color"
             },
             "on-component": {
-                "value": "{palette.neutral5}",
+                "value": "{color.neutral5}",
                 "description": "Color On Component",
                 "type": "color"
             },
             "disabled": {
-                "value": "{palette.neutral10}",
+                "value": "{color.neutral10}",
                 "description": "Color Disabled (Disabled interactive elements BG)",
                 "type": "color"
             },
             "on-component": {
-                "value": "{palette.neutral30}",
+                "value": "{color.neutral30}",
                 "description": "Color On Disabled",
                 "type": "color"
             },
             "primary": {
                 "default": {
-                    "value": "{palette.primary50}",
+                    "value": "{color.primary50}",
                     "description": "Color Primary (Primary interactive elements BG)",
                     "type": "color",
                 },
                 "hover": {
-                    "value": "{palette.primary40}",
+                    "value": "{color.primary40}",
                     "description": "Color Primary Hover (Primary interactive elements hovered BG)",
                     "type": "color",
                 },
                 "press": {
-                    "value": "{palette.primary60}",
+                    "value": "{color.primary60}",
                     "description": "Color Primary Press (Primary interactive elements pressed BG)",
                     "type": "color",
                 },
             },
             "on-primary": {
-                "value": "{palette.primary0}",
+                "value": "{color.primary0}",
                 "description": "Color On Primary",
                 "type": "color"
             },
             "primary-container": {
-                "value": "{palette.primary5}",
+                "value": "{color.primary5}",
                 "description": "Color Primary Container (Primary light BG (ex: outline button hover BG)",
                 "type": "color"
             },
             "primary-on-container": {
-                "value": "{palette.primary90}",
+                "value": "{color.primary90}",
                 "description": "Color Primary On Container",
                 "type": "color"
             },
             "secondary": {
                 "default": {
-                    "value": "{palette.secondary80}",
+                    "value": "{color.secondary80}",
                     "description": "Color Secondary (Secondary interactive elements BG)",
                     "type": "color",
                 },
                 "hover": {
-                    "value": "{palette.secondary70}",
+                    "value": "{color.secondary70}",
                     "description": "Color Secondary Hover (Secondary interactive elements hovered BG)",
                     "type": "color",
                 },
                 "press": {
-                    "value": "{palette.secondary90}",
+                    "value": "{color.secondary90}",
                     "description": "Color Secondary Press (Secondary interactive elements pressed BG)",
                     "type": "color",
                 },
             },
             "on-secondary": {
-                "value": "{palette.secondary0}",
+                "value": "{color.secondary0}",
                 "description": "Color On Secondary",
                 "type": "color"
             },
             "secondary-container": {
-                "value": "{palette.secondary5}",
+                "value": "{color.secondary5}",
                 "description": "Color Secondary Container (Secondary light BG (ex: outline button hover BG)",
                 "type": "color"
             },
             "secondary-on-container": {
-                "value": "{palette.secondary90}",
+                "value": "{color.secondary90}",
                 "description": "Color Secondary On Container",
                 "type": "color"
             },
             "info": {
-                "value": "{palette.info50}",
+                "value": "{color.info50}",
                 "description": "Color Info (Info elements BG)",
                 "type": "color",
             },
             "on-info": {
-                "value": "{palette.info0}",
+                "value": "{color.info0}",
                 "description": "Color On Info",
                 "type": "color"
             },
             "info-container": {
-                "value": "{palette.info5}",
+                "value": "{color.info5}",
                 "description": "Color Info Container",
                 "type": "color"
             },
             "info-on-container": {
-                "value": "{palette.info70}",
+                "value": "{color.info70}",
                 "description": "Color Info On Container",
                 "type": "color"
             },
             "warning": {
-                "value": "{palette.warning50}",
+                "value": "{color.warning50}",
                 "description": "Color Warning (Warning elements BG)",
                 "type": "color",
             },
             "on-warning": {
-                "value": "{palette.warning0}",
+                "value": "{color.warning0}",
                 "description": "Color On Warning",
                 "type": "color"
             },
             "warning-container": {
-                "value": "{palette.warning5}",
+                "value": "{color.warning5}",
                 "description": "Color Warning Container",
                 "type": "color"
             },
             "warning-on-container": {
-                "value": "{palette.warning70}",
+                "value": "{color.warning70}",
                 "description": "Color Warning On Container",
                 "type": "color"
             },
             "success": {
-                "value": "{palette.success50}",
+                "value": "{color.success50}",
                 "description": "Color Success (Warning elements BG)",
                 "type": "color",
             },
             "on-success": {
-                "value": "{palette.success0}",
+                "value": "{color.success0}",
                 "description": "Color On Success",
                 "type": "color"
             },
             "success-container": {
-                "value": "{palette.success5}",
+                "value": "{color.success5}",
                 "description": "Color Success Container",
                 "type": "color"
             },
             "success-on-container": {
-                "value": "{palette.success70}",
+                "value": "{color.success70}",
                 "description": "Color Success On Container",
                 "type": "color"
             },
             "error": {
-                "value": "{palette.error50}",
+                "value": "{color.error50}",
                 "description": "Color Error (Warning elements BG)",
                 "type": "color",
             },
             "on-error": {
-                "value": "{palette.error0}",
+                "value": "{color.error0}",
                 "description": "Color On Error",
                 "type": "color"
             },
             "error-container": {
-                "value": "{palette.error5}",
+                "value": "{color.error5}",
                 "description": "Color Error Container",
                 "type": "color"
             },
             "error-on-container": {
-                "value": "{palette.error70}",
+                "value": "{color.error70}",
                 "description": "Color Error On Container",
                 "type": "color"
             },
@@ -1255,715 +1255,713 @@
         }
     },
     "workstation": {
-        "palette": {
+        "color": {
             "clear": {
                 "value": "rgba(255,255,255,0)",
-                "description": "Palette Reference Clear",
+                "description": "color Reference Clear",
                 "type": "color"
             },
             "grey": {
                 "value": "#969AA1",
-                "description": "Palette Reference White",
+                "description": "color Reference White",
                 "type": "color"
             },
             "blue": {
                 "value": "#298AFF",
-                "description": "Palette Reference Blue",
+                "description": "color Reference Blue",
                 "type": "color"
             },
             "green": {
                 "value": "#26A95C",
-                "description": "Palette Reference Green",
+                "description": "color Reference Green",
                 "type": "color"
             }, 
             "amber": {
                 "value": "#FBAC28",
-                "description": "Palette Reference Amber",
+                "description": "color Reference Amber",
                 "type": "color"
             },
             "red": {
                 "value": "#CC2626",
-                "description": "Palette Reference Red",
+                "description": "color Reference Red",
                 "type": "color"
             },
             "orange": {
                 "value": "#EF7B10",
-                "description": "Palette Reference Orange",
+                "description": "color Reference Orange",
                 "type": "color"
             },
             "neutral0": {
                 "value": "#ffffff",
-                "description": "Palette Neutral 0",
+                "description": "color Neutral 0",
                 "type": "color"
             },
             "neutral5": {
                 "value": "#FBFBFB",
-                "description": "Palette Neutral 5",
+                "description": "color Neutral 5",
                 "type": "color"
             },
             "neutral10": {
                 "value": "#F1F2F3",
-                "description": "Palette Neutral 10",
+                "description": "color Neutral 10",
                 "type": "color"
             },
             "neutral20": {
                 "value": "#E1E2E5",
-                "description": "Palette Neutral 20",
+                "description": "color Neutral 20",
                 "type": "color"
             },
             "neutral30": {
                 "value": "#D1D3D6",
-                "description": "Palette Neutral 30",
+                "description": "color Neutral 30",
                 "type": "color"
             },
             "neutral40": {
                 "value": "#B3B6BC",
-                "description": "Palette Neutral 40",
+                "description": "color Neutral 40",
                 "type": "color"
             },
             "neutral50": {
-                "value": "{palette.grey}",
-                "description": "Palette Neutral 50",
+                "value": "{color.grey}",
+                "description": "color Neutral 50",
                 "type": "color"
             },
             "neutral60": {
                 "value": "#737882",
-                "description": "Palette Neutral 60",
+                "description": "color Neutral 60",
                 "type": "color"
             },
             "neutral70": {
                 "value": "#5B5F67",
-                "description": "Palette Neutral 70",
+                "description": "color Neutral 70",
                 "type": "color"
             },
             "neutral80": {
                 "value": "#393C41",
-                "description": "Palette Neutral 80",
+                "description": "color Neutral 80",
                 "type": "color"
             },
             "neutral90": {
                 "value": "#2B2D31",
-                "description": "Palette Neutral 90",
+                "description": "color Neutral 90",
                 "type": "color"
             },
             "neutral100": {
                 "value": "#000000",
-                "description": "Palette Neutral 100",
+                "description": "color Neutral 100",
                 "type": "color"
             },
             "primary0": {
                 "value": "#ffffff",
-                "description": "Palette Primary 0",
+                "description": "color Primary 0",
                 "type": "color"
             },
             "primary5": {
                 "value": "#E6F3FF",
-                "description": "Palette Primary 5",
+                "description": "color Primary 5",
                 "type": "color"
             },
             "primary10": {
                 "value": "#B8DCFF",
-                "description": "Palette Primary 10",
+                "description": "color Primary 10",
                 "type": "color"
             },
             "primary20": {
                 "value": "#8AC7FF",
-                "description": "Palette Primary 20",
+                "description": "color Primary 20",
                 "type": "color"
             },
             "primary30": {
                 "value": "#60B2FF",
-                "description": "Palette Primary 30",
+                "description": "color Primary 30",
                 "type": "color"
             },
             "primary40": {
                 "value": "#429EFF",
-                "description": "Palette Primary 40",
+                "description": "color Primary 40",
                 "type": "color"
             },
             "primary50": {
-                "value": "{palette.blue}",
-                "description": "Palette Primary 50",
+                "value": "{color.blue}",
+                "description": "color Primary 50",
                 "type": "color"
             },
             "primary60": {
                 "value": "#2271F2",
-                "description": "Palette Primary 60",
+                "description": "color Primary 60",
                 "type": "color"
             },
             "primary70": {
                 "value": "#1F65D9",
-                "description": "Palette Primary 70",
+                "description": "color Primary 70",
                 "type": "color"
             },
             "primary80": {
                 "value": "#1953B3",
-                "description": "Palette Primary 80",
+                "description": "color Primary 80",
                 "type": "color"
             },
             "primary90": {
                 "value": "#14418C",
-                "description": "Palette Primary 90",
+                "description": "color Primary 90",
                 "type": "color"
             },
             "primary100": {
                 "value": "#000000",
-                "description": "Palette Primary 100",
+                "description": "color Primary 100",
                 "type": "color"
             },
             "secondary0": {
                 "value": "#ffffff",
-                "description": "Palette Secondary 0",
+                "description": "color Secondary 0",
                 "type": "color"
             },
             "secondary5": {
                 "value": "#FBFBFB",
-                "description": "Palette Secondary 5",
+                "description": "color Secondary 5",
                 "type": "color"
             },
             "secondary10": {
                 "value": "#F1F2F3",
-                "description": "Palette Secondary 10",
+                "description": "color Secondary 10",
                 "type": "color"
             },
             "secondary20": {
                 "value": "#E1E2E5",
-                "description": "Palette Secondary 20",
+                "description": "color Secondary 20",
                 "type": "color"
             },
             "secondary30": {
                 "value": "#D1D3D6",
-                "description": "Palette Secondary 30",
+                "description": "color Secondary 30",
                 "type": "color"
             },
             "secondary40": {
                 "value": "#B3B6BC",
-                "description": "Palette Secondary 40",
+                "description": "color Secondary 40",
                 "type": "color"
             },
             "secondary50": {
-                "value": "{palette.grey}",
-                "description": "Palette Secondary 50",
+                "value": "{color.grey}",
+                "description": "color Secondary 50",
                 "type": "color"
             },
             "secondary60": {
                 "value": "#737882",
-                "description": "Palette Secondary 60",
+                "description": "color Secondary 60",
                 "type": "color"
             },
             "secondary70": {
                 "value": "#5B5F67",
-                "description": "Palette Secondary 70",
+                "description": "color Secondary 70",
                 "type": "color"
             },
             "secondary80": {
                 "value": "#393C41",
-                "description": "Palette Secondary 80",
+                "description": "color Secondary 80",
                 "type": "color"
             },
             "secondary90": {
                 "value": "#2B2D31",
-                "description": "Palette Secondary 90",
+                "description": "color Secondary 90",
                 "type": "color"
             },
             "secondary100": {
                 "value": "#000000",
-                "description": "Palette Secondary 100",
+                "description": "color Secondary 100",
                 "type": "color"
             },
             "info0": {
                 "value": "#ffffff",
-                "description": "Palette Info 0",
+                "description": "color Info 0",
                 "type": "color"
             },
             "info5": {
                 "value": "#E6F3FF",
-                "description": "Palette Info 5",
+                "description": "color Info 5",
                 "type": "color"
             },
             "info10": {
                 "value": "#B8DCFF",
-                "description": "Palette Info 10",
+                "description": "color Info 10",
                 "type": "color"
             },
             "info20": {
                 "value": "#8AC7FF",
-                "description": "Palette Info 20",
+                "description": "color Info 20",
                 "type": "color"
             },
             "info30": {
                 "value": "#60B2FF",
-                "description": "Palette Info 30",
+                "description": "color Info 30",
                 "type": "color"
             },
             "info40": {
                 "value": "#429EFF",
-                "description": "Palette Info 40",
+                "description": "color Info 40",
                 "type": "color"
             },
             "info50": {
-                "value": "{palette.blue}",
-                "description": "Palette Info 50",
+                "value": "{color.blue}",
+                "description": "color Info 50",
                 "type": "color"
             },
             "info60": {
                 "value": "#2271F2",
-                "description": "Palette Info 60",
+                "description": "color Info 60",
                 "type": "color"
             },
             "info70": {
                 "value": "#1F65D9",
-                "description": "Palette Info 70",
+                "description": "color Info 70",
                 "type": "color"
             },
             "info80": {
                 "value": "#1953B3",
-                "description": "Palette Info 80",
+                "description": "color Info 80",
                 "type": "color"
             },
             "info90": {
                 "value": "#14418C",
-                "description": "Palette Info 90",
+                "description": "color Info 90",
                 "type": "color"
             },
             "info100": {
                 "value": "#000000",
-                "description": "Palette Info 100",
+                "description": "color Info 100",
                 "type": "color"
             },
             "success0": {
                 "value": "#ffffff",
-                "description": "Palette Success 0",
+                "description": "color Success 0",
                 "type": "color"
             },
             "success5": {
                 "value": "#E9F6EE",
-                "description": "Palette Success 5",
+                "description": "color Success 5",
                 "type": "color"
             },
             "success10": {
                 "value": "#D4EEDE",
-                "description": "Palette Success 10",
+                "description": "color Success 10",
                 "type": "color"
             },
             "success20": {
                 "value": "#A8DDBC",
-                "description": "Palette Success 20",
+                "description": "color Success 20",
                 "type": "color"
             },
             "success30": {
                 "value": "#7DCB9B",
-                "description": "Palette Success 30",
+                "description": "color Success 30",
                 "type": "color"
             },
             "success40": {
                 "value": "#51BA79",
-                "description": "Palette Success 40",
+                "description": "color Success 40",
                 "type": "color"
             },
             "success50": {
-                "value": "{palette.green}",
-                "description": "Palette Success 50",
+                "value": "{color.green}",
+                "description": "color Success 50",
                 "type": "color"
             },
             "success60": {
                 "value": "#188B3E",
-                "description": "Palette Success 60",
+                "description": "color Success 60",
                 "type": "color"
             },
             "success70": {
                 "value": "#157C37",
-                "description": "Palette Success 70",
+                "description": "color Success 70",
                 "type": "color"
             },
             "success80": {
                 "value": "#12662E",
-                "description": "Palette Success 80",
+                "description": "color Success 80",
                 "type": "color"
             },
             "success90": {
                 "value": "#0E5024",
-                "description": "Palette Success 90",
+                "description": "color Success 90",
                 "type": "color"
             },
             "success100": {
                 "value": "#000000",
-                "description": "Palette Success 100",
+                "description": "color Success 100",
                 "type": "color"
             },
             "warning0": {
                 "value": "#ffffff",
-                "description": "Palette Warning 0",
+                "description": "color Warning 0",
                 "type": "color"
             },
             "warning5": {
                 "value": "#FFF7EA",
-                "description": "Palette Warning 5",
+                "description": "color Warning 5",
                 "type": "color"
             },
             "warning10": {
                 "value": "#FEEED4",
-                "description": "Palette Warning 10",
+                "description": "color Warning 10",
                 "type": "color"
             },
             "warning20": {
                 "value": "#FDDEA9",
-                "description": "Palette Warning 20",
+                "description": "color Warning 20",
                 "type": "color"
             },
             "warning30": {
                 "value": "#FDCD7E",
-                "description": "Palette Warning 30",
+                "description": "color Warning 30",
                 "type": "color"
             },
             "warning40": {
                 "value": "#FCBD53",
-                "description": "Palette Warning 40",
+                "description": "color Warning 40",
                 "type": "color"
             },
             "warning50": {
-                "value": "{palette.amber}",
-                "description": "Palette Warning 50",
+                "value": "{color.amber}",
+                "description": "color Warning 50",
                 "type": "color"
             },
             "warning60": {
                 "value": "#DD8B22",
-                "description": "Palette Warning 60",
+                "description": "color Warning 60",
                 "type": "color"
             },
             "warning70": {
                 "value": "#C67C1F",
-                "description": "Palette Warning 70",
+                "description": "color Warning 70",
                 "type": "color"
             },
             "warning80": {
                 "value": "#A36619",
-                "description": "Palette Warning 80",
+                "description": "color Warning 80",
                 "type": "color"
             },
             "warning90": {
                 "value": "#805014",
-                "description": "Palette Warning 90",
+                "description": "color Warning 90",
                 "type": "color"
             },
             "warning100": {
                 "value": "#000000",
-                "description": "Palette Warning 100",
+                "description": "color Warning 100",
                 "type": "color"
             },
             "error0": {
                 "value": "#ffffff",
-                "description": "Palette Error 0",
+                "description": "color Error 0",
                 "type": "color"
             },
             "error5": {
                 "value": "#FAE9E9",
-                "description": "Palette Error 5",
+                "description": "color Error 5",
                 "type": "color"
             },
             "error10": {
                 "value": "#F5D4D4",
-                "description": "Palette Error 10",
+                "description": "color Error 10",
                 "type": "color"
             },
             "error20": {
                 "value": "#EBA8A8",
-                "description": "Palette Error 20",
+                "description": "color Error 20",
                 "type": "color"
             },
             "error30": {
                 "value": "#E07D7D",
-                "description": "Palette Error 30",
+                "description": "color Error 30",
                 "type": "color"
             },
             "error40": {
                 "value": "#D65151",
-                "description": "Palette Error 40",
+                "description": "color Error 40",
                 "type": "color"
             },
             "error50": {
-                "value": "{palette.red}",
-                "description": "Palette Error 50",
+                "value": "{color.red}",
+                "description": "color Error 50",
                 "type": "color"
             },
             "error60": {
                 "value": "#B31818",
-                "description": "Palette Error 60",
+                "description": "color Error 60",
                 "type": "color"
             },
             "error70": {
                 "value": "#A01515",
-                "description": "Palette Error 70",
+                "description": "color Error 70",
                 "type": "color"
             },
             "error80": {
                 "value": "#841212",
-                "description": "Palette Error 80",
+                "description": "color Error 80",
                 "type": "color"
             },
             "error90": {
                 "value": "#670E0E",
-                "description": "Palette Error 90",
+                "description": "color Error 90",
                 "type": "color"
             },
             "error100": {
                 "value": "#000000",
-                "description": "Palette Error 100",
+                "description": "color Error 100",
                 "type": "color"
             },
             "brand0": {
                 "value": "#ffffff",
-                "description": "Palette Brand 0",
+                "description": "color Brand 0",
                 "type": "color"
             },
             "brand5": {
                 "value": "#FDF2E7",
-                "description": "Palette Brand 5",
+                "description": "color Brand 5",
                 "type": "color"
             },
             "brand10": {
                 "value": "#FCE5CF",
-                "description": "Palette Brand 10",
+                "description": "color Brand 10",
                 "type": "color"
             },
             "brand20": {
                 "value": "#F3CA9F",
-                "description": "Palette Brand 20",
+                "description": "color Brand 20",
                 "type": "color"
             },
             "brand30": {
                 "value": "#F5B070",
-                "description": "Palette Brand 30",
+                "description": "color Brand 30",
                 "type": "color"
             },
             "brand40": {
                 "value": "#F29540",
-                "description": "Palette Brand 40",
+                "description": "color Brand 40",
                 "type": "color"
             },
             "brand50": {
-                "value": "{palette.orange}",
-                "description": "Palette Brand 50",
+                "value": "{color.orange}",
+                "description": "color Brand 50",
                 "type": "color"
             },
             "brand60": {
                 "value": "#DD5C0A",
-                "description": "Palette Brand 60",
+                "description": "color Brand 60",
                 "type": "color"
             },
             "brand70": {
                 "value": "#C65209",
-                "description": "Palette Brand 70",
+                "description": "color Brand 70",
                 "type": "color"
             },
             "brand80": {
                 "value": "#A34407",
-                "description": "Palette Brand 80",
+                "description": "color Brand 80",
                 "type": "color"
             },
             "brand90": {
                 "value": "#803506",
-                "description": "Palette Brand 90",
+                "description": "color Brand 90",
                 "type": "color"
             },
             "brand100": {
                 "value": "#000000",
-                "description": "Palette Brand 100",
+                "description": "color Brand 100",
                 "type": "color"
             },
-        },
-        "color": {
             "application": {
-                "value": "{palette.neutral5}",
+                "value": "{color.neutral5}",
                 "description": "Color Application (App BG)",
                 "type": "color"
             },
             "on-application": {
-                "value": "{palette.neutral80}",
+                "value": "{color.neutral80}",
                 "description": "Color On Application",
                 "type": "color"
             },
             "application-container": {
-                "value": "{palette.neutral20}",
+                "value": "{color.neutral20}",
                 "description": "Color Application Container (Sidebar BG)",
                 "type": "color"
             },
             "on-application-container": {
-                "value": "{palette.neutral80}",
+                "value": "{color.neutral80}",
                 "description": "Color On Application Container",
                 "type": "color"
             },
             "application-container-variant": {
-                "value": "{palette.neutral80}",
+                "value": "{color.neutral80}",
                 "description": "Color Application Container Variant (Header BG)",
                 "type": "color"
             },
             "on-application-container-variant": {
-                "value": "{palette.neutral0}",
+                "value": "{color.neutral0}",
                 "description": "Color On Application Container Variant",
                 "type": "color"
             },
             "component": {
-                "value": "{palette.neutral80}",
+                "value": "{color.neutral80}",
                 "description": "Color Component (Component BG ex:card)",
                 "type": "color"
             },
             "on-component": {
-                "value": "{palette.neutral5}",
+                "value": "{color.neutral5}",
                 "description": "Color On Component",
                 "type": "color"
             },
             "disabled": {
-                "value": "{palette.neutral10}",
+                "value": "{color.neutral10}",
                 "description": "Color Disabled (Disabled interactive elements BG)",
                 "type": "color"
             },
             "on-component": {
-                "value": "{palette.neutral30}",
+                "value": "{color.neutral30}",
                 "description": "Color On Disabled",
                 "type": "color"
             },
             "primary": {
                 "default" : {
-                    "value": "{palette.primary50}",
+                    "value": "{color.primary50}",
                     "description": "Color Primary (Primary interactive elements BG)",
                     "type": "color",
                 },
                 "hover": {
-                    "value": "{palette.primary40}",
+                    "value": "{color.primary40}",
                     "description": "Color Primary Hover (Primary interactive elements hovered BG)",
                     "type": "color",
                 },
                 "press": {
-                    "value": "{palette.primary60}",
+                    "value": "{color.primary60}",
                     "description": "Color Primary Press (Primary interactive elements pressed BG)",
                     "type": "color",
                 },
             },
             "on-primary": {
-                "value": "{palette.primary0}",
+                "value": "{color.primary0}",
                 "description": "Color On Primary",
                 "type": "color"
             },
             "primary-container": {
-                "value": "{palette.primary5}",
+                "value": "{color.primary5}",
                 "description": "Color Primary Container (Primary light BG (ex: outline button hover BG)",
                 "type": "color"
             },
             "primary-on-container": {
-                "value": "{palette.primary90}",
+                "value": "{color.primary90}",
                 "description": "Color Primary On Container",
                 "type": "color"
             },
             "secondary": {
                 "default": {
-                    "value": "{palette.secondary80}",
+                    "value": "{color.secondary80}",
                     "description": "Color Secondary (Secondary interactive elements BG)",
                     "type": "color",
                 },
                 "hover": {
-                    "value": "{palette.secondary70}",
+                    "value": "{color.secondary70}",
                     "description": "Color Secondary Hover (Secondary interactive elements hovered BG)",
                     "type": "color",
                 },
                 "press": {
-                    "value": "{palette.secondary90}",
+                    "value": "{color.secondary90}",
                     "description": "Color Secondary Press (Secondary interactive elements pressed BG)",
                     "type": "color",
                 },
             },
             "on-secondary": {
-                "value": "{palette.secondary0}",
+                "value": "{color.secondary0}",
                 "description": "Color On Secondary",
                 "type": "color"
             },
             "secondary-container": {
-                "value": "{palette.secondary5}",
+                "value": "{color.secondary5}",
                 "description": "Color Secondary Container (Secondary light BG (ex: outline button hover BG)",
                 "type": "color"
             },
             "secondary-on-container": {
-                "value": "{palette.secondary90}",
+                "value": "{color.secondary90}",
                 "description": "Color Secondary On Container",
                 "type": "color"
             },
             "info": {
-                "value": "{palette.info50}",
+                "value": "{color.info50}",
                 "description": "Color Info (Info elements BG)",
                 "type": "color",
             },
             "on-info": {
-                "value": "{palette.info0}",
+                "value": "{color.info0}",
                 "description": "Color On Info",
                 "type": "color"
             },
             "info-container": {
-                "value": "{palette.info5}",
+                "value": "{color.info5}",
                 "description": "Color Info Container",
                 "type": "color"
             },
             "info-on-container": {
-                "value": "{palette.info70}",
+                "value": "{color.info70}",
                 "description": "Color Info On Container",
                 "type": "color"
             },
             "warning": {
-                "value": "{palette.warning50}",
+                "value": "{color.warning50}",
                 "description": "Color Warning (Warning elements BG)",
                 "type": "color",
             },
             "on-warning": {
-                "value": "{palette.warning0}",
+                "value": "{color.warning0}",
                 "description": "Color On Warning",
                 "type": "color"
             },
             "warning-container": {
-                "value": "{palette.warning5}",
+                "value": "{color.warning5}",
                 "description": "Color Warning Container",
                 "type": "color"
             },
             "warning-on-container": {
-                "value": "{palette.warning70}",
+                "value": "{color.warning70}",
                 "description": "Color Warning On Container",
                 "type": "color"
             },
             "success": {
-                "value": "{palette.success50}",
+                "value": "{color.success50}",
                 "description": "Color Success (Warning elements BG)",
                 "type": "color",
             },
             "on-success": {
-                "value": "{palette.success0}",
+                "value": "{color.success0}",
                 "description": "Color On Success",
                 "type": "color"
             },
             "success-container": {
-                "value": "{palette.success5}",
+                "value": "{color.success5}",
                 "description": "Color Success Container",
                 "type": "color"
             },
             "success-on-container": {
-                "value": "{palette.success70}",
+                "value": "{color.success70}",
                 "description": "Color Success On Container",
                 "type": "color"
             },
             "error": {
-                "value": "{palette.error50}",
+                "value": "{color.error50}",
                 "description": "Color Error (Warning elements BG)",
                 "type": "color",
             },
             "on-error": {
-                "value": "{palette.error0}",
+                "value": "{color.error0}",
                 "description": "Color On Error",
                 "type": "color"
             },
             "error-container": {
-                "value": "{palette.error5}",
+                "value": "{color.error5}",
                 "description": "Color Error Container",
                 "type": "color"
             },
             "error-on-container": {
-                "value": "{palette.error70}",
+                "value": "{color.error70}",
                 "description": "Color Error On Container",
                 "type": "color"
             },
