@@ -710,544 +710,544 @@
             },
         }, 
         "spacing": {
-        "s": {
-            "value": "0.5rem",
-            "description": "8px",
-            "type": "spacing"
-        },
-        "m": {
-            "value": "1rem",
-            "description": "16px",
-            "type": "spacing"
-        },
-        "l": {
-            "value": "1.5rem",
-            "description": "24px",
-            "type": "spacing"
-        },
-        "xl": {
-            "value": "2rem",
-            "description": "32px",
-            "type": "spacing"
-        },
-        "2xl": {
-            "value": "2.5rem",
-            "description": "40px",
-            "type": "spacing"
-        },
-        "3xl": {
-            "value": "3rem",
-            "description": "48px",
-            "type": "spacing"
-        },
-        "4xl": {
-            "value": "3.5rem",
-            "description": "56px",
-            "type": "spacing"
-        },
-        "5xl": {
-            "value": "4rem",
-            "description": "64px",
-            "type": "spacing"
-        }
+            "s": {
+                "value": "0.5rem",
+                "description": "8px",
+                "type": "spacing"
+            },
+            "m": {
+                "value": "1rem",
+                "description": "16px",
+                "type": "spacing"
+            },
+            "l": {
+                "value": "1.5rem",
+                "description": "24px",
+                "type": "spacing"
+            },
+            "xl": {
+                "value": "2rem",
+                "description": "32px",
+                "type": "spacing"
+            },
+            "2xl": {
+                "value": "2.5rem",
+                "description": "40px",
+                "type": "spacing"
+            },
+            "3xl": {
+                "value": "3rem",
+                "description": "48px",
+                "type": "spacing"
+            },
+            "4xl": {
+                "value": "3.5rem",
+                "description": "56px",
+                "type": "spacing"
+            },
+            "5xl": {
+                "value": "4rem",
+                "description": "64px",
+                "type": "spacing"
+            }
         },
         "sizing": {
-        "xs": {
-            "value": "16",
-            "type": "sizing",
-            "description": "16px"
-        },
-        "s": {
-            "value": "24",
-            "type": "sizing",
-            "description": "24px"
-        },
-        "m": {
-            "value": "32",
-            "type": "sizing",
-            "description": "32px"
-        },
-        "l": {
-            "value": "40",
-            "type": "sizing",
-            "description": "40px"
-        },
-        "xl": {
-            "value": "56",
-            "type": "sizing",
-            "description": "56px"
-        }
+            "xs": {
+                "value": "16",
+                "type": "sizing",
+                "description": "16px"
+            },
+            "s": {
+                "value": "24",
+                "type": "sizing",
+                "description": "24px"
+            },
+            "m": {
+                "value": "32",
+                "type": "sizing",
+                "description": "32px"
+            },
+            "l": {
+                "value": "40",
+                "type": "sizing",
+                "description": "40px"
+            },
+            "xl": {
+                "value": "56",
+                "type": "sizing",
+                "description": "56px"
+            }
         },
         "lineHeights": {
-        "s": {
-            "value": "16",
-            "comment": "16px (Label 4)",
-            "type": "lineHeights"
-        },
-        "m": {
-            "value": "20",
-            "comment": "20px (H4, Body 1, Body 2, Label 2, )",
-            "type": "lineHeights"
-        },
-        "l": {
-            "value": "24",
-            "comment": "24px (H3)",
-            "type": "lineHeights"
-        },
-        "xl": {
-            "value": "28",
-            "comment": "28px",
-            "type": "lineHeights"
-        },
-        "2xl": {
-            "value": "32",
-            "comment": "32px (H2)",
-            "type": "lineHeights"
-        },
-        "3xl": {
-            "value": "36",
-            "comment": "36px (H1)",
-            "type": "lineHeights"
-        },
-        "4xl": {
-            "value": "48",
-            "comment": "48px",
-            "type": "lineHeights"
-        }
+            "s": {
+                "value": "16",
+                "comment": "16px (Label 4)",
+                "type": "lineHeights"
+            },
+            "m": {
+                "value": "20",
+                "comment": "20px (H4, Body 1, Body 2, Label 2, )",
+                "type": "lineHeights"
+            },
+            "l": {
+                "value": "24",
+                "comment": "24px (H3)",
+                "type": "lineHeights"
+            },
+            "xl": {
+                "value": "28",
+                "comment": "28px",
+                "type": "lineHeights"
+            },
+            "2xl": {
+                "value": "32",
+                "comment": "32px (H2)",
+                "type": "lineHeights"
+            },
+            "3xl": {
+                "value": "36",
+                "comment": "36px (H1)",
+                "type": "lineHeights"
+            },
+            "4xl": {
+                "value": "48",
+                "comment": "48px",
+                "type": "lineHeights"
+            }
         },
         "fontSizes": {
-        "2xs": {
-            "value": "10",
-            "comment": "10px (sidebar)",
-            "type": "fontSizes"
-        },
-        "xs": {
-            "value": "12",
-            "comment": "12px (Label 4)",
-            "type": "fontSizes"
-        },
-        "s": {
-            "value": "14",
-            "comment": "14px (Body 2, Label 3)",
-            "type": "fontSizes"
-        },
-        "m": {
-            "value": "16",
-            "comment": "16px (H4, Body 1, Label 2)",
-            "type": "fontSizes"
-        },
-        "l": {
-            "value": "20",
-            "comment": "20px (H3, Label 1)",
-            "type": "fontSizes"
-        },
-        "xl": {
-            "value": "24",
-            "comment": "24px (H2)",
-            "type": "fontSizes"
-        },
-        "2xl": {
-            "value": "32",
-            "comment": "32px (H1)",
-            "type": "fontSizes"
-        },
-        "3xl": {
-            "value": "40",
-            "comment": "64px",
-            "type": "fontSizes"
-        },
-        "4xl": {
-            "value": "64",
-            "comment": "64px",
-            "type": "fontSizes"
-        }
+            "2xs": {
+                "value": "10",
+                "comment": "10px (sidebar)",
+                "type": "fontSizes"
+            },
+            "xs": {
+                "value": "12",
+                "comment": "12px (Label 4)",
+                "type": "fontSizes"
+            },
+            "s": {
+                "value": "14",
+                "comment": "14px (Body 2, Label 3)",
+                "type": "fontSizes"
+            },
+            "m": {
+                "value": "16",
+                "comment": "16px (H4, Body 1, Label 2)",
+                "type": "fontSizes"
+            },
+            "l": {
+                "value": "20",
+                "comment": "20px (H3, Label 1)",
+                "type": "fontSizes"
+            },
+            "xl": {
+                "value": "24",
+                "comment": "24px (H2)",
+                "type": "fontSizes"
+            },
+            "2xl": {
+                "value": "32",
+                "comment": "32px (H1)",
+                "type": "fontSizes"
+            },
+            "3xl": {
+                "value": "40",
+                "comment": "64px",
+                "type": "fontSizes"
+            },
+            "4xl": {
+                "value": "64",
+                "comment": "64px",
+                "type": "fontSizes"
+            }
         },
         "fontWeights": {
-        "light": {
-            "value": "Light",
-            "comment": "Light",
-            "type": "fontWeights"
-        },
-        "regular": {
-            "value": "Regular",
-            "comment": "Regular",
-            "type": "fontWeights"
-        },
-        "medium": {
-            "value": "Medium",
-            "comment": "Medium",
-            "type": "fontWeights"
-        },
-        "bold": {
-            "value": "Bold",
-            "comment": "Bold",
-            "type": "fontWeights"
-        }
+            "light": {
+                "value": "Light",
+                "comment": "Light",
+                "type": "fontWeights"
+            },
+            "regular": {
+                "value": "Regular",
+                "comment": "Regular",
+                "type": "fontWeights"
+            },
+            "medium": {
+                "value": "Medium",
+                "comment": "Medium",
+                "type": "fontWeights"
+            },
+            "bold": {
+                "value": "Bold",
+                "comment": "Bold",
+                "type": "fontWeights"
+            }
         },
         "textCase": {
-        "normal": {
-            "value": "none",
-            "comment": "default",
-            "type": "textCase"
-        },
-        "uppercase": {
-            "value": "uppercase",
-            "comment": "All caps",
-            "type": "textCase"
-        }
+            "normal": {
+                "value": "none",
+                "comment": "default",
+                "type": "textCase"
+            },
+            "uppercase": {
+                "value": "uppercase",
+                "comment": "All caps",
+                "type": "textCase"
+            }
         },
         "fontFamilies": {
-        "primary": {
-            "value": "Roboto",
-            "comment": "Roboto",
-            "type": "fontFamilies"
-        }
+            "primary": {
+                "value": "Roboto",
+                "comment": "Roboto",
+                "type": "fontFamilies"
+            }
         },
         "Caption": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.regular}",
-            "lineHeight": "{lineHeights.s}",
-            "fontSize": "{fontSizes.xs}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is caption text, regular weight. It is used as captions and timestamps ex: 7 minutes ago."
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.regular}",
+                "lineHeight": "{lineHeights.s}",
+                "fontSize": "{fontSizes.xs}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is caption text, regular weight. It is used as captions and timestamps ex: 7 minutes ago."
         },
         "CaptionMedium": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.medium}",
-            "lineHeight": "{lineHeights.s}",
-            "fontSize": "{fontSizes.xs}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is caption text, medium weight. This style is used in Badges and links"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.medium}",
+                "lineHeight": "{lineHeights.s}",
+                "fontSize": "{fontSizes.xs}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is caption text, medium weight. This style is used in Badges and links"
         },
         "CaptionMediumCaps": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.medium}",
-            "lineHeight": "{lineHeights.s}",
-            "fontSize": "{fontSizes.xs}",
-            "textCase": "{textCase.uppercase}"
-        },
-        "type": "typography",
-        "comment": "This is caption text, medium weight in caps. This style is used in Card Eyebrow"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.medium}",
+                "lineHeight": "{lineHeights.s}",
+                "fontSize": "{fontSizes.xs}",
+                "textCase": "{textCase.uppercase}"
+            },
+            "type": "typography",
+            "comment": "This is caption text, medium weight in caps. This style is used in Card Eyebrow"
         },
         "CaptionBold": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.s}",
-            "fontSize": "{fontSizes.xs}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is caption text, medium weight. This style is used in Badges and links"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.s}",
+                "fontSize": "{fontSizes.xs}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is caption text, medium weight. This style is used in Badges and links"
         },
         "CaptionBoldCaps": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.s}",
-            "fontSize": "{fontSizes.xs}",
-            "textCase": "{textCase.uppercase}"
-        },
-        "type": "typography",
-        "comment": "This is caption text, medium weight. This style is used in Badges and links"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.s}",
+                "fontSize": "{fontSizes.xs}",
+                "textCase": "{textCase.uppercase}"
+            },
+            "type": "typography",
+            "comment": "This is caption text, medium weight. This style is used in Badges and links"
         },
         "Body": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.regular}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.m}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is Body 1, in regular weight. It is a primary size for copy in a side panel, atoms and molecule components such as chips, selections. text in modal and  lists ..."
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.regular}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.m}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is Body 1, in regular weight. It is a primary size for copy in a side panel, atoms and molecule components such as chips, selections. text in modal and  lists ..."
         },
         "BodyMedium": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.medium}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.m}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is Body 1 in medium weight, which is predominately used in Accordion header, and links"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.medium}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.m}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is Body 1 in medium weight, which is predominately used in Accordion header, and links"
         },
         "BodyBold": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.m}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is Body 1 in bold weight. Used as a Section title in the side panel, Modular accordion header paired with icon, selections"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.m}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is Body 1 in bold weight. Used as a Section title in the side panel, Modular accordion header paired with icon, selections"
         },
         "BodyBoldCaps": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.m}",
-            "textCase": "{textCase.uppercase}"
-        },
-        "type": "typography",
-        "comment": "This is Body 1 in bold weight. Used as a Section title in the side panel, Modular accordion header paired with icon, selections"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.m}",
+                "textCase": "{textCase.uppercase}"
+            },
+            "type": "typography",
+            "comment": "This is Body 1 in bold weight. Used as a Section title in the side panel, Modular accordion header paired with icon, selections"
         },
         "Body2": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.regular}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.s}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is Body 2, a secondary size for paragraphs of text. This style is used in Legend, Snack bar, Search, Table rows, Side panel sub header (when stacked by XL)"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.regular}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.s}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is Body 2, a secondary size for paragraphs of text. This style is used in Legend, Snack bar, Search, Table rows, Side panel sub header (when stacked by XL)"
         },
         "Body2Medium": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.medium}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.s}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is Body 2, in medium weight. This style is used in Tags, Timeline, Search list item, Card ID and links"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.medium}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.s}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is Body 2, in medium weight. This style is used in Tags, Timeline, Search list item, Card ID and links"
         },
         "Body2Bold": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.s}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "This is Body 2, in bold weight.This style is used in Banner, breadcrumbs ..."
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.s}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "This is Body 2, in bold weight.This style is used in Banner, breadcrumbs ..."
         },
         "Body2BoldCaps": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.s}",
-            "textCase": "{textCase.uppercase}"
-        },
-        "type": "typography",
-        "comment": "This is Body 2, in bold weight.This style is used in Banner, breadcrumbs ..."
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.s}",
+                "textCase": "{textCase.uppercase}"
+            },
+            "type": "typography",
+            "comment": "This is Body 2, in bold weight.This style is used in Banner, breadcrumbs ..."
         },
         "Header": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.regular}",
-            "lineHeight": "{lineHeights.3xl}",
-            "fontSize": "{fontSizes.2xl}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 1, regular"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.regular}",
+                "lineHeight": "{lineHeights.3xl}",
+                "fontSize": "{fontSizes.2xl}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 1, regular"
         },
         "HeaderMedium": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.medium}",
-            "lineHeight": "{lineHeights.3xl}",
-            "fontSize": "{fontSizes.2xl}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 1 medium "
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.medium}",
+                "lineHeight": "{lineHeights.3xl}",
+                "fontSize": "{fontSizes.2xl}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 1 medium "
         },
         "HeaderBold": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.3xl}",
-            "fontSize": "{fontSizes.2xl}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 1, bold Page title"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.3xl}",
+                "fontSize": "{fontSizes.2xl}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 1, bold Page title"
         },
         "Header2": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.regular}",
-            "lineHeight": "{lineHeights.2xl}",
-            "fontSize": "{fontSizes.xl}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 2, regular"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.regular}",
+                "lineHeight": "{lineHeights.2xl}",
+                "fontSize": "{fontSizes.xl}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 2, regular"
         },
         "Header2Medium": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.medium}",
-            "lineHeight": "{lineHeights.2xl}",
-            "fontSize": "{fontSizes.xl}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 2, medium. Used in side panel header"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.medium}",
+                "lineHeight": "{lineHeights.2xl}",
+                "fontSize": "{fontSizes.xl}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 2, medium. Used in side panel header"
         },
         "Header2Bold": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.2xl}",
-            "fontSize": "{fontSizes.xl}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 2, bold. Used in modal and header paired with sub title"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.2xl}",
+                "fontSize": "{fontSizes.xl}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 2, bold. Used in modal and header paired with sub title"
         },
         "Header3": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.regular}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.l}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 2, regular"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.regular}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.l}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 2, regular"
         },
         "Header3Medium": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.medium}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.l}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 2, regular"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.medium}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.l}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 2, regular"
         },
         "Header3Bold": {
-        "value": {
-            "fontFamily": "{fontFamilies.primary}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.l}",
-            "fontSize": "{fontSizes.l}",
-            "textCase": "{textCase.normal}"
-        },
-        "type": "typography",
-        "comment": "Header 2, regular"
+            "value": {
+                "fontFamily": "{fontFamilies.primary}",
+                "fontWeight": "{fontWeights.bold}",
+                "lineHeight": "{lineHeights.l}",
+                "fontSize": "{fontSizes.l}",
+                "textCase": "{textCase.normal}"
+            },
+            "type": "typography",
+            "comment": "Header 2, regular"
         },
         "borderWidth": {
-        "s": {
-            "value": "1",
-            "comment": "Default Border Size",
-            "type": "borderWidth"
-        },
-        "m": {
-            "value": "2",
-            "comment": "Focus Border Size",
-            "type": "borderWidth"
-        },
-        "l": {
-            "value": "4",
-            "type": "borderWidth"
-        }
+            "s": {
+                "value": "1",
+                "comment": "Default Border Size",
+                "type": "borderWidth"
+            },
+            "m": {
+                "value": "2",
+                "comment": "Focus Border Size",
+                "type": "borderWidth"
+            },
+            "l": {
+                "value": "4",
+                "type": "borderWidth"
+            }
         },
         "borderRadius": {
-        "s": {
-            "value": "0",
-            "comment": "Border radius 1",
-            "type": "borderRadius"
-        },
-        "m": {
-            "value": "4",
-            "comment": "Border radius 2 (4px)",
-            "type": "borderRadius"
-        },
-        "l": {
-            "value": "50",
-            "comment": "Full rounded corners (2x the highest line-height)",
-            "type": "borderRadius"
-        }
+            "s": {
+                "value": "0",
+                "comment": "Border radius 1",
+                "type": "borderRadius"
+            },
+            "m": {
+                "value": "4",
+                "comment": "Border radius 2 (4px)",
+                "type": "borderRadius"
+            },
+            "l": {
+                "value": "50",
+                "comment": "Full rounded corners (2x the highest line-height)",
+                "type": "borderRadius"
+            }
         },
         "opacity": {
-        "normal": {
-            "value": "100%",
-            "comment": "Default",
-            "type": "opacity"
-        },
-        "overlay": {
-            "value": "50%",
-            "comment": "Overlay",
-            "type": "opacity"
-        }
+            "normal": {
+                "value": "100%",
+                "comment": "Default",
+                "type": "opacity"
+            },
+            "overlay": {
+                "value": "50%",
+                "comment": "Overlay",
+                "type": "opacity"
+            }
         },
         "boxShadow": {
-        "xs": {
-            "value": {
-            "x": "0",
-            "y": "4",
-            "blur": "4",
-            "spread": "0",
-            "color": "rgba(0,0,0,0.25)",
-            "type": "dropShadow"
+            "xs": {
+                "value": {
+                "x": "0",
+                "y": "4",
+                "blur": "4",
+                "spread": "0",
+                "color": "rgba(0,0,0,0.25)",
+                "type": "dropShadow"
+                },
+                "comment": "Shadow / List view",
+                "type": "boxShadow"
             },
-            "comment": "Shadow / List view",
-            "type": "boxShadow"
-        },
-        "s": {
-            "value": {
-            "x": "0",
-            "y": "4",
-            "blur": "8",
-            "spread": "0",
-            "color": "rgba(41,45,48,0.16)",
-            "type": "dropShadow"
+            "s": {
+                "value": {
+                "x": "0",
+                "y": "4",
+                "blur": "8",
+                "spread": "0",
+                "color": "rgba(41,45,48,0.16)",
+                "type": "dropShadow"
+                },
+                "comment": "Shadow / Default",
+                "type": "boxShadow"
             },
-            "comment": "Shadow / Default",
-            "type": "boxShadow"
-        },
-        "m": {
-            "value": {
-            "x": "0",
-            "y": "8",
-            "blur": "16",
-            "spread": "0",
-            "color": "rgba(41,45,48,0.16)",
-            "type": "dropShadow"
+            "m": {
+                "value": {
+                "x": "0",
+                "y": "8",
+                "blur": "16",
+                "spread": "0",
+                "color": "rgba(41,45,48,0.16)",
+                "type": "dropShadow"
+                },
+                "type": "boxShadow"
             },
-            "type": "boxShadow"
-        },
-        "l": {
-            "value": {
-            "x": "0",
-            "y": "16",
-            "blur": "24",
-            "spread": "0",
-            "color": "rgba(41,45,48,0.16)",
-            "type": "dropShadow"
+            "l": {
+                "value": {
+                "x": "0",
+                "y": "16",
+                "blur": "24",
+                "spread": "0",
+                "color": "rgba(41,45,48,0.16)",
+                "type": "dropShadow"
+                },
+                "type": "boxShadow"
             },
-            "type": "boxShadow"
-        },
-        "xl": {
-            "value": {
-            "x": "2",
-            "y": "24",
-            "blur": "32",
-            "spread": "0",
-            "color": "rgba(41,45,48,0.16)",
-            "type": "dropShadow"
-            },
-            "type": "boxShadow"
-        }
+            "xl": {
+                "value": {
+                "x": "2",
+                "y": "24",
+                "blur": "32",
+                "spread": "0",
+                "color": "rgba(41,45,48,0.16)",
+                "type": "dropShadow"
+                },
+                "type": "boxShadow"
+            }
         }
     }
 }
