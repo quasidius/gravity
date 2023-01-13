@@ -516,8 +516,6 @@
                 "description": "color Brand 100",
                 "type": "color"
             },
-        },
-        "color": {
             "application": {
                 "value": "{color.neutral5}",
                 "description": "Color Application (App BG)",
