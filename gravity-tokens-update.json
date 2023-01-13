@@ -563,7 +563,7 @@
                 "description": "Color Disabled (Disabled interactive elements BG)",
                 "type": "color"
             },
-            "on-component": {
+            "on-disabled": {
                 "value": "{palette.neutral30}",
                 "description": "Color On Disabled",
                 "type": "color"
@@ -571,17 +571,17 @@
             "primary": {
                 "value": "{palette.primary50}",
                 "description": "Color Primary (Primary interactive elements BG)",
-                "type": "color",
+                "type": "color"
             },
             "primary-hover": {
                 "value": "{palette.primary40}",
                 "description": "Color Primary Hover (Primary interactive elements hovered BG)",
-                "type": "color",
+                "type": "color"
             },
             "primary-press": {
                 "value": "{palette.primary60}",
                 "description": "Color Primary Press (Primary interactive elements pressed BG)",
-                "type": "color",
+                "type": "color"
             },
             "on-primary": {
                 "value": "{palette.primary0}",
@@ -601,17 +601,17 @@
             "secondary": {
                 "value": "{palette.secondary80}",
                 "description": "Color Secondary (Secondary interactive elements BG)",
-                "type": "color",
+                "type": "color"
             },
             "secondary-hover": {
                 "value": "{palette.secondary70}",
                 "description": "Color Secondary Hover (Secondary interactive elements hovered BG)",
-                "type": "color",
+                "type": "color"
             },
             "secondary-press": {
                 "value": "{palette.secondary90}",
                 "description": "Color Secondary Press (Secondary interactive elements pressed BG)",
-                "type": "color",
+                "type": "color"
             },
             "on-secondary": {
                 "value": "{palette.secondary0}",
@@ -631,7 +631,7 @@
             "info": {
                 "value": "{palette.info50}",
                 "description": "Color Info (Info elements BG)",
-                "type": "color",
+                "type": "color"
             },
             "on-info": {
                 "value": "{palette.info0}",
@@ -651,7 +651,7 @@
             "warning": {
                 "value": "{palette.warning50}",
                 "description": "Color Warning (Warning elements BG)",
-                "type": "color",
+                "type": "color"
             },
             "on-warning": {
                 "value": "{palette.warning0}",
@@ -671,7 +671,7 @@
             "success": {
                 "value": "{palette.success50}",
                 "description": "Color Success (Warning elements BG)",
-                "type": "color",
+                "type": "color"
             },
             "on-success": {
                 "value": "{palette.success0}",
@@ -691,7 +691,7 @@
             "error": {
                 "value": "{palette.error50}",
                 "description": "Color Error (Warning elements BG)",
-                "type": "color",
+                "type": "color"
             },
             "on-error": {
                 "value": "{palette.error0}",
@@ -707,7 +707,7 @@
                 "value": "{palette.error70}",
                 "description": "Color Error On Container",
                 "type": "color"
-            },
+            }
         }, 
         "spacing": {
             "s": {
