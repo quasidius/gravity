@@ -458,29 +458,54 @@
                 "description": "Color On Application",
                 "type": "color"
             },
-            "application-container": {
+            "sidebar": {
                 "value": "{palette.neutral20}",
-                "description": "Color Application Container (Sidebar BG)",
+                "description": "Color Sidebar BG",
                 "type": "color"
             },
-            "on-application-container": {
+            "sidebar-hover": {
+                "value": "{palette.neutral70}",
+                "description": "Color Sidebar BG Hover",
+                "type": "color"
+            },
+            "sidebar-press": {
+                "value": "{palette.neutral90}",
+                "description": "Color Sidebar BG Press/Selected",
+                "type": "color"
+            },
+            "on-sidebar": {
                 "value": "{palette.neutral80}",
                 "description": "Color On Application Container",
                 "type": "color"
             },
-            "application-container-variant": {
+            "header": {
                 "value": "{palette.neutral80}",
-                "description": "Color Application Container Variant (Header BG)",
+                "description": "Color Header BG",
                 "type": "color"
             },
-            "on-application-container-variant": {
+            "header-hover": {
+                "value": "{palette.neutral70}",
+                "description": "Color Header BG Hover",
+                "type": "color"
+            },
+            "header-press": {
+                "value": "{palette.neutral80}",
+                "description": "Color Header BG Press/Selected",
+                "type": "color"
+            },
+            "on-header": {
                 "value": "{palette.white}",
-                "description": "Color On Application Container Variant",
+                "description": "Color On Header",
                 "type": "color"
             },
             "component": {
                 "value": "{palette.white}",
                 "description": "Color Component (Component BG ex:card)",
+                "type": "color"
+            },
+            "component-hover": {
+                "value": "{palette.primary5}",
+                "description": "Color Component Hover",
                 "type": "color"
             },
             "on-component": {
@@ -523,11 +548,6 @@
                 "description": "Color Primary Container (Primary light BG (ex: outline button hover BG)",
                 "type": "color"
             },
-            "primary-on-container": {
-                "value": "{palette.primary50}",
-                "description": "Color Primary On Container",
-                "type": "color"
-            },
             "secondary": {
                 "value": "{palette.secondary80}",
                 "description": "Color Secondary (Secondary interactive elements BG)",
@@ -551,11 +571,6 @@
             "secondary-container": {
                 "value": "{palette.secondary5}",
                 "description": "Color Secondary Container (Secondary light BG (ex: outline button hover BG)",
-                "type": "color"
-            },
-            "secondary-on-container": {
-                "value": "{palette.secondary80}",
-                "description": "Color Secondary On Container",
                 "type": "color"
             },
             "info": {
