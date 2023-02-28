@@ -2,22 +2,22 @@
     "global" : {
         "palette": {
             "white": {
-                "value": "hslaa(0,0,100,1)",
+                "value": "hslaa(0,0%,100%,1)",
                 "description": "Palette Reference White",
                 "type": "color"
             },
             "black": {
-                "value": "hsla(0,0,0,1)",
+                "value": "hsla(0,0%,0%,1)",
                 "description": "Palette Reference Black",
                 "type": "color"
             },
             "neutral": {
-                "value": "hsla(218,6,61,1)",
+                "value": "hsla(218,6%,61%,1)",
                 "description": "Palette Reference Neutral",
                 "type": "color"
             },
             "primary": {
-                "value": "hsla(213,100,58,1)",
+                "value": "hsla(213,100%,58%,1)",
                 "description": "Palette Reference Primary",
                 "type": "color"
             },
