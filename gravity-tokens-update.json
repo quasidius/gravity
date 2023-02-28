@@ -342,7 +342,7 @@
                 "type": "color"
             },
             "warning900": {
-                "value": "hsls(33,73%,29%,1)",
+                "value": "hsla(33,73%,29%,1)",
                 "description": "Palette Warning 900",
                 "type": "color"
             },
