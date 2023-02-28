@@ -2,7 +2,7 @@
     "global" : {
         "palette": {
             "white": {
-                "value": "hslaa(0,0%,100%,1)",
+                "value": "hsla(0,0%,100%,1)",
                 "description": "Palette Reference White",
                 "type": "color"
             },
@@ -22,52 +22,52 @@
                 "type": "color"
             },
             "secondary": {
-                "value": "hsla(218,6,61,1)",
+                "value": "hsla(218,6%,61%,1)",
                 "description": "Palette Reference Secondary",
                 "type": "color"
             },
             "info": {
-                "value": "hsla(213,100,58,1)",
+                "value": "hsla(213,100%,58%,1)",
                 "description": "Palette Reference Info",
                 "type": "color"
             },
             "success": {
-                "value": "hsla(145,63,41,1)",
+                "value": "hsla(145,63%,41%,1)",
                 "description": "Palette Reference Success",
                 "type": "color"
             }, 
             "warning": {
-                "value": "hsla(38,96,57,1)",
+                "value": "hsla(38,96%,57%,1)",
                 "description": "Palette Reference Warning",
                 "type": "color"
             },
             "error": {
-                "value": "hsla(0,69,47,1)",
+                "value": "hsla(0,69%,47%,1)",
                 "description": "Palette Reference Error",
                 "type": "color"
             },
             "neutral50": {
-                "value": "hsla(0,0,98,1)",
+                "value": "hsla(0,0%,98%,1)",
                 "description": "Palette Neutral 50 (auto-generated)",
                 "type": "color"
             },
             "neutral100": {
-                "value": "hsla(210,8,95,1)",
+                "value": "hsla(210,8%,95%,1)",
                 "description": "Palette Neutral 100 (auto-generated)",
                 "type": "color"
             },
             "neutral200": {
-                "value": "hsla(225,7,89,1)",
+                "value": "hsla(225,7%,89%,1)",
                 "description": "Palette Neutral 200 (auto-generated)",
                 "type": "color"
             },
             "neutral300": {
-                "value": "hsla(216,6,83,1)",
+                "value": "hsla(216,6%,83%,1)",
                 "description": "Palette Neutral 300 (auto-generated)",
                 "type": "color"
             },
             "neutral400": {
-                "value": "hsla(220,6,72,1)",
+                "value": "hsla(220,6%,72%,1)",
                 "description": "Palette Neutral 400 (auto-generated)",
                 "type": "color"
             },
@@ -77,47 +77,47 @@
                 "type": "color"
             },
             "neutral600": {
-                "value": "hsla(220,6,48,1)",
+                "value": "hsla(220,6%,48%,1)",
                 "description": "Palette Neutral 600 (auto-generated)",
                 "type": "color"
             },
             "neutral700": {
-                "value": "hsla(220,6,38,1)",
+                "value": "hsla(220,6%,38%,1)",
                 "description": "Palette Neutral 700 (auto-generated)",
                 "type": "color"
             },
             "neutral800": {
-                "value": "hsla(218,7,24,1)",
+                "value": "hsla(218,7%,24%,1)",
                 "description": "Palette Neutral 800 (auto-generated)",
                 "type": "color"
             },
             "neutral900": {
-                "value": "hsla(220,7,18,1)",
+                "value": "hsla(220,7%,18%,1)",
                 "description": "Palette Neutral 900 (auto-generated)",
                 "type": "color"
             },
             "primary50": {
-                "value": "hsla(209,100,95,1)",
+                "value": "hsla(209,100%,95%,1)",
                 "description": "Palette Primary 50",
                 "type": "color"
             },
             "primary100": {
-                "value": "hsla(210,100,86,1)",
+                "value": "hsla(210,100%,86%,1)",
                 "description": "Palette Primary 100",
                 "type": "color"
             },
             "primary200": {
-                "value": "hsla(209,100,77,1)",
+                "value": "hsla(209,100%,77%,1)",
                 "description": "Palette Primary 200",
                 "type": "color"
             },
             "primary300": {
-                "value": "hsla(209,100,69,1)",
+                "value": "hsla(209,100%,69%,1)",
                 "description": "Palette Primary 300",
                 "type": "color"
             },
             "primary400": {
-                "value": "hsla(211,100,63,1)",
+                "value": "hsla(211,100%,63%,1)",
                 "description": "Palette Primary 400",
                 "type": "color"
             },
@@ -127,47 +127,47 @@
                 "type": "color"
             },
             "primary600": {
-                "value": "hsla(217,89,54,1)",
+                "value": "hsla(217,89%,54%,1)",
                 "description": "Palette Primary 600",
                 "type": "color"
             },
             "primary700": {
-                "value": "hsla(217,75,49,1)",
+                "value": "hsla(217,75%,49%,1)",
                 "description": "Palette Primary 700",
                 "type": "color"
             },
             "primary800": {
-                "value": "hsla(217,75,40,1)",
+                "value": "hsla(217,75%,40%,1)",
                 "description": "Palette Primary 800",
                 "type": "color"
             },
             "primary900": {
-                "value": "hsla(218,75,31,1)",
+                "value": "hsla(218,75%,31%,1)",
                 "description": "Palette Primary 900",
                 "type": "color"
             },
             "secondary50": {
-                "value": "hsla(0,0,98,1)",
+                "value": "hsla(0,0%,98%,1)",
                 "description": "Palette Secondary 50 (auto-generated)",
                 "type": "color"
             },
             "secondary100": {
-                "value": "hsla(210,8,95,1)",
+                "value": "hsla(210,8%,95%,1)",
                 "description": "Palette Secondary 100 (auto-generated)",
                 "type": "color"
             },
             "secondary200": {
-                "value": "hsla(225,7,89,1)",
+                "value": "hsla(225,7%,89%,1)",
                 "description": "Palette Secondary 200 (auto-generated)",
                 "type": "color"
             },
             "secondary300": {
-                "value": "hsla(216,6,83,1)",
+                "value": "hsla(216,6%,83%,1)",
                 "description": "Palette Secondary 300 (auto-generated)",
                 "type": "color"
             },
             "secondary400": {
-                "value": "hsla(220,6,72,1)",
+                "value": "hsla(220,6%,72%,1)",
                 "description": "Palette Secondary 400 (auto-generated)",
                 "type": "color"
             },
@@ -177,47 +177,47 @@
                 "type": "color"
             },
             "secondary600": {
-                "value": "hsla(220,6,48,1)",
+                "value": "hsla(220,6%,48%,1)",
                 "description": "Palette Secondary 600 (auto-generated)",
                 "type": "color"
             },
             "secondary700": {
-                "value": "hsla(220,6,38,1)",
+                "value": "hsla(220,6%,38%,1)",
                 "description": "Palette Secondary 700 (auto-generated)",
                 "type": "color"
             },
             "secondary800": {
-                "value": "hsla(218,7,24,1)",
+                "value": "hsla(218,7%,24%,1)",
                 "description": "Palette Secondary 800 (auto-generated)",
                 "type": "color"
             },
             "secondary900": {
-                "value": "hsla(220,7,18,1)",
+                "value": "hsla(220,7%,18%,1)",
                 "description": "Palette Secondary 900 (auto-generated)",
                 "type": "color"
             },
             "info50": {
-                "value": "hsla(209,100,95,1)",
+                "value": "hsla(209,100%,95%,1)",
                 "description": "Palette Info 50",
                 "type": "color"
             },
             "info100": {
-                "value": "hsla(210,100,86,1)",
+                "value": "hsla(210,100%,86%,1)",
                 "description": "Palette Info 100",
                 "type": "color"
             },
             "info200": {
-                "value": "hsla(209,100,77,1)",
+                "value": "hsla(209,100%,77%,1)",
                 "description": "Palette Info 200",
                 "type": "color"
             },
             "info300": {
-                "value": "hsla(209,100,69,1)",
+                "value": "hsla(209,100%,69%,1)",
                 "description": "Palette Info 300",
                 "type": "color"
             },
             "info400": {
-                "value": "hsla(211,100,63,1)",
+                "value": "hsla(211,100%,63%,1)",
                 "description": "Palette Info 400",
                 "type": "color"
             },
@@ -227,47 +227,47 @@
                 "type": "color"
             },
             "info600": {
-                "value": "hsla(217,89,54,1)",
+                "value": "hsla(217,89%,54%,1)",
                 "description": "Palette Info 600",
                 "type": "color"
             },
             "info700": {
-                "value": "hsla(217,75,49,1)",
+                "value": "hsla(217,75%,49%,1)",
                 "description": "Palette Info 700",
                 "type": "color"
             },
             "info800": {
-                "value": "hsla(217,75,40,1)",
+                "value": "hsla(217,75%,40%,1)",
                 "description": "Palette Info 800",
                 "type": "color"
             },
             "info900": {
-                "value": "hsla(218,75,31,1)",
+                "value": "hsla(218,75%,31%,1)",
                 "description": "Palette Info 900",
                 "type": "color"
             },
             "success50": {
-                "value": "hsla(143,42,94,1)",
+                "value": "hsla(143,42%,94%,1)",
                 "description": "Palette Success 5",
                 "type": "color"
             },
             "success100": {
-                "value": "hsla(143,43,88,1)",
+                "value": "hsla(143,43%,88%,1)",
                 "description": "Palette Success 100",
                 "type": "color"
             },
             "success200": {
-                "value": "hsla(143,44,76,1)",
+                "value": "hsla(143,44%,76%,1)",
                 "description": "Palette Success 200",
                 "type": "color"
             },
             "success300": {
-                "value": "hsla(143,43,64,1)",
+                "value": "hsla(143,43%,64%,1)",
                 "description": "Palette Success 300",
                 "type": "color"
             },
             "success400": {
-                "value": "hsla(143,43,52,1)",
+                "value": "hsla(143,43%,52%,1)",
                 "description": "Palette Success 400",
                 "type": "color"
             },
@@ -277,47 +277,47 @@
                 "type": "color"
             },
             "success600": {
-                "value": "hsla(140,71,32,1)",
+                "value": "hsla(140,71%,32%,1)",
                 "description": "Palette Success 600",
                 "type": "color"
             },
             "success700": {
-                "value": "hsla(140,71,28,1)",
+                "value": "hsla(140,71%,28%,1)",
                 "description": "Palette Success 700",
                 "type": "color"
             },
             "success800": {
-                "value": "hsla(140,70,24,1)",
+                "value": "hsla(140,70%,24%,1)",
                 "description": "Palette Success 800",
                 "type": "color"
             },
             "success900": {
-                "value": "hsla(140,70,18,1)",
+                "value": "hsla(140,70%,18%,1)",
                 "description": "Palette Success 900",
                 "type": "color"
             },
             "warning50": {
-                "value": "hsla(37,100,96,1)",
+                "value": "hsla(37,100%,96%,1)",
                 "description": "Palette Warning 50",
                 "type": "color"
             },
             "warning100": {
-                "value": "hsla(37,95,91,1)",
+                "value": "hsla(37,95%,91%,1)",
                 "description": "Palette Warning 100",
                 "type": "color"
             },
             "warning200": {
-                "value": "hsla(38,95,83,1)",
+                "value": "hsla(38,95%,83%,1)",
                 "description": "Palette Warning 200",
                 "type": "color"
             },
             "warning300": {
-                "value": "hsla(37,97,74,1)",
+                "value": "hsla(37,97%,74%,1)",
                 "description": "Palette Warning 300",
                 "type": "color"
             },
             "warning400": {
-                "value": "hsla(38,97,66,1)",
+                "value": "hsla(38,97%,66%,1)",
                 "description": "Palette Warning 400",
                 "type": "color"
             },
@@ -327,47 +327,47 @@
                 "type": "color"
             },
             "warning600": {
-                "value": "hsla(34,73,50,1)",
+                "value": "hsla(34,73%,50%,1)",
                 "description": "Palette Warning 600",
                 "type": "color"
             },
             "warning700": {
-                "value": "hsla(33,73,45,1)",
+                "value": "hsla(33,73%,45%,1)",
                 "description": "Palette Warning 700",
                 "type": "color"
             },
             "warning800": {
-                "value": "hsla(33,73,37,1)",
+                "value": "hsla(33,73%,37%,1)",
                 "description": "Palette Warning 800",
                 "type": "color"
             },
             "warning900": {
-                "value": "hsls(33,73,29,1)",
+                "value": "hsls(33,73%,29%,1)",
                 "description": "Palette Warning 900",
                 "type": "color"
             },
             "error50": {
-                "value": "hsla(0,63,95,1)",
+                "value": "hsla(0,63%,95%,1)",
                 "description": "Palette Error 50",
                 "type": "color"
             },
             "error100": {
-                "value": "hsla(0,63,90,1)",
+                "value": "hsla(0,63%,90%,1)",
                 "description": "Palette Error 100",
                 "type": "color"
             },
             "error200": {
-                "value": "hsla(0,63,79,1)",
+                "value": "hsla(0,63%,79%,1)",
                 "description": "Palette Error 200",
                 "type": "color"
             },
             "error300": {
-                "value": "hsla(0,61,68,1)",
+                "value": "hsla(0,61%,68%,1)",
                 "description": "Palette Error 300",
                 "type": "color"
             },
             "error400": {
-                "value": "hsla(0,62,58,1)",
+                "value": "hsla(0,62%,58%,1)",
                 "description": "Palette Error 40",
                 "type": "color"
             },
@@ -377,22 +377,22 @@
                 "type": "color"
             },
             "error600": {
-                "value": "hsla(0,76,40,1)",
+                "value": "hsla(0,76%,40%,1)",
                 "description": "Palette Error 600",
                 "type": "color"
             },
             "error700": {
-                "value": "hsla(0,77,35,1)",
+                "value": "hsla(0,77%,35%,1)",
                 "description": "Palette Error 700",
                 "type": "color"
             },
             "error800": {
-                "value": "hsla(0,76,29,1)",
+                "value": "hsla(0,76%,29%,1)",
                 "description": "Palette Error 800",
                 "type": "color"
             },
             "error900": {
-                "value": "hsla(0,76,23,1)",
+                "value": "hsla(0,76%,23%,1)",
                 "description": "Palette Error 900",
                 "type": "color"
             }
