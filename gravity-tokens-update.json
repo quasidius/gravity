@@ -759,7 +759,7 @@
             },
             "3xl": {
                 "value": "40",
-                "comment": "64px",
+                "comment": "40px",
                 "type": "fontSizes"
             },
             "4xl": {
@@ -1070,17 +1070,17 @@
         "borderRadius": {
             "s": {
                 "value": "0",
-                "comment": "Border radius 1",
+                "comment": "Border radius none",
                 "type": "borderRadius"
             },
             "m": {
                 "value": "4",
-                "comment": "Border radius 2 (4px)",
+                "comment": "Border radius default (4px)",
                 "type": "borderRadius"
             },
             "l": {
                 "value": "50",
-                "comment": "Full rounded corners (2x the highest line-height)",
+                "comment": "Full rounded corners",
                 "type": "borderRadius"
             }
         },
