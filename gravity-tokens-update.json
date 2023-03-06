@@ -482,17 +482,17 @@
             "secondary": {
                 "strong": {
                     "value": "{palette.secondary800}",
-                    "description": "Palette Secondary 800",
+                    "description": "Palette Secondary 900",
                     "type": "color"
                 },
                 "bold": {
                     "value": "{palette.secondary700}",
-                    "description": "Palette Secondary 700",
+                    "description": "Palette Secondary 800",
                     "type": "color"
                 },
                 "moderate": {
                     "value": "{palette.secondary600}",
-                    "description": "Palette Secondary 500",
+                    "description": "Palette Secondary 700",
                     "type": "color"
                 },
                 "subtle": {
