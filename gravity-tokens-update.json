@@ -491,7 +491,7 @@
                     "type": "color"
                 },
                 "moderate": {
-                    "value": "{palette.secondary500}",
+                    "value": "{palette.secondary600}",
                     "description": "Palette Secondary 500",
                     "type": "color"
                 },
