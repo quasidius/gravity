@@ -523,8 +523,8 @@
                     "type": "color"
                 },
                 "subtle": {
-                    "value": "{palette.info200}",
-                    "description": "Palette Info 200",
+                    "value": "{palette.info400}",
+                    "description": "Palette Info 400",
                     "type": "color"
                 },
                 "minimal": {
@@ -550,8 +550,8 @@
                     "type": "color"
                 },
                 "subtle": {
-                    "value": "{palette.success200}",
-                    "description": "Palette Success 200",
+                    "value": "{palette.success400}",
+                    "description": "Palette Success 400",
                     "type": "color"
                 },
                 "minimal": {
@@ -577,8 +577,8 @@
                     "type": "color"
                 },
                 "subtle": {
-                    "value": "{palette.warning200}",
-                    "description": "Palette Warning 200",
+                    "value": "{palette.warning400}",
+                    "description": "Palette Warning 400",
                     "type": "color"
                 },
                 "minimal": {
@@ -604,8 +604,8 @@
                     "type": "color"
                 },
                 "subtle": {
-                    "value": "{palette.error200}",
-                    "description": "Palette Error 200",
+                    "value": "{palette.error400}",
+                    "description": "Palette Error 400",
                     "type": "color"
                 },
                 "minimal": {
