@@ -616,6 +616,11 @@
             }
         }, 
         "spacing": {
+            "xs": {
+                "value": "0.25rem",
+                "description": "4px",
+                "type": "spacing"
+            },
             "s": {
                 "value": "0.5rem",
                 "description": "8px",
