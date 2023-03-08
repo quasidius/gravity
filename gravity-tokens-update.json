@@ -1841,7 +1841,7 @@
                 "description": "32px"
             },
             "l": {
-                "value": "40",
+                "value": "80",
                 "type": "sizing",
                 "description": "40px"
             },
@@ -1868,12 +1868,12 @@
                 "type": "lineHeights"
             },
             "xl": {
-                "value": "28",
+                "value": "32",
                 "comment": "28px",
                 "type": "lineHeights"
             },
             "2xl": {
-                "value": "32",
+                "value": "36",
                 "comment": "32px (H2)",
                 "type": "lineHeights"
             },
@@ -1895,7 +1895,7 @@
                 "type": "fontSizes"
             },
             "xs": {
-                "value": "12",
+                "value": "20",
                 "comment": "12px (Label 4)",
                 "type": "fontSizes"
             },
@@ -1905,27 +1905,27 @@
                 "type": "fontSizes"
             },
             "m": {
-                "value": "16",
+                "value": "22",
                 "comment": "16px (H4, Body 1, Label 2)",
                 "type": "fontSizes"
             },
             "l": {
-                "value": "20",
+                "value": "24",
                 "comment": "20px (H3, Label 1)",
                 "type": "fontSizes"
             },
             "xl": {
-                "value": "24",
+                "value": "28",
                 "comment": "24px (H2)",
                 "type": "fontSizes"
             },
             "2xl": {
-                "value": "32",
+                "value": "36",
                 "comment": "32px (H1)",
                 "type": "fontSizes"
             },
             "3xl": {
-                "value": "40",
+                "value": "72",
                 "comment": "40px",
                 "type": "fontSizes"
             },
