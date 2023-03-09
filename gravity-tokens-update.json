@@ -622,7 +622,7 @@
         },
         "spacing": {
             "xs": {
-                "value": "{4 / {basefontsize}rem}",
+                "value": "{basefontsize} / 4",
                 "description": "4px",
                 "type": "spacing"
             },
@@ -1782,10 +1782,15 @@
                 }
             }
         }, 
+        "basefontsize" : {
+            "value": "24",
+            "description": "x1.5",
+            "type": "scaling"
+        },
         "spacing": {
             "xs": {
-                "value": "0.5rem",
-                "description": "8px",
+                "value": "{basefontsize} / 4",
+                "description": "6px",
                 "type": "spacing"
             },
             "s": {
