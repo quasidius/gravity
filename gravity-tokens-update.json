@@ -614,10 +614,15 @@
                     "type": "color"
                 }
             }
-        }, 
+        },
+        "basefontsize" : {
+            "value": "16",
+            "description": "x1 Default",
+            "type": "scaling"
+        },
         "spacing": {
             "xs": {
-                "value": "0.25rem",
+                "value": "4 / {basefontsize}rem",
                 "description": "4px",
                 "type": "spacing"
             },
