@@ -627,42 +627,42 @@
                 "type": "spacing"
             },
             "s": {
-                "value": "0.5rem",
+                "value": "{basefontsize} / 2",
                 "description": "8px",
                 "type": "spacing"
             },
             "m": {
-                "value": "1rem",
+                "value": "{basefontsize} / 1",
                 "description": "16px",
                 "type": "spacing"
             },
             "l": {
-                "value": "1.5rem",
+                "value": "{basefontsize} * 1.5",
                 "description": "24px",
                 "type": "spacing"
             },
             "xl": {
-                "value": "2rem",
+                "value": "{basefontsize} * 2",
                 "description": "32px",
                 "type": "spacing"
             },
             "2xl": {
-                "value": "2.5rem",
+                "value": "{basefontsize} * 2.5",
                 "description": "40px",
                 "type": "spacing"
             },
             "3xl": {
-                "value": "3rem",
+                "value": "{basefontsize} * 3",
                 "description": "48px",
                 "type": "spacing"
             },
             "4xl": {
-                "value": "3.5rem",
+                "value": "{basefontsize} * 3.5",
                 "description": "56px",
                 "type": "spacing"
             },
             "5xl": {
-                "value": "4rem",
+                "value": "{basefontsize} * 4",
                 "description": "64px",
                 "type": "spacing"
             }
@@ -1790,46 +1790,46 @@
         "spacing": {
             "xs": {
                 "value": "{basefontsize} / 4",
-                "description": "6px",
+                "description": "4px",
                 "type": "spacing"
             },
             "s": {
-                "value": "1rem",
-                "description": "16px",
+                "value": "{basefontsize} / 2",
+                "description": "8px",
                 "type": "spacing"
             },
             "m": {
-                "value": "2rem",
-                "description": "36px",
+                "value": "{basefontsize} / 1",
+                "description": "16px",
                 "type": "spacing"
             },
             "l": {
-                "value": "3rem",
+                "value": "{basefontsize} * 1.5",
                 "description": "24px",
                 "type": "spacing"
             },
             "xl": {
-                "value": "4rem",
+                "value": "{basefontsize} * 2",
                 "description": "32px",
                 "type": "spacing"
             },
             "2xl": {
-                "value": "5rem",
+                "value": "{basefontsize} * 2.5",
                 "description": "40px",
                 "type": "spacing"
             },
             "3xl": {
-                "value": "6rem",
+                "value": "{basefontsize} * 3",
                 "description": "48px",
                 "type": "spacing"
             },
             "4xl": {
-                "value": "7rem",
+                "value": "{basefontsize} * 3.5",
                 "description": "56px",
                 "type": "spacing"
             },
             "5xl": {
-                "value": "8rem",
+                "value": "{basefontsize} * 4",
                 "description": "64px",
                 "type": "spacing"
             }
