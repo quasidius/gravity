@@ -622,7 +622,7 @@
         },
         "spacing": {
             "xs": {
-                "value": "4 / {basefontsize}",
+                "value": "{4 / {basefontsize}rem}",
                 "description": "4px",
                 "type": "spacing"
             },
