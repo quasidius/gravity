@@ -697,17 +697,17 @@
         "lineHeights": {
             "s": {
                 "value": "{basefontsize} * 1",
-                "comment": "16px (Label 4)",
+                "comment": "16px",
                 "type": "lineHeights"
             },
             "m": {
                 "value": "{basefontsize} * 1.25",
-                "comment": "20px (H4, Body 1, Body 2, Label 2, )",
+                "comment": "20px",
                 "type": "lineHeights"
             },
             "l": {
                 "value": "{basefontsize} * 1.5",
-                "comment": "24px (H3)",
+                "comment": "24px",
                 "type": "lineHeights"
             },
             "xl": {
@@ -717,12 +717,12 @@
             },
             "2xl": {
                 "value": "{basefontsize} * 2",
-                "comment": "32px (H2)",
+                "comment": "32px",
                 "type": "lineHeights"
             },
             "3xl": {
                 "value": "{basefontsize} * 2.25",
-                "comment": "36px (H1)",
+                "comment": "36px",
                 "type": "lineHeights"
             },
             "4xl": {
@@ -734,37 +734,37 @@
         "fontSizes": {
             "2xs": {
                 "value": "{basefontsize} * 0.625",
-                "comment": "10px (sidebar)",
+                "comment": "10px",
                 "type": "fontSizes"
             },
             "xs": {
                 "value": "{basefontsize} * 0.75",
-                "comment": "12px (Label 4)",
+                "comment": "12px",
                 "type": "fontSizes"
             },
             "s": {
                 "value": "{basefontsize} * 0.875",
-                "comment": "14px (Body 2, Label 3)",
+                "comment": "14px",
                 "type": "fontSizes"
             },
             "m": {
                 "value": "{basefontsize} * 1",
-                "comment": "16px (H4, Body 1, Label 2)",
+                "comment": "16px",
                 "type": "fontSizes"
             },
             "l": {
                 "value": "{basefontsize} * 1.25",
-                "comment": "20px (H3, Label 1)",
+                "comment": "20px",
                 "type": "fontSizes"
             },
             "xl": {
                 "value": "{basefontsize} * 1.5",
-                "comment": "24px (H2)",
+                "comment": "24px",
                 "type": "fontSizes"
             },
             "2xl": {
                 "value": "{basefontsize} * 2",
-                "comment": "32px (H1)",
+                "comment": "32px",
                 "type": "fontSizes"
             },
             "3xl": {
@@ -1790,47 +1790,47 @@
         "spacing": {
             "xs": {
                 "value": "{basefontsize} / 4",
-                "description": "4px",
+                "description": "6px",
                 "type": "spacing"
             },
             "s": {
                 "value": "{basefontsize} / 2",
-                "description": "8px",
+                "description": "12px",
                 "type": "spacing"
             },
             "m": {
                 "value": "{basefontsize} / 1",
-                "description": "16px",
+                "description": "24px",
                 "type": "spacing"
             },
             "l": {
                 "value": "{basefontsize} * 1.5",
-                "description": "24px",
+                "description": "36px",
                 "type": "spacing"
             },
             "xl": {
                 "value": "{basefontsize} * 2",
-                "description": "32px",
+                "description": "48px",
                 "type": "spacing"
             },
             "2xl": {
                 "value": "{basefontsize} * 2.5",
-                "description": "40px",
+                "description": "60px",
                 "type": "spacing"
             },
             "3xl": {
                 "value": "{basefontsize} * 3",
-                "description": "48px",
+                "description": "72px",
                 "type": "spacing"
             },
             "4xl": {
                 "value": "{basefontsize} * 3.5",
-                "description": "56px",
+                "description": "84px",
                 "type": "spacing"
             },
             "5xl": {
                 "value": "{basefontsize} * 4",
-                "description": "64px",
+                "description": "96px",
                 "type": "spacing"
             }
         },
@@ -1838,110 +1838,110 @@
             "xs": {
                 "value": "{basefontsize} * 1",
                 "type": "sizing",
-                "description": "16px"
+                "description": "24px"
             },
             "s": {
                 "value": "{basefontsize} * 1.5",
                 "type": "sizing",
-                "description": "24px"
+                "description": "36px"
             },
             "m": {
                 "value": "{basefontsize} * 2",
                 "type": "sizing",
-                "description": "32px"
+                "description": "48px"
             },
             "l": {
                 "value": "{basefontsize} * 2.5",
                 "type": "sizing",
-                "description": "40px"
+                "description": "60px"
             },
             "xl": {
                 "value": "{basefontsize} * 3.5",
                 "type": "sizing",
-                "description": "56px"
+                "description": "84px"
             }
         },
         "lineHeights": {
             "s": {
                 "value": "{basefontsize} * 1",
-                "comment": "16px (Label 4)",
+                "comment": "24px",
                 "type": "lineHeights"
             },
             "m": {
                 "value": "{basefontsize} * 1.25",
-                "comment": "20px (H4, Body 1, Body 2, Label 2, )",
+                "comment": "30px",
                 "type": "lineHeights"
             },
             "l": {
                 "value": "{basefontsize} * 1.5",
-                "comment": "24px (H3)",
+                "comment": "36px",
                 "type": "lineHeights"
             },
             "xl": {
                 "value": "{basefontsize} * 1.75",
-                "comment": "28px",
+                "comment": "42px",
                 "type": "lineHeights"
             },
             "2xl": {
                 "value": "{basefontsize} * 2",
-                "comment": "32px (H2)",
+                "comment": "48px",
                 "type": "lineHeights"
             },
             "3xl": {
                 "value": "{basefontsize} * 2.25",
-                "comment": "36px (H1)",
+                "comment": "72px",
                 "type": "lineHeights"
             },
             "4xl": {
                 "value": "{basefontsize} * 3",
-                "comment": "48px",
+                "comment": "72px",
                 "type": "lineHeights"
             }
         },
         "fontSizes": {
             "2xs": {
                 "value": "{basefontsize} * 0.625",
-                "comment": "10px (sidebar)",
+                "comment": "15px",
                 "type": "fontSizes"
             },
             "xs": {
                 "value": "{basefontsize} * 0.75",
-                "comment": "12px (Label 4)",
+                "comment": "18px",
                 "type": "fontSizes"
             },
             "s": {
                 "value": "{basefontsize} * 0.875",
-                "comment": "14px (Body 2, Label 3)",
+                "comment": "21px",
                 "type": "fontSizes"
             },
             "m": {
                 "value": "{basefontsize} * 1",
-                "comment": "16px (H4, Body 1, Label 2)",
+                "comment": "24px",
                 "type": "fontSizes"
             },
             "l": {
                 "value": "{basefontsize} * 1.25",
-                "comment": "20px (H3, Label 1)",
+                "comment": "30px",
                 "type": "fontSizes"
             },
             "xl": {
                 "value": "{basefontsize} * 1.5",
-                "comment": "24px (H2)",
+                "comment": "36px",
                 "type": "fontSizes"
             },
             "2xl": {
                 "value": "{basefontsize} * 2",
-                "comment": "32px (H1)",
+                "comment": "48px",
                 "type": "fontSizes"
             },
             "3xl": {
                 "value": "{basefontsize} * 2.5",
-                "comment": "40px",
+                "comment": "60px",
                 "type": "fontSizes"
             },
             "4xl": {
                 "value": "{basefontsize} * 4",
-                "comment": "64px",
+                "comment": "96px",
                 "type": "fontSizes"
             }
         },
