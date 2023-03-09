@@ -669,27 +669,27 @@
         },
         "sizing": {
             "xs": {
-                "value": "16",
+                "value": "{basefontsize} * 1",
                 "type": "sizing",
                 "description": "16px"
             },
             "s": {
-                "value": "24",
+                "value": "{basefontsize} * 1.5",
                 "type": "sizing",
                 "description": "24px"
             },
             "m": {
-                "value": "32",
+                "value": "{basefontsize} * 2",
                 "type": "sizing",
                 "description": "32px"
             },
             "l": {
-                "value": "40",
+                "value": "{basefontsize} * 2.5",
                 "type": "sizing",
                 "description": "40px"
             },
             "xl": {
-                "value": "56",
+                "value": "{basefontsize} * 3.5",
                 "type": "sizing",
                 "description": "56px"
             }
@@ -1836,27 +1836,27 @@
         },
         "sizing": {
             "xs": {
-                "value": "16",
+                "value": "{basefontsize} * 1",
                 "type": "sizing",
                 "description": "16px"
             },
             "s": {
-                "value": "24",
+                "value": "{basefontsize} * 1.5",
                 "type": "sizing",
                 "description": "24px"
             },
             "m": {
-                "value": "32",
+                "value": "{basefontsize} * 2",
                 "type": "sizing",
                 "description": "32px"
             },
             "l": {
-                "value": "80",
+                "value": "{basefontsize} * 2.5",
                 "type": "sizing",
                 "description": "40px"
             },
             "xl": {
-                "value": "56",
+                "value": "{basefontsize} * 3.5",
                 "type": "sizing",
                 "description": "56px"
             }
