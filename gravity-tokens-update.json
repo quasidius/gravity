@@ -2,73 +2,73 @@
     "global" : {
         "palette": {
             "white": {
-                "value": "hsla(0,0%,100%,1)",
-                "description": "Palette Reference White",
+                "value": "#ffffff",
+                "description": "Palette Reference White (hsla(0,0%,100%,1))",
                 "type": "color"
             },
             "black": {
-                "value": "hsla(0,0%,0%,1)",
-                "description": "Palette Reference Black",
+                "value": "#000000",
+                "description": "Palette Reference Black (hsla(0,0%,0%,1))",
                 "type": "color"
             },
             "neutral": {
-                "value": "hsla(218,6%,61%,1)",
-                "description": "Palette Reference Neutral",
+                "value": "#969aa2",
+                "description": "Palette Reference Neutral (hsla(218,6%,61%,1))",
                 "type": "color"
             },
             "primary": {
-                "value": "hsla(213,100%,58%,1)",
-                "description": "Palette Reference Primary",
+                "value": "#2989ff",
+                "description": "Palette Reference Primary (hsla(213,100%,58%,1))",
                 "type": "color"
             },
             "secondary": {
-                "value": "hsla(218,6%,61%,1)",
-                "description": "Palette Reference Secondary",
+                "value": "#969aa2",
+                "description": "Palette Reference Secondary (hsla(218,6%,61%,1))",
                 "type": "color"
             },
             "info": {
-                "value": "hsla(213,100%,58%,1)",
-                "description": "Palette Reference Info",
+                "value": "#2989ff",
+                "description": "Palette Reference Info (hsla(213,100%,58%,1))",
                 "type": "color"
             },
             "success": {
-                "value": "hsla(145,63%,41%,1)",
-                "description": "Palette Reference Success",
+                "value": "#27aa5e",
+                "description": "Palette Reference Success (hsla(145,63%,41%,1))",
                 "type": "color"
             }, 
             "warning": {
-                "value": "hsla(38,96%,57%,1)",
-                "description": "Palette Reference Warning",
+                "value": "#fbad28",
+                "description": "Palette Reference Warning (hsla(38,96%,57%,1))",
                 "type": "color"
             },
             "error": {
-                "value": "hsla(0,69%,47%,1)",
-                "description": "Palette Reference Error",
+                "value": "#cb2525",
+                "description": "Palette Reference Error (hsla(0,69%,47%,1))",
                 "type": "color"
             },
             "neutral50": {
-                "value": "hsla(0,0%,98%,1)",
-                "description": "Palette Neutral 50 (auto-generated)",
+                "value": "#fafafa",
+                "description": "Palette Neutral 50 (auto-generated) (hsla(0,0%,98%,1))",
                 "type": "color"
             },
             "neutral100": {
-                "value": "hsla(210,8%,95%,1)",
-                "description": "Palette Neutral 100 (auto-generated)",
+                "value": "#f1f2f3",
+                "description": "Palette Neutral 100 (auto-generated) (hsla(210,8%,95%,1))",
                 "type": "color"
             },
             "neutral200": {
-                "value": "hsla(225,7%,89%,1)",
-                "description": "Palette Neutral 200 (auto-generated)",
+                "value": "#e1e2e5",
+                "description": "Palette Neutral 200 (auto-generated) hsla(225,7%,89%,1)",
                 "type": "color"
             },
             "neutral300": {
-                "value": "hsla(216,6%,83%,1)",
-                "description": "Palette Neutral 300 (auto-generated)",
+                "value": "#d1d3d6",
+                "description": "Palette Neutral 300 (auto-generated) hsla(216,6%,83%,1)",
                 "type": "color"
             },
             "neutral400": {
-                "value": "hsla(220,6%,72%,1)",
-                "description": "Palette Neutral 400 (auto-generated)",
+                "value": "#b3b6bc",
+                "description": "Palette Neutral 400 (auto-generated) hsla(220,6%,72%,1)",
                 "type": "color"
             },
             "neutral500": {
@@ -77,48 +77,48 @@
                 "type": "color"
             },
             "neutral600": {
-                "value": "hsla(220,6%,48%,1)",
-                "description": "Palette Neutral 600 (auto-generated)",
+                "value": "#737882",
+                "description": "Palette Neutral 600 (auto-generated) hsla(220,6%,48%,1)",
                 "type": "color"
             },
             "neutral700": {
-                "value": "hsla(220,6%,38%,1)",
-                "description": "Palette Neutral 700 (auto-generated)",
+                "value": "#5b5f67",
+                "description": "Palette Neutral 700 (auto-generated) hsla(220,6%,38%,1)",
                 "type": "color"
             },
             "neutral800": {
-                "value": "hsla(218,7%,24%,1)",
-                "description": "Palette Neutral 800 (auto-generated)",
+                "value": "#393c41",
+                "description": "Palette Neutral 800 (auto-generated) hsla(218,7%,24%,1)",
                 "type": "color"
             },
             "neutral900": {
-                "value": "hsla(220,7%,18%,1)",
-                "description": "Palette Neutral 900 (auto-generated)",
+                "value": "#2b2d31",
+                "description": "Palette Neutral 900 (auto-generated) hsla(220,7%,18%,1)",
                 "type": "color"
             },
             "primary50": {
-                "value": "hsla(209,100%,95%,1)",
-                "description": "Palette Primary 50",
+                "value": "#e5f3ff",
+                "description": "Palette Primary 50 hsla(209,100%,95%,1)",
                 "type": "color"
             },
             "primary100": {
-                "value": "hsla(210,100%,86%,1)",
-                "description": "Palette Primary 100",
+                "value": "#b8dbff",
+                "description": "Palette Primary 100 hsla(210,100%,86%,1)",
                 "type": "color"
             },
             "primary200": {
-                "value": "hsla(209,100%,77%,1)",
-                "description": "Palette Primary 200",
+                "value": "#8ac6ff",
+                "description": "Palette Primary 200 hsla(209,100%,77%,1)",
                 "type": "color"
             },
             "primary300": {
-                "value": "hsla(209,100%,69%,1)",
-                "description": "Palette Primary 300",
+                "value": "#61b3ff",
+                "description": "Palette Primary 300 hsla(209,100%,69%,1)",
                 "type": "color"
             },
             "primary400": {
-                "value": "hsla(211,100%,63%,1)",
-                "description": "Palette Primary 400",
+                "value": "#429eff",
+                "description": "Palette Primary 400 hsla(211,100%,63%,1)",
                 "type": "color"
             },
             "primary500": {
@@ -127,48 +127,48 @@
                 "type": "color"
             },
             "primary600": {
-                "value": "hsla(217,89%,54%,1)",
-                "description": "Palette Primary 600",
+                "value": "#2171f2",
+                "description": "Palette Primary 600 hsla(217,89%,54%,1)",
                 "type": "color"
             },
             "primary700": {
-                "value": "hsla(217,75%,49%,1)",
-                "description": "Palette Primary 700",
+                "value": "#1f67db",
+                "description": "Palette Primary 700 hsla(217,75%,49%,1)",
                 "type": "color"
             },
             "primary800": {
-                "value": "hsla(217,75%,40%,1)",
-                "description": "Palette Primary 800",
+                "value": "#1954b3",
+                "description": "Palette Primary 800 hsla(217,75%,40%,1)",
                 "type": "color"
             },
             "primary900": {
-                "value": "hsla(218,75%,31%,1)",
-                "description": "Palette Primary 900",
+                "value": "#143f8a",
+                "description": "Palette Primary 900 hsla(218,75%,31%,1)",
                 "type": "color"
             },
             "secondary50": {
-                "value": "hsla(0,0%,98%,1)",
-                "description": "Palette Secondary 50 (auto-generated)",
+                "value": "#fafafa",
+                "description": "Palette Secondary 50 (auto-generated) hsla(0,0%,98%,1)",
                 "type": "color"
             },
             "secondary100": {
-                "value": "hsla(210,8%,95%,1)",
-                "description": "Palette Secondary 100 (auto-generated)",
+                "value": "#f1f2f3",
+                "description": "Palette Secondary 100 (auto-generated) hsla(210,8%,95%,1)",
                 "type": "color"
             },
             "secondary200": {
-                "value": "hsla(225,7%,89%,1)",
-                "description": "Palette Secondary 200 (auto-generated)",
+                "value": "#e1e2e5",
+                "description": "Palette Secondary 200 (auto-generated) hsla(225,7%,89%,1)",
                 "type": "color"
             },
             "secondary300": {
-                "value": "hsla(216,6%,83%,1)",
-                "description": "Palette Secondary 300 (auto-generated)",
+                "value": "#d1d3d6",
+                "description": "Palette Secondary 300 (auto-generated) hsla(216,6%,83%,1)",
                 "type": "color"
             },
             "secondary400": {
-                "value": "hsla(220,6%,72%,1)",
-                "description": "Palette Secondary 400 (auto-generated)",
+                "value": "#b3b6bc",
+                "description": "Palette Secondary 400 (auto-generated) hsla(220,6%,72%,1)",
                 "type": "color"
             },
             "secondary500": {
@@ -177,48 +177,48 @@
                 "type": "color"
             },
             "secondary600": {
-                "value": "hsla(220,6%,48%,1)",
-                "description": "Palette Secondary 600 (auto-generated)",
+                "value": "#737882",
+                "description": "Palette Secondary 600 (auto-generated) hsla(220,6%,48%,1)",
                 "type": "color"
             },
             "secondary700": {
-                "value": "hsla(220,6%,38%,1)",
-                "description": "Palette Secondary 700 (auto-generated)",
+                "value": "#5b5f67",
+                "description": "Palette Secondary 700 (auto-generated) hsla(220,6%,38%,1)",
                 "type": "color"
             },
             "secondary800": {
-                "value": "hsla(218,7%,24%,1)",
-                "description": "Palette Secondary 800 (auto-generated)",
+                "value": "#393c41",
+                "description": "Palette Secondary 800 (auto-generated) hsla(218,7%,24%,1)",
                 "type": "color"
             },
             "secondary900": {
-                "value": "hsla(220,7%,18%,1)",
-                "description": "Palette Secondary 900 (auto-generated)",
+                "value": "#2b2d31",
+                "description": "Palette Secondary 900 (auto-generated) hsla(220,7%,18%,1)",
                 "type": "color"
             },
             "info50": {
-                "value": "hsla(209,100%,95%,1)",
-                "description": "Palette Info 50",
+                "value": "#e5f3ff",
+                "description": "Palette Info 50 hsla(209,100%,95%,1)",
                 "type": "color"
             },
             "info100": {
-                "value": "hsla(210,100%,86%,1)",
-                "description": "Palette Info 100",
+                "value": "#b8dbff",
+                "description": "Palette Info 100 hsla(210,100%,86%,1)",
                 "type": "color"
             },
             "info200": {
-                "value": "hsla(209,100%,77%,1)",
-                "description": "Palette Info 200",
+                "value": "#8ac6ff",
+                "description": "Palette Info 200 hsla(209,100%,77%,1)",
                 "type": "color"
             },
             "info300": {
-                "value": "hsla(209,100%,69%,1)",
-                "description": "Palette Info 300",
+                "value": "#61b3ff",
+                "description": "Palette Info 300 hsla(209,100%,69%,1)",
                 "type": "color"
             },
             "info400": {
-                "value": "hsla(211,100%,63%,1)",
-                "description": "Palette Info 400",
+                "value": "#429eff",
+                "description": "Palette Info 400 hsla(211,100%,63%,1)",
                 "type": "color"
             },
             "info500": {
@@ -227,48 +227,48 @@
                 "type": "color"
             },
             "info600": {
-                "value": "hsla(217,89%,54%,1)",
-                "description": "Palette Info 600",
+                "value": "#2171f2",
+                "description": "Palette Info 600 hsla(217,89%,54%,1)",
                 "type": "color"
             },
             "info700": {
-                "value": "hsla(217,75%,49%,1)",
-                "description": "Palette Info 700",
+                "value": "#1f67db",
+                "description": "Palette Info 700 hsla(217,75%,49%,1)",
                 "type": "color"
             },
             "info800": {
-                "value": "hsla(217,75%,40%,1)",
-                "description": "Palette Info 800",
+                "value": "#1954b3",
+                "description": "Palette Info 800 hsla(217,75%,40%,1)",
                 "type": "color"
             },
             "info900": {
-                "value": "hsla(218,75%,31%,1)",
-                "description": "Palette Info 900",
+                "value": "#143f8a",
+                "description": "Palette Info 900 hsla(218,75%,31%,1)",
                 "type": "color"
             },
             "success50": {
-                "value": "hsla(143,42%,94%,1)",
-                "description": "Palette Success 5",
+                "value": "#e9f6ee",
+                "description": "Palette Success 5 hsla(143,42%,94%,1)",
                 "type": "color"
             },
             "success100": {
-                "value": "hsla(143,43%,88%,1)",
-                "description": "Palette Success 100",
+                "value": "#d3eedd",
+                "description": "Palette Success 100 hsla(143,43%,88%,1)",
                 "type": "color"
             },
             "success200": {
-                "value": "hsla(143,44%,76%,1)",
-                "description": "Palette Success 200",
+                "value": "#a7ddbc",
+                "description": "Palette Success 200 hsla(143,44%,76%,1)",
                 "type": "color"
             },
             "success300": {
-                "value": "hsla(143,43%,64%,1)",
-                "description": "Palette Success 300",
+                "value": "#7ccb9a",
+                "description": "Palette Success 300 hsla(143,43%,64%,1)",
                 "type": "color"
             },
             "success400": {
-                "value": "hsla(143,43%,52%,1)",
-                "description": "Palette Success 400",
+                "value": "#50b978",
+                "description": "Palette Success 400 hsla(143,43%,52%,1)",
                 "type": "color"
             },
             "success500": {
@@ -277,48 +277,48 @@
                 "type": "color"
             },
             "success600": {
-                "value": "hsla(140,71%,32%,1)",
-                "description": "Palette Success 600",
+                "value": "#188c3e",
+                "description": "Palette Success 600 hsla(140,71%,32%,1)",
                 "type": "color"
             },
             "success700": {
-                "value": "hsla(140,71%,28%,1)",
-                "description": "Palette Success 700",
+                "value": "#157a37",
+                "description": "Palette Success 700 hsla(140,71%,28%,1)",
                 "type": "color"
             },
             "success800": {
-                "value": "hsla(140,70%,24%,1)",
-                "description": "Palette Success 800",
+                "value": "#12682f",
+                "description": "Palette Success 800 hsla(140,70%,24%,1)",
                 "type": "color"
             },
             "success900": {
-                "value": "hsla(140,70%,18%,1)",
-                "description": "Palette Success 900",
+                "value": "#0e4e23",
+                "description": "Palette Success 900 hsla(140,70%,18%,1)",
                 "type": "color"
             },
             "warning50": {
-                "value": "hsla(37,100%,96%,1)",
-                "description": "Palette Warning 50",
+                "value": "#fff7eb",
+                "description": "Palette Warning 50 hsla(37,100%,96%,1)",
                 "type": "color"
             },
             "warning100": {
-                "value": "hsla(37,95%,91%,1)",
-                "description": "Palette Warning 100",
+                "value": "#feedd2",
+                "description": "Palette Warning 100 hsla(37,95%,91%,1)",
                 "type": "color"
             },
             "warning200": {
-                "value": "hsla(38,95%,83%,1)",
-                "description": "Palette Warning 200",
+                "value": "#fddfaa",
+                "description": "Palette Warning 200 hsla(38,95%,83%,1)",
                 "type": "color"
             },
             "warning300": {
-                "value": "hsla(37,97%,74%,1)",
-                "description": "Palette Warning 300",
+                "value": "#fdcc7c",
+                "description": "Palette Warning 300 hsla(37,97%,74%,1)",
                 "type": "color"
             },
             "warning400": {
-                "value": "hsla(38,97%,66%,1)",
-                "description": "Palette Warning 400",
+                "value": "#fcbf54",
+                "description": "Palette Warning 400 hsla(38,97%,66%,1)",
                 "type": "color"
             },
             "warning500": {
@@ -327,48 +327,48 @@
                 "type": "color"
             },
             "warning600": {
-                "value": "hsla(34,73%,50%,1)",
-                "description": "Palette Warning 600",
+                "value": "#dd8c22",
+                "description": "Palette Warning 600 hsla(34,73%,50%,1)",
                 "type": "color"
             },
             "warning700": {
-                "value": "hsla(33,73%,45%,1)",
-                "description": "Palette Warning 700",
+                "value": "#c77b1f",
+                "description": "Palette Warning 700 hsla(33,73%,45%,1)",
                 "type": "color"
             },
             "warning800": {
-                "value": "hsla(33,73%,37%,1)",
-                "description": "Palette Warning 800",
+                "value": "#a36519",
+                "description": "Palette Warning 800 hsla(33,73%,37%,1)",
                 "type": "color"
             },
             "warning900": {
-                "value": "hsla(33,73%,29%,1)",
-                "description": "Palette Warning 900",
+                "value": "#804f14",
+                "description": "Palette Warning 900 hsla(33,73%,29%,1)",
                 "type": "color"
             },
             "error50": {
-                "value": "hsla(0,63%,95%,1)",
-                "description": "Palette Error 50",
+                "value": "#faeaea",
+                "description": "Palette Error 50 hsla(0,63%,95%,1)",
                 "type": "color"
             },
             "error100": {
-                "value": "hsla(0,63%,90%,1)",
-                "description": "Palette Error 100",
+                "value": "#f6d5d5",
+                "description": "Palette Error 100 hsla(0,63%,90%,1)",
                 "type": "color"
             },
             "error200": {
-                "value": "hsla(0,63%,79%,1)",
-                "description": "Palette Error 200",
+                "value": "#eba8a8",
+                "description": "Palette Error 200 hsla(0,63%,79%,1)",
                 "type": "color"
             },
             "error300": {
-                "value": "hsla(0,61%,68%,1)",
-                "description": "Palette Error 300",
+                "value": "#df7c7c",
+                "description": "Palette Error 300 hsla(0,61%,68%,1)",
                 "type": "color"
             },
             "error400": {
-                "value": "hsla(0,62%,58%,1)",
-                "description": "Palette Error 40",
+                "value": "#d65151",
+                "description": "Palette Error 40 hsla(0,62%,58%,1)",
                 "type": "color"
             },
             "error500": {
@@ -377,23 +377,23 @@
                 "type": "color"
             },
             "error600": {
-                "value": "hsla(0,76%,40%,1)",
-                "description": "Palette Error 600",
+                "value": "#b41818",
+                "description": "Palette Error 600 hsla(0,76%,40%,1)",
                 "type": "color"
             },
             "error700": {
-                "value": "hsla(0,77%,35%,1)",
-                "description": "Palette Error 700",
+                "value": "#9e1515",
+                "description": "Palette Error 700 hsla(0,77%,35%,1)",
                 "type": "color"
             },
             "error800": {
-                "value": "hsla(0,76%,29%,1)",
-                "description": "Palette Error 800",
+                "value": "#821212",
+                "description": "Palette Error 800 hsla(0,76%,29%,1)",
                 "type": "color"
             },
             "error900": {
-                "value": "hsla(0,76%,23%,1)",
-                "description": "Palette Error 900",
+                "value": "#670e0e",
+                "description": "Palette Error 900 hsla(0,76%,23%,1)",
                 "type": "color"
             }
         },
@@ -1169,73 +1169,73 @@
     "workstation" : {
         "palette": {
             "white": {
-                "value": "hsla(0,0%,100%,1)",
-                "description": "Palette Reference White",
+                "value": "#ffffff",
+                "description": "Palette Reference White (hsla(0,0%,100%,1))",
                 "type": "color"
             },
             "black": {
-                "value": "hsla(0,0%,0%,1)",
-                "description": "Palette Reference Black",
+                "value": "#000000",
+                "description": "Palette Reference Black (hsla(0,0%,0%,1))",
                 "type": "color"
             },
             "neutral": {
-                "value": "hsla(218,6%,61%,1)",
-                "description": "Palette Reference Neutral",
+                "value": "#969aa2",
+                "description": "Palette Reference Neutral (hsla(218,6%,61%,1))",
                 "type": "color"
             },
             "primary": {
-                "value": "hsla(213,100%,58%,1)",
-                "description": "Palette Reference Primary",
+                "value": "#2989ff",
+                "description": "Palette Reference Primary (hsla(213,100%,58%,1))",
                 "type": "color"
             },
             "secondary": {
-                "value": "hsla(218,6%,61%,1)",
-                "description": "Palette Reference Secondary",
+                "value": "#969aa2",
+                "description": "Palette Reference Secondary (hsla(218,6%,61%,1))",
                 "type": "color"
             },
             "info": {
-                "value": "hsla(213,100%,58%,1)",
-                "description": "Palette Reference Info",
+                "value": "#2989ff",
+                "description": "Palette Reference Info (hsla(213,100%,58%,1))",
                 "type": "color"
             },
             "success": {
-                "value": "hsla(145,63%,41%,1)",
-                "description": "Palette Reference Success",
+                "value": "#27aa5e",
+                "description": "Palette Reference Success (hsla(145,63%,41%,1))",
                 "type": "color"
             }, 
             "warning": {
-                "value": "hsla(38,96%,57%,1)",
-                "description": "Palette Reference Warning",
+                "value": "#fbad28",
+                "description": "Palette Reference Warning (hsla(38,96%,57%,1))",
                 "type": "color"
             },
             "error": {
-                "value": "hsla(0,69%,47%,1)",
-                "description": "Palette Reference Error",
+                "value": "#cb2525",
+                "description": "Palette Reference Error (hsla(0,69%,47%,1))",
                 "type": "color"
             },
             "neutral50": {
-                "value": "hsla(0,0%,98%,1)",
-                "description": "Palette Neutral 50 (auto-generated)",
+                "value": "#fafafa",
+                "description": "Palette Neutral 50 (auto-generated) (hsla(0,0%,98%,1))",
                 "type": "color"
             },
             "neutral100": {
-                "value": "hsla(210,8%,95%,1)",
-                "description": "Palette Neutral 100 (auto-generated)",
+                "value": "#f1f2f3",
+                "description": "Palette Neutral 100 (auto-generated) (hsla(210,8%,95%,1))",
                 "type": "color"
             },
             "neutral200": {
-                "value": "hsla(225,7%,89%,1)",
-                "description": "Palette Neutral 200 (auto-generated)",
+                "value": "#e1e2e5",
+                "description": "Palette Neutral 200 (auto-generated) hsla(225,7%,89%,1)",
                 "type": "color"
             },
             "neutral300": {
-                "value": "hsla(216,6%,83%,1)",
-                "description": "Palette Neutral 300 (auto-generated)",
+                "value": "#d1d3d6",
+                "description": "Palette Neutral 300 (auto-generated) hsla(216,6%,83%,1)",
                 "type": "color"
             },
             "neutral400": {
-                "value": "hsla(220,6%,72%,1)",
-                "description": "Palette Neutral 400 (auto-generated)",
+                "value": "#b3b6bc",
+                "description": "Palette Neutral 400 (auto-generated) hsla(220,6%,72%,1)",
                 "type": "color"
             },
             "neutral500": {
@@ -1244,48 +1244,48 @@
                 "type": "color"
             },
             "neutral600": {
-                "value": "hsla(220,6%,48%,1)",
-                "description": "Palette Neutral 600 (auto-generated)",
+                "value": "#737882",
+                "description": "Palette Neutral 600 (auto-generated) hsla(220,6%,48%,1)",
                 "type": "color"
             },
             "neutral700": {
-                "value": "hsla(220,6%,38%,1)",
-                "description": "Palette Neutral 700 (auto-generated)",
+                "value": "#5b5f67",
+                "description": "Palette Neutral 700 (auto-generated) hsla(220,6%,38%,1)",
                 "type": "color"
             },
             "neutral800": {
-                "value": "hsla(218,7%,24%,1)",
-                "description": "Palette Neutral 800 (auto-generated)",
+                "value": "#393c41",
+                "description": "Palette Neutral 800 (auto-generated) hsla(218,7%,24%,1)",
                 "type": "color"
             },
             "neutral900": {
-                "value": "hsla(220,7%,18%,1)",
-                "description": "Palette Neutral 900 (auto-generated)",
+                "value": "#2b2d31",
+                "description": "Palette Neutral 900 (auto-generated) hsla(220,7%,18%,1)",
                 "type": "color"
             },
             "primary50": {
-                "value": "hsla(209,100%,95%,1)",
-                "description": "Palette Primary 50",
+                "value": "#e5f3ff",
+                "description": "Palette Primary 50 hsla(209,100%,95%,1)",
                 "type": "color"
             },
             "primary100": {
-                "value": "hsla(210,100%,86%,1)",
-                "description": "Palette Primary 100",
+                "value": "#b8dbff",
+                "description": "Palette Primary 100 hsla(210,100%,86%,1)",
                 "type": "color"
             },
             "primary200": {
-                "value": "hsla(209,100%,77%,1)",
-                "description": "Palette Primary 200",
+                "value": "#8ac6ff",
+                "description": "Palette Primary 200 hsla(209,100%,77%,1)",
                 "type": "color"
             },
             "primary300": {
-                "value": "hsla(209,100%,69%,1)",
-                "description": "Palette Primary 300",
+                "value": "#61b3ff",
+                "description": "Palette Primary 300 hsla(209,100%,69%,1)",
                 "type": "color"
             },
             "primary400": {
-                "value": "hsla(211,100%,63%,1)",
-                "description": "Palette Primary 400",
+                "value": "#429eff",
+                "description": "Palette Primary 400 hsla(211,100%,63%,1)",
                 "type": "color"
             },
             "primary500": {
@@ -1294,48 +1294,48 @@
                 "type": "color"
             },
             "primary600": {
-                "value": "hsla(217,89%,54%,1)",
-                "description": "Palette Primary 600",
+                "value": "#2171f2",
+                "description": "Palette Primary 600 hsla(217,89%,54%,1)",
                 "type": "color"
             },
             "primary700": {
-                "value": "hsla(217,75%,49%,1)",
-                "description": "Palette Primary 700",
+                "value": "#1f67db",
+                "description": "Palette Primary 700 hsla(217,75%,49%,1)",
                 "type": "color"
             },
             "primary800": {
-                "value": "hsla(217,75%,40%,1)",
-                "description": "Palette Primary 800",
+                "value": "#1954b3",
+                "description": "Palette Primary 800 hsla(217,75%,40%,1)",
                 "type": "color"
             },
             "primary900": {
-                "value": "hsla(218,75%,31%,1)",
-                "description": "Palette Primary 900",
+                "value": "#143f8a",
+                "description": "Palette Primary 900 hsla(218,75%,31%,1)",
                 "type": "color"
             },
             "secondary50": {
-                "value": "hsla(0,0%,98%,1)",
-                "description": "Palette Secondary 50 (auto-generated)",
+                "value": "#fafafa",
+                "description": "Palette Secondary 50 (auto-generated) hsla(0,0%,98%,1)",
                 "type": "color"
             },
             "secondary100": {
-                "value": "hsla(210,8%,95%,1)",
-                "description": "Palette Secondary 100 (auto-generated)",
+                "value": "#f1f2f3",
+                "description": "Palette Secondary 100 (auto-generated) hsla(210,8%,95%,1)",
                 "type": "color"
             },
             "secondary200": {
-                "value": "hsla(225,7%,89%,1)",
-                "description": "Palette Secondary 200 (auto-generated)",
+                "value": "#e1e2e5",
+                "description": "Palette Secondary 200 (auto-generated) hsla(225,7%,89%,1)",
                 "type": "color"
             },
             "secondary300": {
-                "value": "hsla(216,6%,83%,1)",
-                "description": "Palette Secondary 300 (auto-generated)",
+                "value": "#d1d3d6",
+                "description": "Palette Secondary 300 (auto-generated) hsla(216,6%,83%,1)",
                 "type": "color"
             },
             "secondary400": {
-                "value": "hsla(220,6%,72%,1)",
-                "description": "Palette Secondary 400 (auto-generated)",
+                "value": "#b3b6bc",
+                "description": "Palette Secondary 400 (auto-generated) hsla(220,6%,72%,1)",
                 "type": "color"
             },
             "secondary500": {
@@ -1344,48 +1344,48 @@
                 "type": "color"
             },
             "secondary600": {
-                "value": "hsla(220,6%,48%,1)",
-                "description": "Palette Secondary 600 (auto-generated)",
+                "value": "#737882",
+                "description": "Palette Secondary 600 (auto-generated) hsla(220,6%,48%,1)",
                 "type": "color"
             },
             "secondary700": {
-                "value": "hsla(220,6%,38%,1)",
-                "description": "Palette Secondary 700 (auto-generated)",
+                "value": "#5b5f67",
+                "description": "Palette Secondary 700 (auto-generated) hsla(220,6%,38%,1)",
                 "type": "color"
             },
             "secondary800": {
-                "value": "hsla(218,7%,24%,1)",
-                "description": "Palette Secondary 800 (auto-generated)",
+                "value": "#393c41",
+                "description": "Palette Secondary 800 (auto-generated) hsla(218,7%,24%,1)",
                 "type": "color"
             },
             "secondary900": {
-                "value": "hsla(220,7%,18%,1)",
-                "description": "Palette Secondary 900 (auto-generated)",
+                "value": "#2b2d31",
+                "description": "Palette Secondary 900 (auto-generated) hsla(220,7%,18%,1)",
                 "type": "color"
             },
             "info50": {
-                "value": "hsla(209,100%,95%,1)",
-                "description": "Palette Info 50",
+                "value": "#e5f3ff",
+                "description": "Palette Info 50 hsla(209,100%,95%,1)",
                 "type": "color"
             },
             "info100": {
-                "value": "hsla(210,100%,86%,1)",
-                "description": "Palette Info 100",
+                "value": "#b8dbff",
+                "description": "Palette Info 100 hsla(210,100%,86%,1)",
                 "type": "color"
             },
             "info200": {
-                "value": "hsla(209,100%,77%,1)",
-                "description": "Palette Info 200",
+                "value": "#8ac6ff",
+                "description": "Palette Info 200 hsla(209,100%,77%,1)",
                 "type": "color"
             },
             "info300": {
-                "value": "hsla(209,100%,69%,1)",
-                "description": "Palette Info 300",
+                "value": "#61b3ff",
+                "description": "Palette Info 300 hsla(209,100%,69%,1)",
                 "type": "color"
             },
             "info400": {
-                "value": "hsla(211,100%,63%,1)",
-                "description": "Palette Info 400",
+                "value": "#429eff",
+                "description": "Palette Info 400 hsla(211,100%,63%,1)",
                 "type": "color"
             },
             "info500": {
@@ -1394,48 +1394,48 @@
                 "type": "color"
             },
             "info600": {
-                "value": "hsla(217,89%,54%,1)",
-                "description": "Palette Info 600",
+                "value": "#2171f2",
+                "description": "Palette Info 600 hsla(217,89%,54%,1)",
                 "type": "color"
             },
             "info700": {
-                "value": "hsla(217,75%,49%,1)",
-                "description": "Palette Info 700",
+                "value": "#1f67db",
+                "description": "Palette Info 700 hsla(217,75%,49%,1)",
                 "type": "color"
             },
             "info800": {
-                "value": "hsla(217,75%,40%,1)",
-                "description": "Palette Info 800",
+                "value": "#1954b3",
+                "description": "Palette Info 800 hsla(217,75%,40%,1)",
                 "type": "color"
             },
             "info900": {
-                "value": "hsla(218,75%,31%,1)",
-                "description": "Palette Info 900",
+                "value": "#143f8a",
+                "description": "Palette Info 900 hsla(218,75%,31%,1)",
                 "type": "color"
             },
             "success50": {
-                "value": "hsla(143,42%,94%,1)",
-                "description": "Palette Success 5",
+                "value": "#e9f6ee",
+                "description": "Palette Success 5 hsla(143,42%,94%,1)",
                 "type": "color"
             },
             "success100": {
-                "value": "hsla(143,43%,88%,1)",
-                "description": "Palette Success 100",
+                "value": "#d3eedd",
+                "description": "Palette Success 100 hsla(143,43%,88%,1)",
                 "type": "color"
             },
             "success200": {
-                "value": "hsla(143,44%,76%,1)",
-                "description": "Palette Success 200",
+                "value": "#a7ddbc",
+                "description": "Palette Success 200 hsla(143,44%,76%,1)",
                 "type": "color"
             },
             "success300": {
-                "value": "hsla(143,43%,64%,1)",
-                "description": "Palette Success 300",
+                "value": "#7ccb9a",
+                "description": "Palette Success 300 hsla(143,43%,64%,1)",
                 "type": "color"
             },
             "success400": {
-                "value": "hsla(143,43%,52%,1)",
-                "description": "Palette Success 400",
+                "value": "#50b978",
+                "description": "Palette Success 400 hsla(143,43%,52%,1)",
                 "type": "color"
             },
             "success500": {
@@ -1444,48 +1444,48 @@
                 "type": "color"
             },
             "success600": {
-                "value": "hsla(140,71%,32%,1)",
-                "description": "Palette Success 600",
+                "value": "#188c3e",
+                "description": "Palette Success 600 hsla(140,71%,32%,1)",
                 "type": "color"
             },
             "success700": {
-                "value": "hsla(140,71%,28%,1)",
-                "description": "Palette Success 700",
+                "value": "#157a37",
+                "description": "Palette Success 700 hsla(140,71%,28%,1)",
                 "type": "color"
             },
             "success800": {
-                "value": "hsla(140,70%,24%,1)",
-                "description": "Palette Success 800",
+                "value": "#12682f",
+                "description": "Palette Success 800 hsla(140,70%,24%,1)",
                 "type": "color"
             },
             "success900": {
-                "value": "hsla(140,70%,18%,1)",
-                "description": "Palette Success 900",
+                "value": "#0e4e23",
+                "description": "Palette Success 900 hsla(140,70%,18%,1)",
                 "type": "color"
             },
             "warning50": {
-                "value": "hsla(37,100%,96%,1)",
-                "description": "Palette Warning 50",
+                "value": "#fff7eb",
+                "description": "Palette Warning 50 hsla(37,100%,96%,1)",
                 "type": "color"
             },
             "warning100": {
-                "value": "hsla(37,95%,91%,1)",
-                "description": "Palette Warning 100",
+                "value": "#feedd2",
+                "description": "Palette Warning 100 hsla(37,95%,91%,1)",
                 "type": "color"
             },
             "warning200": {
-                "value": "hsla(38,95%,83%,1)",
-                "description": "Palette Warning 200",
+                "value": "#fddfaa",
+                "description": "Palette Warning 200 hsla(38,95%,83%,1)",
                 "type": "color"
             },
             "warning300": {
-                "value": "hsla(37,97%,74%,1)",
-                "description": "Palette Warning 300",
+                "value": "#fdcc7c",
+                "description": "Palette Warning 300 hsla(37,97%,74%,1)",
                 "type": "color"
             },
             "warning400": {
-                "value": "hsla(38,97%,66%,1)",
-                "description": "Palette Warning 400",
+                "value": "#fcbf54",
+                "description": "Palette Warning 400 hsla(38,97%,66%,1)",
                 "type": "color"
             },
             "warning500": {
@@ -1494,48 +1494,48 @@
                 "type": "color"
             },
             "warning600": {
-                "value": "hsla(34,73%,50%,1)",
-                "description": "Palette Warning 600",
+                "value": "#dd8c22",
+                "description": "Palette Warning 600 hsla(34,73%,50%,1)",
                 "type": "color"
             },
             "warning700": {
-                "value": "hsla(33,73%,45%,1)",
-                "description": "Palette Warning 700",
+                "value": "#c77b1f",
+                "description": "Palette Warning 700 hsla(33,73%,45%,1)",
                 "type": "color"
             },
             "warning800": {
-                "value": "hsla(33,73%,37%,1)",
-                "description": "Palette Warning 800",
+                "value": "#a36519",
+                "description": "Palette Warning 800 hsla(33,73%,37%,1)",
                 "type": "color"
             },
             "warning900": {
-                "value": "hsla(33,73%,29%,1)",
-                "description": "Palette Warning 900",
+                "value": "#804f14",
+                "description": "Palette Warning 900 hsla(33,73%,29%,1)",
                 "type": "color"
             },
             "error50": {
-                "value": "hsla(0,63%,95%,1)",
-                "description": "Palette Error 50",
+                "value": "#faeaea",
+                "description": "Palette Error 50 hsla(0,63%,95%,1)",
                 "type": "color"
             },
             "error100": {
-                "value": "hsla(0,63%,90%,1)",
-                "description": "Palette Error 100",
+                "value": "#f6d5d5",
+                "description": "Palette Error 100 hsla(0,63%,90%,1)",
                 "type": "color"
             },
             "error200": {
-                "value": "hsla(0,63%,79%,1)",
-                "description": "Palette Error 200",
+                "value": "#eba8a8",
+                "description": "Palette Error 200 hsla(0,63%,79%,1)",
                 "type": "color"
             },
             "error300": {
-                "value": "hsla(0,61%,68%,1)",
-                "description": "Palette Error 300",
+                "value": "#df7c7c",
+                "description": "Palette Error 300 hsla(0,61%,68%,1)",
                 "type": "color"
             },
             "error400": {
-                "value": "hsla(0,62%,58%,1)",
-                "description": "Palette Error 40",
+                "value": "#d65151",
+                "description": "Palette Error 40 hsla(0,62%,58%,1)",
                 "type": "color"
             },
             "error500": {
@@ -1544,23 +1544,23 @@
                 "type": "color"
             },
             "error600": {
-                "value": "hsla(0,76%,40%,1)",
-                "description": "Palette Error 600",
+                "value": "#b41818",
+                "description": "Palette Error 600 hsla(0,76%,40%,1)",
                 "type": "color"
             },
             "error700": {
-                "value": "hsla(0,77%,35%,1)",
-                "description": "Palette Error 700",
+                "value": "#9e1515",
+                "description": "Palette Error 700 hsla(0,77%,35%,1)",
                 "type": "color"
             },
             "error800": {
-                "value": "hsla(0,76%,29%,1)",
-                "description": "Palette Error 800",
+                "value": "#821212",
+                "description": "Palette Error 800 hsla(0,76%,29%,1)",
                 "type": "color"
             },
             "error900": {
-                "value": "hsla(0,76%,23%,1)",
-                "description": "Palette Error 900",
+                "value": "#670e0e",
+                "description": "Palette Error 900 hsla(0,76%,23%,1)",
                 "type": "color"
             }
         },
