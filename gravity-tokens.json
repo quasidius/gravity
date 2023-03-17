@@ -12,7 +12,7 @@
                 "type": "color"
             },
             "neutral": {
-                "value": "#797D81",
+                "value": "#787C80",
                 "description": "Palette Reference Neutral (hsla(218,6%,61%,1))",
                 "type": "color"
             },
@@ -47,27 +47,27 @@
                 "type": "color"
             },
             "neutral50": {
-                "value": "#F2F2F2",
+                "value": "#ffffff",
                 "description": "Palette Neutral 50 (auto-generated) (hsla(0,0%,98%,1))",
                 "type": "color"
             },
             "neutral100": {
-                "value": "#DADBDC",
+                "value": "#F5F5F5",
                 "description": "Palette Neutral 100 (auto-generated) (hsla(210,8%,95%,1))",
                 "type": "color"
             },
             "neutral200": {
-                "value": "#C1C3C5",
+                "value": "#E9E9EA",
                 "description": "Palette Neutral 200 (auto-generated) hsla(225,7%,89%,1)",
                 "type": "color"
             },
             "neutral300": {
-                "value": "#A9ACAE",
+                "value": "#C9CACD",
                 "description": "Palette Neutral 300 (auto-generated) hsla(216,6%,83%,1)",
                 "type": "color"
             },
             "neutral400": {
-                "value": "#919498",
+                "value": "#93959B",
                 "description": "Palette Neutral 400 (auto-generated) hsla(220,6%,72%,1)",
                 "type": "color"
             },
@@ -77,22 +77,22 @@
                 "type": "color"
             },
             "neutral600": {
-                "value": "#6D7174",
+                "value": "#5F6467",
                 "description": "Palette Neutral 600 (auto-generated) hsla(220,6%,48%,1)",
                 "type": "color"
             },
             "neutral700": {
-                "value": "#616467",
+                "value": "#4B5054",
                 "description": "Palette Neutral 700 (auto-generated) hsla(220,6%,38%,1)",
                 "type": "color"
             },
             "neutral800": {
-                "value": "#55585A",
+                "value": "#383E42",
                 "description": "Palette Neutral 800 (auto-generated) hsla(218,7%,24%,1)",
                 "type": "color"
             },
             "neutral900": {
-                "value": "#494B4D",
+                "value": "#292D30",
                 "description": "Palette Neutral 900 (auto-generated) hsla(220,7%,18%,1)",
                 "type": "color"
             },
@@ -410,12 +410,12 @@
                     "type": "color"
                 },
                 "moderate": {
-                    "value": "{palette.neutral200}",
+                    "value": "{palette.neutral300}",
                     "description": "Palette Neutral 200",
                     "type": "color"
                 },
                 "subtle": {
-                    "value": "{palette.neutral50}",
+                    "value": "{palette.neutral100}",
                     "description": "Palette Neutral 50",
                     "type": "color"
                 },
