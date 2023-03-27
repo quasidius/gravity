@@ -172,7 +172,7 @@
                 "type": "color"
             },
             "secondary500": {
-                "value": "{palette.neutral}",
+                "value": "{palette.secondary}",
                 "description": "Palette Secondary 500",
                 "type": "color"
             },
