@@ -197,27 +197,27 @@
                 "type": "color"
             },
             "info50": {
-                "value": "#E8EFF8",
+                "value": "#E6EDF5",
                 "description": "Palette Info 50 hsla(209,100%,95%,1)",
                 "type": "color"
             },
             "info100": {
-                "value": "#C8DBF3",
+                "value": "#C5D7EC",
                 "description": "Palette Info 100 hsla(210,100%,86%,1)",
                 "type": "color"
             },
             "info200": {
-                "value": "#A5C7F1",
+                "value": "#A0C0E6",
                 "description": "Palette Info 200 hsla(209,100%,77%,1)",
                 "type": "color"
             },
             "info300": {
-                "value": "#7FB3F3",
+                "value": "#79A9E3",
                 "description": "Palette Info 300 hsla(209,100%,69%,1)",
                 "type": "color"
             },
             "info400": {
-                "value": "#569EF7",
+                "value": "#4F92E2",
                 "description": "Palette Info 400 hsla(211,100%,63%,1)",
                 "type": "color"
             },
@@ -227,22 +227,22 @@
                 "type": "color"
             },
             "info600": {
-                "value": "#2076E0",
+                "value": "#1A69C9",
                 "description": "Palette Info 600 hsla(217,89%,54%,1)",
                 "type": "color"
             },
             "info700": {
-                "value": "#1863C0",
+                "value": "#1459AC",
                 "description": "Palette Info 700 hsla(217,75%,49%,1)",
                 "type": "color"
             },
             "info800": {
-                "value": "#12519E",
+                "value": "#0E488E",
                 "description": "Palette Info 800 hsla(217,75%,40%,1)",
                 "type": "color"
             },
             "info900": {
-                "value": "#0C3E7C",
+                "value": "#093870",
                 "description": "Palette Info 900 hsla(218,75%,31%,1)",
                 "type": "color"
             },
