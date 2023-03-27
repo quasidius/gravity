@@ -17,7 +17,7 @@
                 "type": "color"
             },
             "primary": {
-                "value": "#2989ff",
+                "value": "#227AE5",
                 "description": "Palette Reference Primary (hsla(213,100%,58%,1))",
                 "type": "color"
             },
@@ -27,7 +27,7 @@
                 "type": "color"
             },
             "info": {
-                "value": "#2989ff",
+                "value": "#227AE5",
                 "description": "Palette Reference Info (hsla(213,100%,58%,1))",
                 "type": "color"
             },
@@ -97,27 +97,27 @@
                 "type": "color"
             },
             "primary50": {
-                "value": "#e5f3ff",
+                "value": "#E6EDF5",
                 "description": "Palette Primary 50 hsla(209,100%,95%,1)",
                 "type": "color"
             },
             "primary100": {
-                "value": "#b8dbff",
+                "value": "#C5D7EC",
                 "description": "Palette Primary 100 hsla(210,100%,86%,1)",
                 "type": "color"
             },
             "primary200": {
-                "value": "#8ac6ff",
+                "value": "#A0C0E6",
                 "description": "Palette Primary 200 hsla(209,100%,77%,1)",
                 "type": "color"
             },
             "primary300": {
-                "value": "#61b3ff",
+                "value": "#79A9E3",
                 "description": "Palette Primary 300 hsla(209,100%,69%,1)",
                 "type": "color"
             },
             "primary400": {
-                "value": "#429eff",
+                "value": "#4F92E2",
                 "description": "Palette Primary 400 hsla(211,100%,63%,1)",
                 "type": "color"
             },
@@ -127,22 +127,22 @@
                 "type": "color"
             },
             "primary600": {
-                "value": "#2171f2",
+                "value": "#1A69C9",
                 "description": "Palette Primary 600 hsla(217,89%,54%,1)",
                 "type": "color"
             },
             "primary700": {
-                "value": "#1f67db",
+                "value": "#1459AC",
                 "description": "Palette Primary 700 hsla(217,75%,49%,1)",
                 "type": "color"
             },
             "primary800": {
-                "value": "#1954b3",
+                "value": "#0E488E",
                 "description": "Palette Primary 800 hsla(217,75%,40%,1)",
                 "type": "color"
             },
             "primary900": {
-                "value": "#143f8a",
+                "value": "#093870",
                 "description": "Palette Primary 900 hsla(218,75%,31%,1)",
                 "type": "color"
             },
@@ -197,27 +197,27 @@
                 "type": "color"
             },
             "info50": {
-                "value": "#e5f3ff",
+                "value": "#E8EFF8",
                 "description": "Palette Info 50 hsla(209,100%,95%,1)",
                 "type": "color"
             },
             "info100": {
-                "value": "#b8dbff",
+                "value": "#C8DBF3",
                 "description": "Palette Info 100 hsla(210,100%,86%,1)",
                 "type": "color"
             },
             "info200": {
-                "value": "#8ac6ff",
+                "value": "#A5C7F1",
                 "description": "Palette Info 200 hsla(209,100%,77%,1)",
                 "type": "color"
             },
             "info300": {
-                "value": "#61b3ff",
+                "value": "#7FB3F3",
                 "description": "Palette Info 300 hsla(209,100%,69%,1)",
                 "type": "color"
             },
             "info400": {
-                "value": "#429eff",
+                "value": "#569EF7",
                 "description": "Palette Info 400 hsla(211,100%,63%,1)",
                 "type": "color"
             },
@@ -227,22 +227,22 @@
                 "type": "color"
             },
             "info600": {
-                "value": "#2171f2",
+                "value": "#2076E0",
                 "description": "Palette Info 600 hsla(217,89%,54%,1)",
                 "type": "color"
             },
             "info700": {
-                "value": "#1f67db",
+                "value": "#1863C0",
                 "description": "Palette Info 700 hsla(217,75%,49%,1)",
                 "type": "color"
             },
             "info800": {
-                "value": "#1954b3",
+                "value": "#12519E",
                 "description": "Palette Info 800 hsla(217,75%,40%,1)",
                 "type": "color"
             },
             "info900": {
-                "value": "#143f8a",
+                "value": "#0C3E7C",
                 "description": "Palette Info 900 hsla(218,75%,31%,1)",
                 "type": "color"
             },
