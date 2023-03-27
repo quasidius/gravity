@@ -22,7 +22,7 @@
                 "type": "color"
             },
             "secondary": {
-                "value": "#969aa2",
+                "value": "#787C80",
                 "description": "Palette Reference Secondary (hsla(218,6%,61%,1))",
                 "type": "color"
             },
@@ -147,52 +147,52 @@
                 "type": "color"
             },
             "secondary50": {
-                "value": "#fafafa",
-                "description": "Palette Secondary 50 (auto-generated) hsla(0,0%,98%,1)",
+                "value": "#ffffff",
+                "description": "Palette Secondary 50 (auto-generated) (hsla(0,0%,98%,1))",
                 "type": "color"
             },
             "secondary100": {
-                "value": "#f1f2f3",
-                "description": "Palette Secondary 100 (auto-generated) hsla(210,8%,95%,1)",
+                "value": "#F5F5F5",
+                "description": "Palette Secondary 100 (auto-generated) (hsla(210,8%,95%,1))",
                 "type": "color"
             },
             "secondary200": {
-                "value": "#e1e2e5",
+                "value": "#E9E9EA",
                 "description": "Palette Secondary 200 (auto-generated) hsla(225,7%,89%,1)",
                 "type": "color"
             },
             "secondary300": {
-                "value": "#d1d3d6",
+                "value": "#C9CACD",
                 "description": "Palette Secondary 300 (auto-generated) hsla(216,6%,83%,1)",
                 "type": "color"
             },
             "secondary400": {
-                "value": "#b3b6bc",
+                "value": "#93959B",
                 "description": "Palette Secondary 400 (auto-generated) hsla(220,6%,72%,1)",
                 "type": "color"
             },
             "secondary500": {
-                "value": "{palette.secondary}",
+                "value": "{palette.neutral}",
                 "description": "Palette Secondary 500",
                 "type": "color"
             },
             "secondary600": {
-                "value": "#737882",
+                "value": "#5F6467",
                 "description": "Palette Secondary 600 (auto-generated) hsla(220,6%,48%,1)",
                 "type": "color"
             },
             "secondary700": {
-                "value": "#5b5f67",
+                "value": "#4B5054",
                 "description": "Palette Secondary 700 (auto-generated) hsla(220,6%,38%,1)",
                 "type": "color"
             },
             "secondary800": {
-                "value": "#393c41",
+                "value": "#383E42",
                 "description": "Palette Secondary 800 (auto-generated) hsla(218,7%,24%,1)",
                 "type": "color"
             },
             "secondary900": {
-                "value": "#2b2d31",
+                "value": "#292D30",
                 "description": "Palette Secondary 900 (auto-generated) hsla(220,7%,18%,1)",
                 "type": "color"
             },
