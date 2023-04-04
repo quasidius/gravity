@@ -577,8 +577,8 @@
                 "type": "color"
             },
             "subtle": {
-                "value": "{palette.warning400}",
-                "description": "Palette Warning 400",
+                "value": "{palette.warning200}",
+                "description": "Palette Warning 200",
                 "type": "color"
             },
             "minimal": {
