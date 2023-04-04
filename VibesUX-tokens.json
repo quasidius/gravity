@@ -437,18 +437,18 @@
                 "type": "color"
             },
             "moderate": {
-                "value": "{palette.secondary500}",
-                "description": "Palette secondary 500",
+                "value": "{palette.secondary600}",
+                "description": "Palette secondary 600",
                 "type": "color"
             },
             "subtle": {
-                "value": "{palette.secondary300}",
-                "description": "Palette secondary 300",
+                "value": "{palette.secondary400}",
+                "description": "Palette secondary 400",
                 "type": "color"
             },
             "minimal": {
-                "value": "{palette.secondary50}",
-                "description": "Palette secondary 50",
+                "value": "{palette.secondary100}",
+                "description": "Palette secondary 100",
                 "type": "color"
             }
         },
