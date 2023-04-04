@@ -427,7 +427,7 @@
         },
         "content": {
             "strong": {
-                "value": "{palette.secondar900}",
+                "value": "{palette.secondary900}",
                 "description": "Palette Neutral 900",
                 "type": "color"
             },
