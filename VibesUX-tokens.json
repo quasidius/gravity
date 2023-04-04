@@ -400,8 +400,8 @@
     "color": {
         "surface": {
             "strong": {
-                "value": "{palette.neutral600}",
-                "description": "Palette Neutral 600",
+                "value": "{palette.secondary900}",
+                "description": "Palette Secondary 900",
                 "type": "color"
             },
             "bold": {
@@ -447,8 +447,8 @@
                 "type": "color"
             },
             "minimal": {
-                "value": "{palette.secondary100}",
-                "description": "Palette secondary 100",
+                "value": "{palette.secondary50}",
+                "description": "Palette secondary 50",
                 "type": "color"
             }
         },
