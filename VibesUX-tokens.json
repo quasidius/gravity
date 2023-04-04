@@ -432,7 +432,7 @@
                 "type": "color"
             },
             "bold": {
-                "value": "{palette.secondary8700}",
+                "value": "{palette.secondary800}",
                 "description": "Palette secondary 800",
                 "type": "color"
             },
