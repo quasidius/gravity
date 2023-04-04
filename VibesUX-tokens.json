@@ -400,23 +400,23 @@
     "color": {
         "surface": {
             "strong": {
-                "value": "{palette.neutral800}",
-                "description": "Palette Neutral 800",
+                "value": "{palette.secondary800}",
+                "description": "Palette secondary 800",
                 "type": "color"
             },
             "bold": {
-                "value": "{palette.neutral500}",
-                "description": "Palette Neutral 500",
+                "value": "{palette.secondary500}",
+                "description": "Palette secondary 500",
                 "type": "color"
             },
             "moderate": {
-                "value": "{palette.neutral200}",
-                "description": "Palette Neutral 200",
+                "value": "{palette.secondary200}",
+                "description": "Palette secondary200",
                 "type": "color"
             },
             "subtle": {
-                "value": "{palette.neutral100}",
-                "description": "Palette Neutral 50",
+                "value": "{palette.secondary100}",
+                "description": "Palette secondary 100",
                 "type": "color"
             },
             "minimal": {
