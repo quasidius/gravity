@@ -415,8 +415,8 @@
                 "type": "color"
             },
             "subtle": {
-                "value": "{palette.neutral50}",
-                "description": "Palette Neutral 50",
+                "value": "{palette.neutral100}",
+                "description": "Palette Neutral 100",
                 "type": "color"
             },
             "minimal": {
