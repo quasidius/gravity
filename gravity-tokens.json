@@ -523,8 +523,8 @@
                     "type": "color"
                 },
                 "subtle": {
-                    "value": "{palette.info400}",
-                    "description": "Palette Info 400",
+                    "value": "{palette.info100}",
+                    "description": "Palette Info 100",
                     "type": "color"
                 },
                 "minimal": {
@@ -550,8 +550,8 @@
                     "type": "color"
                 },
                 "subtle": {
-                    "value": "{palette.success400}",
-                    "description": "Palette Success 400",
+                    "value": "{palette.success100}",
+                    "description": "Palette Success 100",
                     "type": "color"
                 },
                 "minimal": {
@@ -577,8 +577,8 @@
                     "type": "color"
                 },
                 "subtle": {
-                    "value": "{palette.warning400}",
-                    "description": "Palette Warning 400",
+                    "value": "{palette.warning100}",
+                    "description": "Palette Warning 100",
                     "type": "color"
                 },
                 "minimal": {
@@ -604,14 +604,110 @@
                     "type": "color"
                 },
                 "subtle": {
-                    "value": "{palette.error400}",
-                    "description": "Palette Error 400",
+                    "value": "{palette.error100}",
+                    "description": "Palette Error 100",
                     "type": "color"
                 },
                 "minimal": {
                     "value": "{palette.error50}",
                     "description": "Palette Error 50",
                     "type": "color"
+                }
+            },
+            "dataviz": {
+                "nominal": {
+                    "1": {
+                        "value": "#6BACCC",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "2": {
+                        "value": "#532864",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "3": {
+                        "value": "#6786B0",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "4": {
+                        "value": "#2A4A96",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "5": {
+                        "value": "#CD5B1D",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "6": {
+                        "value": "#00305C",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    }
+                },
+                "ordinal": {
+                    "a1": {
+                        "value": "#00305C",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "a2": {
+                        "value": "#2B6792",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "a3": {
+                        "value": "#4483AA",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "a4": {
+                        "value": "#6BACCC",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "a5": {
+                        "value": "#A5CDE0",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "a6": {
+                        "value": "#DAEAF3",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "b1": {
+                        "value": "#532864",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "b2": {
+                        "value": "#7E4E91",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "b3": {
+                        "value": "#A47FB2",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "b4": {
+                        "value": "#A993B1",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "b5": {
+                        "value": "#CABDCF",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "b6": {
+                        "value": "#ECE7EE",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    }
                 }
             }
         },
@@ -1690,8 +1786,8 @@
                     "type": "color"
                 },
                 "subtle": {
-                    "value": "{palette.info400}",
-                    "description": "Palette Info 400",
+                    "value": "{palette.info100}",
+                    "description": "Palette Info 100",
                     "type": "color"
                 },
                 "minimal": {
@@ -1717,8 +1813,8 @@
                     "type": "color"
                 },
                 "subtle": {
-                    "value": "{palette.success400}",
-                    "description": "Palette Success 400",
+                    "value": "{palette.success100}",
+                    "description": "Palette Success 100",
                     "type": "color"
                 },
                 "minimal": {
@@ -1744,8 +1840,8 @@
                     "type": "color"
                 },
                 "subtle": {
-                    "value": "{palette.warning400}",
-                    "description": "Palette Warning 400",
+                    "value": "{palette.warning100}",
+                    "description": "Palette Warning 100",
                     "type": "color"
                 },
                 "minimal": {
@@ -1772,7 +1868,7 @@
                 },
                 "subtle": {
                     "value": "{palette.error400}",
-                    "description": "Palette Error 400",
+                    "description": "Palette Error 100",
                     "type": "color"
                 },
                 "minimal": {
