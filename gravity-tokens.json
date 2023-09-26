@@ -46,6 +46,11 @@
                 "description": "Palette Reference Error (hsla(0,69%,47%,1))",
                 "type": "color"
             },
+            "brand": {
+                "value": "#ef7b10",
+                "description": "Palette Brand",
+                "type": "color"
+            },
             "neutral50": {
                 "value": "#ffffff",
                 "description": "Palette Neutral 50 (auto-generated) (hsla(0,0%,98%,1))",
@@ -1309,6 +1314,11 @@
                 "description": "Palette Reference Error (hsla(0,69%,47%,1))",
                 "type": "color"
             },
+            "brand": {
+                "value": "#ef7b10",
+                "description": "Palette Brand",
+                "type": "color"
+            },
             "neutral50": {
                 "value": "#ffffff",
                 "description": "Palette Neutral 50 (auto-generated) (hsla(0,0%,98%,1))",
@@ -1875,6 +1885,102 @@
                     "value": "{palette.error50}",
                     "description": "Palette Error 50",
                     "type": "color"
+                }
+            },
+            "dataviz": {
+                "nominal": {
+                    "1": {
+                        "value": "#6BACCC",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "2": {
+                        "value": "#532864",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "3": {
+                        "value": "#6786B0",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "4": {
+                        "value": "#2A4A96",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "5": {
+                        "value": "#CD5B1D",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "6": {
+                        "value": "#00305C",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    }
+                },
+                "ordinal": {
+                    "a1": {
+                        "value": "#00305C",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "a2": {
+                        "value": "#2B6792",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "a3": {
+                        "value": "#4483AA",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "a4": {
+                        "value": "#6BACCC",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "a5": {
+                        "value": "#A5CDE0",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "a6": {
+                        "value": "#DAEAF3",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "b1": {
+                        "value": "#532864",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "b2": {
+                        "value": "#7E4E91",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "b3": {
+                        "value": "#A47FB2",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "b4": {
+                        "value": "#A993B1",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "b5": {
+                        "value": "#CABDCF",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    },
+                    "b6": {
+                        "value": "#ECE7EE",
+                        "description": "Palette Error 50",
+                        "type": "color"
+                    }
                 }
             }
         },
